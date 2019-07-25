@@ -1,0 +1,2530 @@
+2019-07-25 13:36:44,100 INFO 
+Start training...
+2019-07-25 13:36:48,515 INFO 
+| epoch   1 |    20/  142 batches | lr 1.00 | ms/batch 220.74 | loss 1149.895 | reward -1.01 | MSE 0.977 |
+2019-07-25 13:36:52,820 INFO 
+| epoch   1 |    40/  142 batches | lr 1.00 | ms/batch 215.25 | loss 1027.156 | reward -0.934 | MSE 0.913 |
+2019-07-25 13:36:57,225 INFO 
+| epoch   1 |    60/  142 batches | lr 1.00 | ms/batch 220.22 | loss 998.265 | reward -0.921 | MSE 0.905 |
+2019-07-25 13:37:02,635 INFO 
+| epoch   1 |    80/  142 batches | lr 1.00 | ms/batch 270.49 | loss 948.051 | reward -0.87 | MSE 0.855 |
+2019-07-25 13:37:03,631 INFO 
+| epoch   1 | Validation |loss 291.736 | reward -0.97516 | MSE 0.97516 | corr -0.00000 |
+2019-07-25 13:37:03,649 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:37:10,168 INFO 
+| epoch   1 |   100/  142 batches | lr 1.00 | ms/batch 325.94 | loss 1064.148 | reward -0.975 | MSE 0.957 |
+2019-07-25 13:37:14,579 INFO 
+| epoch   1 |   120/  142 batches | lr 1.00 | ms/batch 220.51 | loss 1108.786 | reward -0.979 | MSE 0.957 |
+2019-07-25 13:37:18,993 INFO 
+| epoch   1 |   140/  142 batches | lr 1.00 | ms/batch 220.72 | loss 1030.264 | reward -0.902 | MSE 0.882 |
+2019-07-25 13:37:23,401 INFO 
+| epoch   2 |    18/  142 batches | lr 1.00 | ms/batch 198.38 | loss 1022.276 | reward -0.89 | MSE 0.870 |
+2019-07-25 13:37:23,869 INFO 
+| epoch   2 | Validation |loss 290.229 | reward -0.97023 | MSE 0.97013 | corr 0.05030 |
+2019-07-25 13:37:23,892 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:37:28,302 INFO 
+| epoch   2 |    38/  142 batches | lr 1.00 | ms/batch 220.51 | loss 1158.933 | reward -0.987 | MSE 0.964 |
+2019-07-25 13:37:32,716 INFO 
+| epoch   2 |    58/  142 batches | lr 1.00 | ms/batch 220.67 | loss 957.768 | reward -0.798 | MSE 0.778 |
+2019-07-25 13:37:37,021 INFO 
+| epoch   2 |    78/  142 batches | lr 1.00 | ms/batch 215.26 | loss 1056.550 | reward -0.926 | MSE 0.904 |
+2019-07-25 13:37:42,619 INFO 
+| epoch   2 |    98/  142 batches | lr 1.00 | ms/batch 279.89 | loss 978.420 | reward -0.814 | MSE 0.789 |
+2019-07-25 13:37:43,620 INFO 
+| epoch   2 | Validation |loss 264.638 | reward -0.88616 | MSE 0.88462 | corr 0.16364 |
+2019-07-25 13:37:43,644 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:37:50,136 INFO 
+| epoch   2 |   118/  142 batches | lr 1.00 | ms/batch 324.60 | loss 1141.573 | reward -0.945 | MSE 0.920 |
+2019-07-25 13:37:54,542 INFO 
+| epoch   2 |   138/  142 batches | lr 1.00 | ms/batch 220.28 | loss 1024.639 | reward -0.846 | MSE 0.821 |
+2019-07-25 13:37:59,019 INFO 
+| epoch   3 |    16/  142 batches | lr 1.00 | ms/batch 178.77 | loss 931.734 | reward -0.797 | MSE 0.778 |
+2019-07-25 13:38:03,492 INFO 
+| epoch   3 |    36/  142 batches | lr 1.00 | ms/batch 223.65 | loss 1155.180 | reward -0.979 | MSE 0.956 |
+2019-07-25 13:38:03,952 INFO 
+| epoch   3 | Validation |loss 253.015 | reward -0.8529 | MSE 0.84585 | corr 0.27187 |
+2019-07-25 13:38:03,974 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:38:08,379 INFO 
+| epoch   3 |    56/  142 batches | lr 1.00 | ms/batch 220.20 | loss 1034.237 | reward -0.847 | MSE 0.824 |
+2019-07-25 13:38:12,787 INFO 
+| epoch   3 |    76/  142 batches | lr 1.00 | ms/batch 220.42 | loss 972.438 | reward -0.798 | MSE 0.777 |
+2019-07-25 13:38:17,193 INFO 
+| epoch   3 |    96/  142 batches | lr 1.00 | ms/batch 220.27 | loss 1099.102 | reward -0.898 | MSE 0.874 |
+2019-07-25 13:38:21,594 INFO 
+| epoch   3 |   116/  142 batches | lr 1.00 | ms/batch 220.06 | loss 1011.009 | reward -0.795 | MSE 0.770 |
+2019-07-25 13:38:22,054 INFO 
+| epoch   3 | Validation |loss 256.063 | reward -0.86274 | MSE 0.85595 | corr 0.29797 |
+2019-07-25 13:38:22,079 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:38:26,379 INFO 
+| epoch   3 |   136/  142 batches | lr 1.00 | ms/batch 214.99 | loss 1054.830 | reward -0.856 | MSE 0.829 |
+2019-07-25 13:38:30,781 INFO 
+| epoch   4 |    14/  142 batches | lr 1.00 | ms/batch 154.11 | loss 661.227 | reward -0.513 | MSE 0.494 |
+2019-07-25 13:38:35,178 INFO 
+| epoch   4 |    34/  142 batches | lr 1.00 | ms/batch 219.84 | loss 1058.291 | reward -0.864 | MSE 0.836 |
+2019-07-25 13:38:39,484 INFO 
+| epoch   4 |    54/  142 batches | lr 1.00 | ms/batch 215.28 | loss 961.415 | reward -0.796 | MSE 0.770 |
+2019-07-25 13:38:39,945 INFO 
+| epoch   4 | Validation |loss 247.156 | reward -0.84448 | MSE 0.82629 | corr 0.35649 |
+2019-07-25 13:38:39,967 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:38:44,372 INFO 
+| epoch   4 |    74/  142 batches | lr 1.00 | ms/batch 220.23 | loss 974.110 | reward -0.776 | MSE 0.753 |
+2019-07-25 13:38:48,797 INFO 
+| epoch   4 |    94/  142 batches | lr 1.00 | ms/batch 221.24 | loss 1107.298 | reward -0.89 | MSE 0.864 |
+2019-07-25 13:38:53,218 INFO 
+| epoch   4 |   114/  142 batches | lr 1.00 | ms/batch 221.02 | loss 1167.705 | reward -0.943 | MSE 0.915 |
+2019-07-25 13:38:57,624 INFO 
+| epoch   4 |   134/  142 batches | lr 1.00 | ms/batch 220.30 | loss 1031.197 | reward -0.83 | MSE 0.806 |
+2019-07-25 13:38:58,088 INFO 
+| epoch   4 | Validation |loss 251.378 | reward -0.85063 | MSE 0.84031 | corr 0.33337 |
+2019-07-25 13:39:02,391 INFO 
+| epoch   5 |    12/  142 batches | lr 1.00 | ms/batch 127.05 | loss 578.850 | reward -0.479 | MSE 0.463 |
+2019-07-25 13:39:06,814 INFO 
+| epoch   5 |    32/  142 batches | lr 1.00 | ms/batch 221.13 | loss 1037.482 | reward -0.804 | MSE 0.777 |
+2019-07-25 13:39:11,221 INFO 
+| epoch   5 |    52/  142 batches | lr 1.00 | ms/batch 220.34 | loss 1179.202 | reward -0.974 | MSE 0.949 |
+2019-07-25 13:39:15,628 INFO 
+| epoch   5 |    72/  142 batches | lr 1.00 | ms/batch 220.37 | loss 1125.896 | reward -0.891 | MSE 0.863 |
+2019-07-25 13:39:16,095 INFO 
+| epoch   5 | Validation |loss 240.823 | reward -0.81606 | MSE 0.80514 | corr 0.35042 |
+2019-07-25 13:39:20,504 INFO 
+| epoch   5 |    92/  142 batches | lr 1.00 | ms/batch 220.42 | loss 1028.598 | reward -0.794 | MSE 0.769 |
+2019-07-25 13:39:24,910 INFO 
+| epoch   5 |   112/  142 batches | lr 1.00 | ms/batch 220.29 | loss 993.650 | reward -0.789 | MSE 0.765 |
+2019-07-25 13:39:29,316 INFO 
+| epoch   5 |   132/  142 batches | lr 1.00 | ms/batch 220.30 | loss 1062.276 | reward -0.873 | MSE 0.847 |
+2019-07-25 13:39:33,725 INFO 
+| epoch   6 |    10/  142 batches | lr 1.00 | ms/batch 110.22 | loss 477.200 | reward -0.381 | MSE 0.369 |
+2019-07-25 13:39:34,187 INFO 
+| epoch   6 | Validation |loss 246.999 | reward -0.83551 | MSE 0.82575 | corr 0.34246 |
+2019-07-25 13:39:38,596 INFO 
+| epoch   6 |    30/  142 batches | lr 1.00 | ms/batch 220.44 | loss 985.989 | reward -0.785 | MSE 0.761 |
+2019-07-25 13:39:43,000 INFO 
+| epoch   6 |    50/  142 batches | lr 1.00 | ms/batch 220.19 | loss 1011.232 | reward -0.823 | MSE 0.797 |
+2019-07-25 13:39:47,446 INFO 
+| epoch   6 |    70/  142 batches | lr 1.00 | ms/batch 222.29 | loss 1018.861 | reward -0.82 | MSE 0.794 |
+2019-07-25 13:39:51,886 INFO 
+| epoch   6 |    90/  142 batches | lr 1.00 | ms/batch 221.94 | loss 1058.568 | reward -0.871 | MSE 0.843 |
+2019-07-25 13:39:52,361 INFO 
+| epoch   6 | Validation |loss 262.655 | reward -0.88052 | MSE 0.87804 | corr 0.20893 |
+2019-07-25 13:39:56,690 INFO 
+| epoch   6 |   110/  142 batches | lr 1.00 | ms/batch 216.42 | loss 1106.643 | reward -0.936 | MSE 0.906 |
+2019-07-25 13:40:01,100 INFO 
+| epoch   6 |   130/  142 batches | lr 1.00 | ms/batch 220.49 | loss 1032.447 | reward -0.826 | MSE 0.797 |
+2019-07-25 13:40:05,519 INFO 
+| epoch   7 |     8/  142 batches | lr 1.00 | ms/batch 88.29 | loss 358.788 | reward -0.284 | MSE 0.271 |
+2019-07-25 13:40:09,924 INFO 
+| epoch   7 |    28/  142 batches | lr 1.00 | ms/batch 220.25 | loss 970.675 | reward -0.776 | MSE 0.744 |
+2019-07-25 13:40:10,388 INFO 
+| epoch   7 | Validation |loss 242.173 | reward -0.82449 | MSE 0.80967 | corr 0.33889 |
+2019-07-25 13:40:14,791 INFO 
+| epoch   7 |    48/  142 batches | lr 1.00 | ms/batch 220.15 | loss 1070.112 | reward -0.895 | MSE 0.866 |
+2019-07-25 13:40:19,193 INFO 
+| epoch   7 |    68/  142 batches | lr 1.00 | ms/batch 220.09 | loss 1031.482 | reward -0.821 | MSE 0.789 |
+2019-07-25 13:40:23,605 INFO 
+| epoch   7 |    88/  142 batches | lr 1.00 | ms/batch 220.57 | loss 996.922 | reward -0.766 | MSE 0.736 |
+2019-07-25 13:40:28,072 INFO 
+| epoch   7 |   108/  142 batches | lr 1.00 | ms/batch 223.34 | loss 1048.689 | reward -0.809 | MSE 0.775 |
+2019-07-25 13:40:28,542 INFO 
+| epoch   7 | Validation |loss 225.649 | reward -0.79168 | MSE 0.75443 | corr 0.42630 |
+2019-07-25 13:40:28,564 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:40:32,858 INFO 
+| epoch   7 |   128/  142 batches | lr 1.00 | ms/batch 214.68 | loss 1041.859 | reward -0.851 | MSE 0.818 |
+2019-07-25 13:40:37,257 INFO 
+| epoch   8 |     6/  142 batches | lr 1.00 | ms/batch 65.91 | loss 318.011 | reward -0.253 | MSE 0.242 |
+2019-07-25 13:40:41,657 INFO 
+| epoch   8 |    26/  142 batches | lr 1.00 | ms/batch 219.99 | loss 1083.197 | reward -0.868 | MSE 0.834 |
+2019-07-25 13:40:46,061 INFO 
+| epoch   8 |    46/  142 batches | lr 1.00 | ms/batch 220.17 | loss 951.577 | reward -0.75 | MSE 0.721 |
+2019-07-25 13:40:46,522 INFO 
+| epoch   8 | Validation |loss 244.373 | reward -0.83928 | MSE 0.81708 | corr 0.39493 |
+2019-07-25 13:40:50,934 INFO 
+| epoch   8 |    66/  142 batches | lr 1.00 | ms/batch 220.61 | loss 1007.972 | reward -0.806 | MSE 0.774 |
+2019-07-25 13:40:55,364 INFO 
+| epoch   8 |    86/  142 batches | lr 1.00 | ms/batch 221.48 | loss 1136.340 | reward -0.924 | MSE 0.894 |
+2019-07-25 13:40:59,675 INFO 
+| epoch   8 |   106/  142 batches | lr 1.00 | ms/batch 215.53 | loss 948.527 | reward -0.763 | MSE 0.730 |
+2019-07-25 13:41:04,104 INFO 
+| epoch   8 |   126/  142 batches | lr 1.00 | ms/batch 221.42 | loss 1065.214 | reward -0.85 | MSE 0.821 |
+2019-07-25 13:41:04,567 INFO 
+| epoch   8 | Validation |loss 232.950 | reward -0.8052 | MSE 0.77888 | corr 0.41560 |
+2019-07-25 13:41:08,969 INFO 
+| epoch   9 |     4/  142 batches | lr 1.00 | ms/batch 43.99 | loss 201.782 | reward -0.162 | MSE 0.156 |
+2019-07-25 13:41:13,374 INFO 
+| epoch   9 |    24/  142 batches | lr 1.00 | ms/batch 220.24 | loss 993.752 | reward -0.797 | MSE 0.769 |
+2019-07-25 13:41:17,779 INFO 
+| epoch   9 |    44/  142 batches | lr 1.00 | ms/batch 220.24 | loss 1121.123 | reward -0.939 | MSE 0.907 |
+2019-07-25 13:41:22,191 INFO 
+| epoch   9 |    64/  142 batches | lr 1.00 | ms/batch 220.60 | loss 931.450 | reward -0.742 | MSE 0.711 |
+2019-07-25 13:41:22,652 INFO 
+| epoch   9 | Validation |loss 227.701 | reward -0.79548 | MSE 0.76133 | corr 0.43998 |
+2019-07-25 13:41:22,675 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:41:27,083 INFO 
+| epoch   9 |    84/  142 batches | lr 1.00 | ms/batch 220.39 | loss 1022.813 | reward -0.826 | MSE 0.795 |
+2019-07-25 13:41:31,383 INFO 
+| epoch   9 |   104/  142 batches | lr 1.00 | ms/batch 214.99 | loss 1031.092 | reward -0.854 | MSE 0.822 |
+2019-07-25 13:41:35,788 INFO 
+| epoch   9 |   124/  142 batches | lr 1.00 | ms/batch 220.24 | loss 946.188 | reward -0.761 | MSE 0.730 |
+2019-07-25 13:41:40,194 INFO 
+| epoch  10 |     2/  142 batches | lr 1.00 | ms/batch 22.01 | loss 101.928 | reward -0.0796 | MSE 0.076 |
+2019-07-25 13:41:40,681 INFO 
+| epoch  10 | Validation |loss 235.658 | reward -0.80397 | MSE 0.78788 | corr 0.36813 |
+2019-07-25 13:41:45,077 INFO 
+| epoch  10 |    22/  142 batches | lr 1.00 | ms/batch 219.81 | loss 1129.994 | reward -0.91 | MSE 0.878 |
+2019-07-25 13:41:49,494 INFO 
+| epoch  10 |    42/  142 batches | lr 1.00 | ms/batch 220.85 | loss 1043.245 | reward -0.834 | MSE 0.797 |
+2019-07-25 13:41:53,908 INFO 
+| epoch  10 |    62/  142 batches | lr 1.00 | ms/batch 220.68 | loss 972.990 | reward -0.771 | MSE 0.735 |
+2019-07-25 13:41:58,316 INFO 
+| epoch  10 |    82/  142 batches | lr 1.00 | ms/batch 220.39 | loss 968.304 | reward -0.775 | MSE 0.738 |
+2019-07-25 13:41:58,781 INFO 
+| epoch  10 | Validation |loss 227.676 | reward -0.80042 | MSE 0.76125 | corr 0.45172 |
+2019-07-25 13:41:58,804 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:42:03,208 INFO 
+| epoch  10 |   102/  142 batches | lr 1.00 | ms/batch 220.18 | loss 951.916 | reward -0.754 | MSE 0.716 |
+2019-07-25 13:42:07,504 INFO 
+| epoch  10 |   122/  142 batches | lr 1.00 | ms/batch 214.84 | loss 1069.648 | reward -0.877 | MSE 0.845 |
+2019-07-25 13:42:11,910 INFO 
+| epoch  10 |   142/  142 batches | lr 1.00 | ms/batch 220.27 | loss 966.658 | reward -0.782 | MSE 0.741 |
+2019-07-25 13:42:16,308 INFO 
+| epoch  11 |    20/  142 batches | lr 1.00 | ms/batch 219.90 | loss 953.698 | reward -0.804 | MSE 0.761 |
+2019-07-25 13:42:16,770 INFO 
+| epoch  11 | Validation |loss 220.000 | reward -0.78864 | MSE 0.73555 | corr 0.44808 |
+2019-07-25 13:42:21,175 INFO 
+| epoch  11 |    40/  142 batches | lr 1.00 | ms/batch 220.23 | loss 1082.310 | reward -0.915 | MSE 0.873 |
+2019-07-25 13:42:25,611 INFO 
+| epoch  11 |    60/  142 batches | lr 1.00 | ms/batch 221.81 | loss 985.354 | reward -0.759 | MSE 0.724 |
+2019-07-25 13:42:29,914 INFO 
+| epoch  11 |    80/  142 batches | lr 1.00 | ms/batch 215.09 | loss 1016.849 | reward -0.846 | MSE 0.807 |
+2019-07-25 13:42:34,318 INFO 
+| epoch  11 |   100/  142 batches | lr 1.00 | ms/batch 220.20 | loss 926.274 | reward -0.743 | MSE 0.699 |
+2019-07-25 13:42:34,779 INFO 
+| epoch  11 | Validation |loss 226.675 | reward -0.79896 | MSE 0.75793 | corr 0.45655 |
+2019-07-25 13:42:34,802 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:42:39,211 INFO 
+| epoch  11 |   120/  142 batches | lr 1.00 | ms/batch 220.45 | loss 1004.815 | reward -0.789 | MSE 0.748 |
+2019-07-25 13:42:43,621 INFO 
+| epoch  11 |   140/  142 batches | lr 1.00 | ms/batch 220.47 | loss 986.564 | reward -0.806 | MSE 0.765 |
+2019-07-25 13:42:48,019 INFO 
+| epoch  12 |    18/  142 batches | lr 1.00 | ms/batch 197.83 | loss 855.553 | reward -0.675 | MSE 0.639 |
+2019-07-25 13:42:52,424 INFO 
+| epoch  12 |    38/  142 batches | lr 1.00 | ms/batch 220.26 | loss 1202.826 | reward -0.968 | MSE 0.933 |
+2019-07-25 13:42:52,886 INFO 
+| epoch  12 | Validation |loss 221.486 | reward -0.76942 | MSE 0.7405 | corr 0.43473 |
+2019-07-25 13:42:57,290 INFO 
+| epoch  12 |    58/  142 batches | lr 1.00 | ms/batch 220.20 | loss 1019.722 | reward -0.837 | MSE 0.799 |
+2019-07-25 13:43:01,694 INFO 
+| epoch  12 |    78/  142 batches | lr 1.00 | ms/batch 220.17 | loss 872.434 | reward -0.711 | MSE 0.672 |
+2019-07-25 13:43:06,099 INFO 
+| epoch  12 |    98/  142 batches | lr 1.00 | ms/batch 220.24 | loss 966.871 | reward -0.818 | MSE 0.778 |
+2019-07-25 13:43:10,498 INFO 
+| epoch  12 |   118/  142 batches | lr 1.00 | ms/batch 219.93 | loss 1009.394 | reward -0.819 | MSE 0.783 |
+2019-07-25 13:43:10,960 INFO 
+| epoch  12 | Validation |loss 220.514 | reward -0.76866 | MSE 0.73723 | corr 0.44495 |
+2019-07-25 13:43:15,262 INFO 
+| epoch  12 |   138/  142 batches | lr 1.00 | ms/batch 215.10 | loss 879.320 | reward -0.741 | MSE 0.702 |
+2019-07-25 13:43:19,663 INFO 
+| epoch  13 |    16/  142 batches | lr 1.00 | ms/batch 176.17 | loss 650.666 | reward -0.555 | MSE 0.521 |
+2019-07-25 13:43:24,069 INFO 
+| epoch  13 |    36/  142 batches | lr 1.00 | ms/batch 220.28 | loss 961.992 | reward -0.82 | MSE 0.779 |
+2019-07-25 13:43:28,537 INFO 
+| epoch  13 |    56/  142 batches | lr 1.00 | ms/batch 223.43 | loss 1060.074 | reward -0.859 | MSE 0.823 |
+2019-07-25 13:43:29,013 INFO 
+| epoch  13 | Validation |loss 223.233 | reward -0.78366 | MSE 0.74639 | corr 0.45690 |
+2019-07-25 13:43:29,053 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:43:33,464 INFO 
+| epoch  13 |    76/  142 batches | lr 1.00 | ms/batch 220.55 | loss 981.171 | reward -0.803 | MSE 0.763 |
+2019-07-25 13:43:37,872 INFO 
+| epoch  13 |    96/  142 batches | lr 1.00 | ms/batch 220.37 | loss 1090.225 | reward -0.903 | MSE 0.868 |
+2019-07-25 13:43:42,276 INFO 
+| epoch  13 |   116/  142 batches | lr 1.00 | ms/batch 220.23 | loss 940.474 | reward -0.767 | MSE 0.729 |
+2019-07-25 13:43:46,578 INFO 
+| epoch  13 |   136/  142 batches | lr 1.00 | ms/batch 215.07 | loss 854.163 | reward -0.726 | MSE 0.681 |
+2019-07-25 13:43:47,045 INFO 
+| epoch  13 | Validation |loss 218.014 | reward -0.7739 | MSE 0.72889 | corr 0.46746 |
+2019-07-25 13:43:47,068 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:43:51,496 INFO 
+| epoch  14 |    14/  142 batches | lr 1.00 | ms/batch 154.55 | loss 638.371 | reward -0.522 | MSE 0.495 |
+2019-07-25 13:43:55,799 INFO 
+| epoch  14 |    34/  142 batches | lr 1.00 | ms/batch 215.17 | loss 902.698 | reward -0.766 | MSE 0.722 |
+2019-07-25 13:44:00,218 INFO 
+| epoch  14 |    54/  142 batches | lr 1.00 | ms/batch 220.94 | loss 960.287 | reward -0.79 | MSE 0.749 |
+2019-07-25 13:44:04,643 INFO 
+| epoch  14 |    74/  142 batches | lr 1.00 | ms/batch 221.23 | loss 915.244 | reward -0.777 | MSE 0.732 |
+2019-07-25 13:44:05,117 INFO 
+| epoch  14 | Validation |loss 225.910 | reward -0.78237 | MSE 0.7553 | corr 0.42253 |
+2019-07-25 13:44:09,520 INFO 
+| epoch  14 |    94/  142 batches | lr 1.00 | ms/batch 220.14 | loss 992.711 | reward -0.825 | MSE 0.780 |
+2019-07-25 13:44:13,981 INFO 
+| epoch  14 |   114/  142 batches | lr 1.00 | ms/batch 223.07 | loss 1017.490 | reward -0.836 | MSE 0.793 |
+2019-07-25 13:44:18,442 INFO 
+| epoch  14 |   134/  142 batches | lr 1.00 | ms/batch 223.00 | loss 942.128 | reward -0.771 | MSE 0.723 |
+2019-07-25 13:44:22,847 INFO 
+| epoch  15 |    12/  142 batches | lr 1.00 | ms/batch 132.05 | loss 696.349 | reward -0.58 | MSE 0.550 |
+2019-07-25 13:44:23,310 INFO 
+| epoch  15 | Validation |loss 214.256 | reward -0.76955 | MSE 0.71632 | corr 0.46751 |
+2019-07-25 13:44:23,332 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:44:27,731 INFO 
+| epoch  15 |    32/  142 batches | lr 1.00 | ms/batch 219.91 | loss 1014.698 | reward -0.805 | MSE 0.763 |
+2019-07-25 13:44:32,027 INFO 
+| epoch  15 |    52/  142 batches | lr 1.00 | ms/batch 214.80 | loss 962.657 | reward -0.801 | MSE 0.764 |
+2019-07-25 13:44:36,435 INFO 
+| epoch  15 |    72/  142 batches | lr 1.00 | ms/batch 220.40 | loss 867.314 | reward -0.743 | MSE 0.697 |
+2019-07-25 13:44:40,858 INFO 
+| epoch  15 |    92/  142 batches | lr 1.00 | ms/batch 221.12 | loss 850.551 | reward -0.725 | MSE 0.678 |
+2019-07-25 13:44:41,324 INFO 
+| epoch  15 | Validation |loss 224.817 | reward -0.79883 | MSE 0.75165 | corr 0.47867 |
+2019-07-25 13:44:41,347 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:44:45,806 INFO 
+| epoch  15 |   112/  142 batches | lr 1.00 | ms/batch 222.97 | loss 920.305 | reward -0.759 | MSE 0.721 |
+2019-07-25 13:44:50,213 INFO 
+| epoch  15 |   132/  142 batches | lr 1.00 | ms/batch 220.31 | loss 1042.153 | reward -0.899 | MSE 0.852 |
+2019-07-25 13:44:54,658 INFO 
+| epoch  16 |    10/  142 batches | lr 1.00 | ms/batch 111.47 | loss 439.204 | reward -0.362 | MSE 0.339 |
+2019-07-25 13:44:59,089 INFO 
+| epoch  16 |    30/  142 batches | lr 1.00 | ms/batch 221.50 | loss 900.407 | reward -0.767 | MSE 0.724 |
+2019-07-25 13:44:59,591 INFO 
+| epoch  16 | Validation |loss 215.467 | reward -0.76847 | MSE 0.72032 | corr 0.46960 |
+2019-07-25 13:45:03,913 INFO 
+| epoch  16 |    50/  142 batches | lr 1.00 | ms/batch 216.09 | loss 1034.877 | reward -0.918 | MSE 0.877 |
+2019-07-25 13:45:08,323 INFO 
+| epoch  16 |    70/  142 batches | lr 1.00 | ms/batch 220.51 | loss 899.419 | reward -0.742 | MSE 0.698 |
+2019-07-25 13:45:12,734 INFO 
+| epoch  16 |    90/  142 batches | lr 1.00 | ms/batch 220.54 | loss 962.503 | reward -0.802 | MSE 0.761 |
+2019-07-25 13:45:17,138 INFO 
+| epoch  16 |   110/  142 batches | lr 1.00 | ms/batch 220.18 | loss 1018.123 | reward -0.875 | MSE 0.836 |
+2019-07-25 13:45:17,605 INFO 
+| epoch  16 | Validation |loss 218.609 | reward -0.77952 | MSE 0.73092 | corr 0.47887 |
+2019-07-25 13:45:17,627 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:45:22,039 INFO 
+| epoch  16 |   130/  142 batches | lr 1.00 | ms/batch 220.57 | loss 832.147 | reward -0.739 | MSE 0.691 |
+2019-07-25 13:45:26,449 INFO 
+| epoch  17 |     8/  142 batches | lr 1.00 | ms/batch 88.26 | loss 334.546 | reward -0.283 | MSE 0.266 |
+2019-07-25 13:45:30,875 INFO 
+| epoch  17 |    28/  142 batches | lr 1.00 | ms/batch 221.28 | loss 977.000 | reward -0.867 | MSE 0.820 |
+2019-07-25 13:45:35,300 INFO 
+| epoch  17 |    48/  142 batches | lr 1.00 | ms/batch 221.24 | loss 1041.453 | reward -0.94 | MSE 0.900 |
+2019-07-25 13:45:35,765 INFO 
+| epoch  17 | Validation |loss 225.808 | reward -0.78396 | MSE 0.75497 | corr 0.43478 |
+2019-07-25 13:45:40,224 INFO 
+| epoch  17 |    68/  142 batches | lr 1.00 | ms/batch 222.94 | loss 848.748 | reward -0.767 | MSE 0.721 |
+2019-07-25 13:45:44,632 INFO 
+| epoch  17 |    88/  142 batches | lr 1.00 | ms/batch 220.41 | loss 827.383 | reward -0.713 | MSE 0.676 |
+2019-07-25 13:45:49,062 INFO 
+| epoch  17 |   108/  142 batches | lr 1.00 | ms/batch 221.51 | loss 794.394 | reward -0.729 | MSE 0.683 |
+2019-07-25 13:45:53,473 INFO 
+| epoch  17 |   128/  142 batches | lr 1.00 | ms/batch 220.50 | loss 829.801 | reward -0.776 | MSE 0.730 |
+2019-07-25 13:45:53,936 INFO 
+| epoch  17 | Validation |loss 212.720 | reward -0.77176 | MSE 0.71112 | corr 0.49904 |
+2019-07-25 13:45:53,959 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:45:58,264 INFO 
+| epoch  18 |     6/  142 batches | lr 1.00 | ms/batch 66.10 | loss 239.696 | reward -0.222 | MSE 0.208 |
+2019-07-25 13:46:02,665 INFO 
+| epoch  18 |    26/  142 batches | lr 1.00 | ms/batch 220.06 | loss 758.281 | reward -0.684 | MSE 0.646 |
+2019-07-25 13:46:07,068 INFO 
+| epoch  18 |    46/  142 batches | lr 1.00 | ms/batch 220.12 | loss 784.213 | reward -0.726 | MSE 0.684 |
+2019-07-25 13:46:11,365 INFO 
+| epoch  18 |    66/  142 batches | lr 1.00 | ms/batch 214.85 | loss 968.231 | reward -0.927 | MSE 0.882 |
+2019-07-25 13:46:11,827 INFO 
+| epoch  18 | Validation |loss 217.500 | reward -0.76939 | MSE 0.72718 | corr 0.48223 |
+2019-07-25 13:46:16,243 INFO 
+| epoch  18 |    86/  142 batches | lr 1.00 | ms/batch 220.81 | loss 910.031 | reward -0.826 | MSE 0.786 |
+2019-07-25 13:46:20,645 INFO 
+| epoch  18 |   106/  142 batches | lr 1.00 | ms/batch 220.08 | loss 779.788 | reward -0.696 | MSE 0.658 |
+2019-07-25 13:46:25,046 INFO 
+| epoch  18 |   126/  142 batches | lr 1.00 | ms/batch 220.06 | loss 892.688 | reward -0.859 | MSE 0.813 |
+2019-07-25 13:46:29,450 INFO 
+| epoch  19 |     4/  142 batches | lr 1.00 | ms/batch 43.94 | loss 168.972 | reward -0.157 | MSE 0.148 |
+2019-07-25 13:46:29,913 INFO 
+| epoch  19 | Validation |loss 223.696 | reward -0.79017 | MSE 0.74793 | corr 0.48672 |
+2019-07-25 13:46:34,322 INFO 
+| epoch  19 |    24/  142 batches | lr 1.00 | ms/batch 220.48 | loss 699.144 | reward -0.665 | MSE 0.616 |
+2019-07-25 13:46:38,736 INFO 
+| epoch  19 |    44/  142 batches | lr 1.00 | ms/batch 220.70 | loss 886.751 | reward -0.826 | MSE 0.789 |
+2019-07-25 13:46:43,144 INFO 
+| epoch  19 |    64/  142 batches | lr 1.00 | ms/batch 220.35 | loss 879.322 | reward -0.815 | MSE 0.772 |
+2019-07-25 13:46:47,545 INFO 
+| epoch  19 |    84/  142 batches | lr 1.00 | ms/batch 220.06 | loss 954.065 | reward -0.928 | MSE 0.878 |
+2019-07-25 13:46:48,007 INFO 
+| epoch  19 | Validation |loss 215.587 | reward -0.76848 | MSE 0.72073 | corr 0.48029 |
+2019-07-25 13:46:52,412 INFO 
+| epoch  19 |   104/  142 batches | lr 1.00 | ms/batch 220.25 | loss 777.788 | reward -0.738 | MSE 0.686 |
+2019-07-25 13:46:56,819 INFO 
+| epoch  19 |   124/  142 batches | lr 1.00 | ms/batch 220.32 | loss 795.127 | reward -0.735 | MSE 0.691 |
+2019-07-25 13:47:01,121 INFO 
+| epoch  20 |     2/  142 batches | lr 1.00 | ms/batch 22.00 | loss 66.224 | reward -0.0638 | MSE 0.058 |
+2019-07-25 13:47:05,521 INFO 
+| epoch  20 |    22/  142 batches | lr 1.00 | ms/batch 220.01 | loss 830.359 | reward -0.803 | MSE 0.752 |
+2019-07-25 13:47:05,982 INFO 
+| epoch  20 | Validation |loss 207.569 | reward -0.76035 | MSE 0.69402 | corr 0.51783 |
+2019-07-25 13:47:06,005 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:47:10,411 INFO 
+| epoch  20 |    42/  142 batches | lr 1.00 | ms/batch 220.28 | loss 797.272 | reward -0.756 | MSE 0.709 |
+2019-07-25 13:47:14,819 INFO 
+| epoch  20 |    62/  142 batches | lr 1.00 | ms/batch 220.42 | loss 842.769 | reward -0.785 | MSE 0.738 |
+2019-07-25 13:47:19,221 INFO 
+| epoch  20 |    82/  142 batches | lr 1.00 | ms/batch 220.09 | loss 732.444 | reward -0.684 | MSE 0.630 |
+2019-07-25 13:47:23,629 INFO 
+| epoch  20 |   102/  142 batches | lr 1.00 | ms/batch 220.36 | loss 845.160 | reward -0.758 | MSE 0.711 |
+2019-07-25 13:47:24,090 INFO 
+| epoch  20 | Validation |loss 212.146 | reward -0.74913 | MSE 0.70927 | corr 0.47924 |
+2019-07-25 13:47:28,396 INFO 
+| epoch  20 |   122/  142 batches | lr 1.00 | ms/batch 215.26 | loss 832.555 | reward -0.819 | MSE 0.763 |
+2019-07-25 13:47:32,798 INFO 
+| epoch  20 |   142/  142 batches | lr 1.00 | ms/batch 220.09 | loss 863.212 | reward -0.817 | MSE 0.765 |
+2019-07-25 13:47:37,201 INFO 
+| epoch  21 |    20/  142 batches | lr 1.00 | ms/batch 220.16 | loss 844.600 | reward -0.809 | MSE 0.756 |
+2019-07-25 13:47:41,628 INFO 
+| epoch  21 |    40/  142 batches | lr 1.00 | ms/batch 221.34 | loss 828.276 | reward -0.756 | MSE 0.711 |
+2019-07-25 13:47:42,097 INFO 
+| epoch  21 | Validation |loss 207.213 | reward -0.74667 | MSE 0.69282 | corr 0.50779 |
+2019-07-25 13:47:46,515 INFO 
+| epoch  21 |    60/  142 batches | lr 1.00 | ms/batch 220.91 | loss 777.469 | reward -0.744 | MSE 0.692 |
+2019-07-25 13:47:50,837 INFO 
+| epoch  21 |    80/  142 batches | lr 1.00 | ms/batch 216.05 | loss 736.605 | reward -0.738 | MSE 0.682 |
+2019-07-25 13:47:55,256 INFO 
+| epoch  21 |   100/  142 batches | lr 1.00 | ms/batch 220.97 | loss 824.353 | reward -0.806 | MSE 0.748 |
+2019-07-25 13:47:59,665 INFO 
+| epoch  21 |   120/  142 batches | lr 1.00 | ms/batch 220.44 | loss 770.086 | reward -0.688 | MSE 0.644 |
+2019-07-25 13:48:00,130 INFO 
+| epoch  21 | Validation |loss 208.565 | reward -0.75515 | MSE 0.69726 | corr 0.50310 |
+2019-07-25 13:48:04,562 INFO 
+| epoch  21 |   140/  142 batches | lr 1.00 | ms/batch 221.58 | loss 851.904 | reward -0.792 | MSE 0.744 |
+2019-07-25 13:48:08,981 INFO 
+| epoch  22 |    18/  142 batches | lr 1.00 | ms/batch 198.63 | loss 757.910 | reward -0.702 | MSE 0.663 |
+2019-07-25 13:48:13,397 INFO 
+| epoch  22 |    38/  142 batches | lr 1.00 | ms/batch 220.80 | loss 714.996 | reward -0.731 | MSE 0.671 |
+2019-07-25 13:48:17,807 INFO 
+| epoch  22 |    58/  142 batches | lr 1.00 | ms/batch 220.50 | loss 804.654 | reward -0.746 | MSE 0.701 |
+2019-07-25 13:48:18,276 INFO 
+| epoch  22 | Validation |loss 214.625 | reward -0.76406 | MSE 0.71743 | corr 0.48093 |
+2019-07-25 13:48:22,682 INFO 
+| epoch  22 |    78/  142 batches | lr 1.00 | ms/batch 220.28 | loss 790.790 | reward -0.74 | MSE 0.694 |
+2019-07-25 13:48:27,086 INFO 
+| epoch  22 |    98/  142 batches | lr 1.00 | ms/batch 220.19 | loss 857.899 | reward -0.823 | MSE 0.775 |
+2019-07-25 13:48:31,495 INFO 
+| epoch  22 |   118/  142 batches | lr 1.00 | ms/batch 220.45 | loss 784.425 | reward -0.744 | MSE 0.694 |
+2019-07-25 13:48:35,807 INFO 
+| epoch  22 |   138/  142 batches | lr 1.00 | ms/batch 215.56 | loss 801.694 | reward -0.758 | MSE 0.714 |
+2019-07-25 13:48:36,268 INFO 
+| epoch  22 | Validation |loss 222.435 | reward -0.77589 | MSE 0.74363 | corr 0.46721 |
+2019-07-25 13:48:40,694 INFO 
+| epoch  23 |    16/  142 batches | lr 1.00 | ms/batch 176.40 | loss 619.593 | reward -0.626 | MSE 0.580 |
+2019-07-25 13:48:45,104 INFO 
+| epoch  23 |    36/  142 batches | lr 1.00 | ms/batch 220.46 | loss 711.484 | reward -0.708 | MSE 0.653 |
+2019-07-25 13:48:49,509 INFO 
+| epoch  23 |    56/  142 batches | lr 1.00 | ms/batch 220.26 | loss 836.660 | reward -0.822 | MSE 0.770 |
+2019-07-25 13:48:53,904 INFO 
+| epoch  23 |    76/  142 batches | lr 1.00 | ms/batch 219.74 | loss 876.376 | reward -0.898 | MSE 0.842 |
+2019-07-25 13:48:54,365 INFO 
+| epoch  23 | Validation |loss 201.507 | reward -0.73822 | MSE 0.67367 | corr 0.52959 |
+2019-07-25 13:48:54,387 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:48:58,702 INFO 
+| epoch  23 |    96/  142 batches | lr 1.00 | ms/batch 215.72 | loss 670.529 | reward -0.692 | MSE 0.638 |
+2019-07-25 13:49:03,118 INFO 
+| epoch  23 |   116/  142 batches | lr 1.00 | ms/batch 220.77 | loss 721.954 | reward -0.715 | MSE 0.662 |
+2019-07-25 13:49:07,528 INFO 
+| epoch  23 |   136/  142 batches | lr 1.00 | ms/batch 220.52 | loss 713.628 | reward -0.704 | MSE 0.651 |
+2019-07-25 13:49:11,957 INFO 
+| epoch  24 |    14/  142 batches | lr 1.00 | ms/batch 155.29 | loss 564.475 | reward -0.535 | MSE 0.500 |
+2019-07-25 13:49:12,424 INFO 
+| epoch  24 | Validation |loss 205.106 | reward -0.73107 | MSE 0.68572 | corr 0.49779 |
+2019-07-25 13:49:16,825 INFO 
+| epoch  24 |    34/  142 batches | lr 1.00 | ms/batch 220.06 | loss 763.965 | reward -0.708 | MSE 0.666 |
+2019-07-25 13:49:21,228 INFO 
+| epoch  24 |    54/  142 batches | lr 1.00 | ms/batch 220.14 | loss 779.171 | reward -0.757 | MSE 0.710 |
+2019-07-25 13:49:25,629 INFO 
+| epoch  24 |    74/  142 batches | lr 1.00 | ms/batch 220.02 | loss 837.023 | reward -0.804 | MSE 0.759 |
+2019-07-25 13:49:30,027 INFO 
+| epoch  24 |    94/  142 batches | lr 1.00 | ms/batch 219.92 | loss 775.518 | reward -0.786 | MSE 0.729 |
+2019-07-25 13:49:30,496 INFO 
+| epoch  24 | Validation |loss 202.502 | reward -0.7455 | MSE 0.67695 | corr 0.53841 |
+2019-07-25 13:49:30,526 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:49:34,851 INFO 
+| epoch  24 |   114/  142 batches | lr 1.00 | ms/batch 216.24 | loss 743.241 | reward -0.737 | MSE 0.688 |
+2019-07-25 13:49:39,266 INFO 
+| epoch  24 |   134/  142 batches | lr 1.00 | ms/batch 220.75 | loss 819.800 | reward -0.823 | MSE 0.771 |
+2019-07-25 13:49:43,679 INFO 
+| epoch  25 |    12/  142 batches | lr 1.00 | ms/batch 132.50 | loss 493.288 | reward -0.489 | MSE 0.459 |
+2019-07-25 13:49:48,100 INFO 
+| epoch  25 |    32/  142 batches | lr 1.00 | ms/batch 221.06 | loss 797.443 | reward -0.802 | MSE 0.754 |
+2019-07-25 13:49:48,561 INFO 
+| epoch  25 | Validation |loss 197.236 | reward -0.72416 | MSE 0.65943 | corr 0.53553 |
+2019-07-25 13:49:52,960 INFO 
+| epoch  25 |    52/  142 batches | lr 1.00 | ms/batch 219.90 | loss 775.910 | reward -0.791 | MSE 0.739 |
+2019-07-25 13:49:57,361 INFO 
+| epoch  25 |    72/  142 batches | lr 1.00 | ms/batch 220.07 | loss 708.524 | reward -0.716 | MSE 0.664 |
+2019-07-25 13:50:01,760 INFO 
+| epoch  25 |    92/  142 batches | lr 1.00 | ms/batch 219.93 | loss 779.891 | reward -0.801 | MSE 0.747 |
+2019-07-25 13:50:06,156 INFO 
+| epoch  25 |   112/  142 batches | lr 1.00 | ms/batch 219.78 | loss 767.726 | reward -0.767 | MSE 0.719 |
+2019-07-25 13:50:06,617 INFO 
+| epoch  25 | Validation |loss 226.738 | reward -0.78805 | MSE 0.75812 | corr 0.45210 |
+2019-07-25 13:50:11,018 INFO 
+| epoch  25 |   132/  142 batches | lr 1.00 | ms/batch 220.03 | loss 686.175 | reward -0.674 | MSE 0.628 |
+2019-07-25 13:50:15,325 INFO 
+| epoch  26 |    10/  142 batches | lr 1.00 | ms/batch 110.06 | loss 368.246 | reward -0.372 | MSE 0.345 |
+2019-07-25 13:50:19,728 INFO 
+| epoch  26 |    30/  142 batches | lr 1.00 | ms/batch 220.15 | loss 744.783 | reward -0.785 | MSE 0.727 |
+2019-07-25 13:50:24,267 INFO 
+| epoch  26 |    50/  142 batches | lr 1.00 | ms/batch 226.96 | loss 619.877 | reward -0.669 | MSE 0.611 |
+2019-07-25 13:50:24,806 INFO 
+| epoch  26 | Validation |loss 204.535 | reward -0.73606 | MSE 0.68386 | corr 0.52404 |
+2019-07-25 13:50:32,573 INFO 
+| epoch  26 |    70/  142 batches | lr 1.00 | ms/batch 388.33 | loss 755.875 | reward -0.743 | MSE 0.699 |
+2019-07-25 13:50:42,075 INFO 
+| epoch  26 |    90/  142 batches | lr 1.00 | ms/batch 475.09 | loss 771.138 | reward -0.786 | MSE 0.733 |
+2019-07-25 13:50:51,474 INFO 
+| epoch  26 |   110/  142 batches | lr 1.00 | ms/batch 469.96 | loss 700.384 | reward -0.71 | MSE 0.655 |
+2019-07-25 13:50:59,352 INFO 
+| epoch  26 |   130/  142 batches | lr 1.00 | ms/batch 393.90 | loss 765.239 | reward -0.758 | MSE 0.708 |
+2019-07-25 13:50:59,820 INFO 
+| epoch  26 | Validation |loss 203.758 | reward -0.73755 | MSE 0.68123 | corr 0.53386 |
+2019-07-25 13:51:04,228 INFO 
+| epoch  27 |     8/  142 batches | lr 1.00 | ms/batch 88.29 | loss 339.182 | reward -0.344 | MSE 0.321 |
+2019-07-25 13:51:08,641 INFO 
+| epoch  27 |    28/  142 batches | lr 1.00 | ms/batch 220.62 | loss 688.879 | reward -0.713 | MSE 0.654 |
+2019-07-25 13:51:13,073 INFO 
+| epoch  27 |    48/  142 batches | lr 1.00 | ms/batch 221.63 | loss 768.256 | reward -0.741 | MSE 0.687 |
+2019-07-25 13:51:17,823 INFO 
+| epoch  27 |    68/  142 batches | lr 1.00 | ms/batch 237.48 | loss 785.155 | reward -0.744 | MSE 0.691 |
+2019-07-25 13:51:18,441 INFO 
+| epoch  27 | Validation |loss 195.922 | reward -0.72339 | MSE 0.65494 | corr 0.54753 |
+2019-07-25 13:51:18,464 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:51:27,454 INFO 
+| epoch  27 |    88/  142 batches | lr 1.00 | ms/batch 449.49 | loss 835.177 | reward -0.803 | MSE 0.752 |
+2019-07-25 13:51:37,016 INFO 
+| epoch  27 |   108/  142 batches | lr 1.00 | ms/batch 478.09 | loss 808.895 | reward -0.776 | MSE 0.723 |
+2019-07-25 13:51:46,520 INFO 
+| epoch  27 |   128/  142 batches | lr 1.00 | ms/batch 475.22 | loss 699.561 | reward -0.69 | MSE 0.632 |
+2019-07-25 13:51:52,643 INFO 
+| epoch  28 |     6/  142 batches | lr 1.00 | ms/batch 66.08 | loss 219.384 | reward  -0.2 | MSE 0.186 |
+2019-07-25 13:51:53,106 INFO 
+| epoch  28 | Validation |loss 211.162 | reward -0.75567 | MSE 0.70599 | corr 0.51588 |
+2019-07-25 13:51:57,504 INFO 
+| epoch  28 |    26/  142 batches | lr 1.00 | ms/batch 219.91 | loss 854.616 | reward -0.838 | MSE 0.783 |
+2019-07-25 13:52:01,905 INFO 
+| epoch  28 |    46/  142 batches | lr 1.00 | ms/batch 220.03 | loss 773.779 | reward -0.747 | MSE 0.693 |
+2019-07-25 13:52:06,299 INFO 
+| epoch  28 |    66/  142 batches | lr 1.00 | ms/batch 219.72 | loss 815.093 | reward -0.785 | MSE 0.736 |
+2019-07-25 13:52:10,592 INFO 
+| epoch  28 |    86/  142 batches | lr 1.00 | ms/batch 214.63 | loss 727.055 | reward -0.704 | MSE 0.654 |
+2019-07-25 13:52:11,055 INFO 
+| epoch  28 | Validation |loss 203.881 | reward -0.73704 | MSE 0.68158 | corr 0.53237 |
+2019-07-25 13:52:15,451 INFO 
+| epoch  28 |   106/  142 batches | lr 1.00 | ms/batch 219.79 | loss 810.378 | reward -0.806 | MSE 0.752 |
+2019-07-25 13:52:19,845 INFO 
+| epoch  28 |   126/  142 batches | lr 1.00 | ms/batch 219.74 | loss 687.158 | reward -0.693 | MSE 0.635 |
+2019-07-25 13:52:24,241 INFO 
+| epoch  29 |     4/  142 batches | lr 1.00 | ms/batch 43.99 | loss 144.337 | reward -0.146 | MSE 0.135 |
+2019-07-25 13:52:28,538 INFO 
+| epoch  29 |    24/  142 batches | lr 1.00 | ms/batch 214.83 | loss 752.578 | reward -0.726 | MSE 0.681 |
+2019-07-25 13:52:29,010 INFO 
+| epoch  29 | Validation |loss 206.978 | reward -0.73296 | MSE 0.69195 | corr 0.49909 |
+2019-07-25 13:52:33,432 INFO 
+| epoch  29 |    44/  142 batches | lr 1.00 | ms/batch 221.06 | loss 712.725 | reward -0.724 | MSE 0.668 |
+2019-07-25 13:52:37,843 INFO 
+| epoch  29 |    64/  142 batches | lr 1.00 | ms/batch 220.56 | loss 720.113 | reward -0.741 | MSE 0.686 |
+2019-07-25 13:52:42,252 INFO 
+| epoch  29 |    84/  142 batches | lr 1.00 | ms/batch 220.42 | loss 746.335 | reward -0.768 | MSE 0.715 |
+2019-07-25 13:52:46,673 INFO 
+| epoch  29 |   104/  142 batches | lr 1.00 | ms/batch 221.08 | loss 764.370 | reward -0.768 | MSE 0.712 |
+2019-07-25 13:52:47,139 INFO 
+| epoch  29 | Validation |loss 193.584 | reward -0.71594 | MSE 0.64706 | corr 0.53974 |
+2019-07-25 13:52:51,594 INFO 
+| epoch  29 |   124/  142 batches | lr 1.00 | ms/batch 222.70 | loss 709.744 | reward -0.724 | MSE 0.665 |
+2019-07-25 13:52:56,029 INFO 
+| epoch  30 |     2/  142 batches | lr 1.00 | ms/batch 22.10 | loss 78.375 | reward -0.0793 | MSE 0.074 |
+2019-07-25 13:53:00,356 INFO 
+| epoch  30 |    22/  142 batches | lr 1.00 | ms/batch 216.34 | loss 784.316 | reward -0.757 | MSE 0.716 |
+2019-07-25 13:53:04,772 INFO 
+| epoch  30 |    42/  142 batches | lr 1.00 | ms/batch 220.82 | loss 688.487 | reward -0.701 | MSE 0.644 |
+2019-07-25 13:53:05,237 INFO 
+| epoch  30 | Validation |loss 190.619 | reward -0.70464 | MSE 0.63729 | corr 0.55262 |
+2019-07-25 13:53:05,260 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:53:09,696 INFO 
+| epoch  30 |    62/  142 batches | lr 1.00 | ms/batch 221.80 | loss 759.939 | reward -0.769 | MSE 0.713 |
+2019-07-25 13:53:14,137 INFO 
+| epoch  30 |    82/  142 batches | lr 1.00 | ms/batch 222.03 | loss 669.425 | reward -0.676 | MSE 0.623 |
+2019-07-25 13:53:18,574 INFO 
+| epoch  30 |   102/  142 batches | lr 1.00 | ms/batch 221.88 | loss 819.495 | reward -0.853 | MSE 0.797 |
+2019-07-25 13:53:23,001 INFO 
+| epoch  30 |   122/  142 batches | lr 1.00 | ms/batch 221.33 | loss 689.939 | reward -0.688 | MSE 0.634 |
+2019-07-25 13:53:23,477 INFO 
+| epoch  30 | Validation |loss 196.968 | reward -0.72391 | MSE 0.6583 | corr 0.55274 |
+2019-07-25 13:53:23,500 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:53:27,928 INFO 
+| epoch  30 |   142/  142 batches | lr 1.00 | ms/batch 221.38 | loss 771.415 | reward -0.755 | MSE 0.701 |
+2019-07-25 13:53:32,264 INFO 
+| epoch  31 |    20/  142 batches | lr 1.00 | ms/batch 216.81 | loss 688.562 | reward -0.702 | MSE 0.646 |
+2019-07-25 13:53:36,692 INFO 
+| epoch  31 |    40/  142 batches | lr 1.00 | ms/batch 221.38 | loss 758.397 | reward -0.715 | MSE 0.665 |
+2019-07-25 13:53:41,111 INFO 
+| epoch  31 |    60/  142 batches | lr 1.00 | ms/batch 220.95 | loss 717.124 | reward -0.699 | MSE 0.643 |
+2019-07-25 13:53:41,581 INFO 
+| epoch  31 | Validation |loss 212.595 | reward -0.7638 | MSE 0.71074 | corr 0.52883 |
+2019-07-25 13:53:46,012 INFO 
+| epoch  31 |    80/  142 batches | lr 1.00 | ms/batch 221.52 | loss 880.781 | reward -0.859 | MSE 0.807 |
+2019-07-25 13:53:50,467 INFO 
+| epoch  31 |   100/  142 batches | lr 1.00 | ms/batch 222.76 | loss 908.264 | reward -0.897 | MSE 0.842 |
+2019-07-25 13:53:54,888 INFO 
+| epoch  31 |   120/  142 batches | lr 1.00 | ms/batch 221.06 | loss 685.128 | reward -0.708 | MSE 0.647 |
+2019-07-25 13:53:59,312 INFO 
+| epoch  31 |   140/  142 batches | lr 1.00 | ms/batch 221.20 | loss 747.269 | reward -0.687 | MSE 0.642 |
+2019-07-25 13:53:59,781 INFO 
+| epoch  31 | Validation |loss 217.277 | reward -0.77575 | MSE 0.72638 | corr 0.53443 |
+2019-07-25 13:54:04,198 INFO 
+| epoch  32 |    18/  142 batches | lr 1.00 | ms/batch 198.75 | loss 626.363 | reward  -0.6 | MSE 0.554 |
+2019-07-25 13:54:08,515 INFO 
+| epoch  32 |    38/  142 batches | lr 1.00 | ms/batch 215.83 | loss 682.957 | reward -0.746 | MSE 0.680 |
+2019-07-25 13:54:12,951 INFO 
+| epoch  32 |    58/  142 batches | lr 1.00 | ms/batch 221.81 | loss 692.859 | reward -0.735 | MSE 0.671 |
+2019-07-25 13:54:17,382 INFO 
+| epoch  32 |    78/  142 batches | lr 1.00 | ms/batch 221.49 | loss 644.447 | reward -0.666 | MSE 0.606 |
+2019-07-25 13:54:17,869 INFO 
+| epoch  32 | Validation |loss 190.861 | reward -0.70393 | MSE 0.63804 | corr 0.55740 |
+2019-07-25 13:54:17,899 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:54:22,342 INFO 
+| epoch  32 |    98/  142 batches | lr 1.00 | ms/batch 222.17 | loss 665.371 | reward -0.675 | MSE 0.618 |
+2019-07-25 13:54:26,769 INFO 
+| epoch  32 |   118/  142 batches | lr 1.00 | ms/batch 221.33 | loss 860.565 | reward -0.841 | MSE 0.791 |
+2019-07-25 13:54:31,195 INFO 
+| epoch  32 |   138/  142 batches | lr 1.00 | ms/batch 221.29 | loss 764.931 | reward -0.795 | MSE 0.734 |
+2019-07-25 13:54:35,625 INFO 
+| epoch  33 |    16/  142 batches | lr 1.00 | ms/batch 177.14 | loss 727.674 | reward -0.753 | MSE 0.708 |
+2019-07-25 13:54:36,095 INFO 
+| epoch  33 | Validation |loss 205.493 | reward -0.73897 | MSE 0.68696 | corr 0.53547 |
+2019-07-25 13:54:40,434 INFO 
+| epoch  33 |    36/  142 batches | lr 1.00 | ms/batch 216.95 | loss 645.008 | reward -0.653 | MSE 0.602 |
+2019-07-25 13:54:44,883 INFO 
+| epoch  33 |    56/  142 batches | lr 1.00 | ms/batch 222.42 | loss 728.665 | reward -0.726 | MSE 0.672 |
+2019-07-25 13:54:49,310 INFO 
+| epoch  33 |    76/  142 batches | lr 1.00 | ms/batch 221.38 | loss 726.058 | reward -0.734 | MSE 0.679 |
+2019-07-25 13:54:53,738 INFO 
+| epoch  33 |    96/  142 batches | lr 1.00 | ms/batch 221.38 | loss 640.281 | reward -0.663 | MSE 0.608 |
+2019-07-25 13:54:54,209 INFO 
+| epoch  33 | Validation |loss 196.889 | reward -0.71527 | MSE 0.65819 | corr 0.54272 |
+2019-07-25 13:54:58,634 INFO 
+| epoch  33 |   116/  142 batches | lr 1.00 | ms/batch 221.28 | loss 642.663 | reward -0.659 | MSE 0.605 |
+2019-07-25 13:55:03,063 INFO 
+| epoch  33 |   136/  142 batches | lr 1.00 | ms/batch 221.41 | loss 740.096 | reward -0.744 | MSE 0.695 |
+2019-07-25 13:55:07,491 INFO 
+| epoch  34 |    14/  142 batches | lr 1.00 | ms/batch 154.97 | loss 458.999 | reward -0.452 | MSE 0.413 |
+2019-07-25 13:55:11,817 INFO 
+| epoch  34 |    34/  142 batches | lr 1.00 | ms/batch 216.30 | loss 596.906 | reward -0.629 | MSE 0.569 |
+2019-07-25 13:55:12,286 INFO 
+| epoch  34 | Validation |loss 201.835 | reward -0.74483 | MSE 0.67468 | corr 0.56133 |
+2019-07-25 13:55:12,308 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:55:16,732 INFO 
+| epoch  34 |    54/  142 batches | lr 1.00 | ms/batch 221.15 | loss 637.707 | reward -0.673 | MSE 0.610 |
+2019-07-25 13:55:21,188 INFO 
+| epoch  34 |    74/  142 batches | lr 1.00 | ms/batch 222.81 | loss 735.627 | reward -0.764 | MSE 0.705 |
+2019-07-25 13:55:25,616 INFO 
+| epoch  34 |    94/  142 batches | lr 1.00 | ms/batch 221.39 | loss 802.756 | reward -0.831 | MSE 0.775 |
+2019-07-25 13:55:30,065 INFO 
+| epoch  34 |   114/  142 batches | lr 1.00 | ms/batch 222.41 | loss 730.742 | reward -0.739 | MSE 0.685 |
+2019-07-25 13:55:30,549 INFO 
+| epoch  34 | Validation |loss 199.465 | reward -0.72901 | MSE 0.66678 | corr 0.54727 |
+2019-07-25 13:55:34,983 INFO 
+| epoch  34 |   134/  142 batches | lr 1.00 | ms/batch 221.70 | loss 740.782 | reward -0.774 | MSE 0.716 |
+2019-07-25 13:55:39,420 INFO 
+| epoch  35 |    12/  142 batches | lr 1.00 | ms/batch 132.42 | loss 405.229 | reward -0.416 | MSE 0.382 |
+2019-07-25 13:55:43,844 INFO 
+| epoch  35 |    32/  142 batches | lr 1.00 | ms/batch 221.15 | loss 687.335 | reward -0.676 | MSE 0.626 |
+2019-07-25 13:55:48,274 INFO 
+| epoch  35 |    52/  142 batches | lr 1.00 | ms/batch 221.53 | loss 755.880 | reward -0.73 | MSE 0.679 |
+2019-07-25 13:55:48,740 INFO 
+| epoch  35 | Validation |loss 194.683 | reward -0.71133 | MSE 0.65087 | corr 0.56218 |
+2019-07-25 13:55:48,763 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:55:53,185 INFO 
+| epoch  35 |    72/  142 batches | lr 1.00 | ms/batch 221.12 | loss 679.878 | reward -0.684 | MSE 0.627 |
+2019-07-25 13:55:57,505 INFO 
+| epoch  35 |    92/  142 batches | lr 1.00 | ms/batch 215.97 | loss 595.392 | reward -0.632 | MSE 0.571 |
+2019-07-25 13:56:01,921 INFO 
+| epoch  35 |   112/  142 batches | lr 1.00 | ms/batch 220.78 | loss 726.255 | reward -0.779 | MSE 0.711 |
+2019-07-25 13:56:06,357 INFO 
+| epoch  35 |   132/  142 batches | lr 1.00 | ms/batch 221.77 | loss 832.817 | reward -0.859 | MSE 0.799 |
+2019-07-25 13:56:06,825 INFO 
+| epoch  35 | Validation |loss 235.028 | reward -0.79973 | MSE 0.7856 | corr 0.37873 |
+2019-07-25 13:56:11,173 INFO 
+| epoch  36 |    10/  142 batches | lr 1.00 | ms/batch 106.15 | loss 398.504 | reward -0.44 | MSE 0.408 |
+2019-07-25 13:56:15,602 INFO 
+| epoch  36 |    30/  142 batches | lr 1.00 | ms/batch 221.48 | loss 730.127 | reward -0.723 | MSE 0.670 |
+2019-07-25 13:56:20,031 INFO 
+| epoch  36 |    50/  142 batches | lr 1.00 | ms/batch 221.44 | loss 685.716 | reward -0.676 | MSE 0.622 |
+2019-07-25 13:56:24,457 INFO 
+| epoch  36 |    70/  142 batches | lr 1.00 | ms/batch 221.29 | loss 667.396 | reward -0.696 | MSE 0.634 |
+2019-07-25 13:56:24,927 INFO 
+| epoch  36 | Validation |loss 192.402 | reward -0.71709 | MSE 0.64314 | corr 0.57245 |
+2019-07-25 13:56:24,950 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:56:29,373 INFO 
+| epoch  36 |    90/  142 batches | lr 1.00 | ms/batch 221.14 | loss 672.074 | reward -0.705 | MSE 0.643 |
+2019-07-25 13:56:33,800 INFO 
+| epoch  36 |   110/  142 batches | lr 1.00 | ms/batch 221.34 | loss 808.099 | reward -0.806 | MSE 0.755 |
+2019-07-25 13:56:38,228 INFO 
+| epoch  36 |   130/  142 batches | lr 1.00 | ms/batch 221.43 | loss 666.796 | reward -0.694 | MSE 0.633 |
+2019-07-25 13:56:42,658 INFO 
+| epoch  37 |     8/  142 batches | lr 1.00 | ms/batch 88.63 | loss 252.406 | reward -0.255 | MSE 0.232 |
+2019-07-25 13:56:43,144 INFO 
+| epoch  37 | Validation |loss 189.693 | reward -0.70765 | MSE 0.63416 | corr 0.56151 |
+2019-07-25 13:56:47,573 INFO 
+| epoch  37 |    28/  142 batches | lr 1.00 | ms/batch 221.42 | loss 678.201 | reward -0.742 | MSE 0.675 |
+2019-07-25 13:56:52,008 INFO 
+| epoch  37 |    48/  142 batches | lr 1.00 | ms/batch 221.78 | loss 664.541 | reward -0.67 | MSE 0.614 |
+2019-07-25 13:56:56,450 INFO 
+| epoch  37 |    68/  142 batches | lr 1.00 | ms/batch 222.07 | loss 724.854 | reward -0.702 | MSE 0.652 |
+2019-07-25 13:57:00,877 INFO 
+| epoch  37 |    88/  142 batches | lr 1.00 | ms/batch 221.36 | loss 759.813 | reward -0.785 | MSE 0.723 |
+2019-07-25 13:57:01,347 INFO 
+| epoch  37 | Validation |loss 194.548 | reward -0.7278 | MSE 0.6503 | corr 0.57411 |
+2019-07-25 13:57:05,791 INFO 
+| epoch  37 |   108/  142 batches | lr 1.00 | ms/batch 222.16 | loss 678.502 | reward -0.708 | MSE 0.644 |
+2019-07-25 13:57:10,128 INFO 
+| epoch  37 |   128/  142 batches | lr 1.00 | ms/batch 216.87 | loss 684.346 | reward -0.711 | MSE 0.650 |
+2019-07-25 13:57:14,559 INFO 
+| epoch  38 |     6/  142 batches | lr 1.00 | ms/batch 66.40 | loss 185.660 | reward  -0.2 | MSE 0.180 |
+2019-07-25 13:57:18,987 INFO 
+| epoch  38 |    26/  142 batches | lr 1.00 | ms/batch 221.43 | loss 705.594 | reward -0.707 | MSE 0.650 |
+2019-07-25 13:57:19,456 INFO 
+| epoch  38 | Validation |loss 188.270 | reward -0.68276 | MSE 0.62926 | corr 0.55637 |
+2019-07-25 13:57:23,883 INFO 
+| epoch  38 |    46/  142 batches | lr 1.00 | ms/batch 221.35 | loss 712.486 | reward -0.708 | MSE 0.656 |
+2019-07-25 13:57:28,214 INFO 
+| epoch  38 |    66/  142 batches | lr 1.00 | ms/batch 216.50 | loss 694.570 | reward -0.712 | MSE 0.659 |
+2019-07-25 13:57:32,642 INFO 
+| epoch  38 |    86/  142 batches | lr 1.00 | ms/batch 221.41 | loss 712.123 | reward -0.757 | MSE 0.693 |
+2019-07-25 13:57:37,071 INFO 
+| epoch  38 |   106/  142 batches | lr 1.00 | ms/batch 221.43 | loss 708.736 | reward -0.736 | MSE 0.676 |
+2019-07-25 13:57:37,589 INFO 
+| epoch  38 | Validation |loss 195.329 | reward -0.7098 | MSE 0.65293 | corr 0.55187 |
+2019-07-25 13:57:42,046 INFO 
+| epoch  38 |   126/  142 batches | lr 1.00 | ms/batch 222.84 | loss 712.226 | reward -0.697 | MSE 0.646 |
+2019-07-25 13:57:46,470 INFO 
+| epoch  39 |     4/  142 batches | lr 1.00 | ms/batch 44.26 | loss 134.158 | reward -0.143 | MSE 0.130 |
+2019-07-25 13:57:50,900 INFO 
+| epoch  39 |    24/  142 batches | lr 1.00 | ms/batch 221.46 | loss 652.035 | reward -0.689 | MSE 0.629 |
+2019-07-25 13:57:55,324 INFO 
+| epoch  39 |    44/  142 batches | lr 1.00 | ms/batch 221.23 | loss 779.437 | reward -0.798 | MSE 0.744 |
+2019-07-25 13:57:55,794 INFO 
+| epoch  39 | Validation |loss 193.114 | reward -0.70985 | MSE 0.64555 | corr 0.56877 |
+2019-07-25 13:58:00,233 INFO 
+| epoch  39 |    64/  142 batches | lr 1.00 | ms/batch 221.93 | loss 749.828 | reward -0.756 | MSE 0.703 |
+2019-07-25 13:58:04,676 INFO 
+| epoch  39 |    84/  142 batches | lr 1.00 | ms/batch 222.14 | loss 659.787 | reward -0.715 | MSE 0.650 |
+2019-07-25 13:58:09,105 INFO 
+| epoch  39 |   104/  142 batches | lr 1.00 | ms/batch 221.44 | loss 642.871 | reward -0.707 | MSE 0.642 |
+2019-07-25 13:58:13,537 INFO 
+| epoch  39 |   124/  142 batches | lr 1.00 | ms/batch 221.58 | loss 587.600 | reward -0.665 | MSE 0.596 |
+2019-07-25 13:58:14,006 INFO 
+| epoch  39 | Validation |loss 184.935 | reward -0.69282 | MSE 0.61822 | corr 0.58078 |
+2019-07-25 13:58:14,029 INFO 
+---------------saved a new best model---------------
+2019-07-25 13:58:18,347 INFO 
+| epoch  40 |     2/  142 batches | lr 1.00 | ms/batch 22.10 | loss 133.853 | reward -0.139 | MSE 0.133 |
+2019-07-25 13:58:22,774 INFO 
+| epoch  40 |    22/  142 batches | lr 1.00 | ms/batch 221.34 | loss 685.573 | reward -0.723 | MSE 0.663 |
+2019-07-25 13:58:27,099 INFO 
+| epoch  40 |    42/  142 batches | lr 1.00 | ms/batch 216.25 | loss 633.099 | reward -0.696 | MSE 0.631 |
+2019-07-25 13:58:31,522 INFO 
+| epoch  40 |    62/  142 batches | lr 1.00 | ms/batch 221.14 | loss 683.752 | reward -0.738 | MSE 0.677 |
+2019-07-25 13:58:31,999 INFO 
+| epoch  40 | Validation |loss 191.221 | reward -0.69885 | MSE 0.63914 | corr 0.55875 |
+2019-07-25 13:58:36,418 INFO 
+| epoch  40 |    82/  142 batches | lr 1.00 | ms/batch 220.93 | loss 685.315 | reward -0.696 | MSE 0.642 |
+2019-07-25 13:58:40,840 INFO 
+| epoch  40 |   102/  142 batches | lr 1.00 | ms/batch 221.09 | loss 690.344 | reward  -0.7 | MSE 0.647 |
+2019-07-25 13:58:45,270 INFO 
+| epoch  40 |   122/  142 batches | lr 1.00 | ms/batch 221.49 | loss 680.165 | reward -0.679 | MSE 0.629 |
+2019-07-25 13:58:49,700 INFO 
+| epoch  40 |   142/  142 batches | lr 1.00 | ms/batch 221.49 | loss 672.096 | reward -0.717 | MSE 0.656 |
+2019-07-25 13:58:50,176 INFO 
+| epoch  40 | Validation |loss 190.599 | reward -0.71521 | MSE 0.63716 | corr 0.58031 |
+2019-07-25 13:58:54,492 INFO 
+| epoch  41 |    20/  142 batches | lr 1.00 | ms/batch 215.80 | loss 617.615 | reward -0.696 | MSE 0.630 |
+2019-07-25 13:58:58,936 INFO 
+| epoch  41 |    40/  142 batches | lr 1.00 | ms/batch 222.18 | loss 556.479 | reward -0.618 | MSE 0.551 |
+2019-07-25 13:59:03,361 INFO 
+| epoch  41 |    60/  142 batches | lr 1.00 | ms/batch 221.25 | loss 690.924 | reward -0.713 | MSE 0.658 |
+2019-07-25 13:59:07,805 INFO 
+| epoch  41 |    80/  142 batches | lr 1.00 | ms/batch 222.18 | loss 769.185 | reward -0.824 | MSE 0.763 |
+2019-07-25 13:59:08,301 INFO 
+| epoch  41 | Validation |loss 188.195 | reward -0.70524 | MSE 0.62909 | corr 0.57532 |
+2019-07-25 13:59:12,725 INFO 
+| epoch  41 |   100/  142 batches | lr 1.00 | ms/batch 221.18 | loss 715.995 | reward -0.799 | MSE 0.731 |
+2019-07-25 13:59:17,187 INFO 
+| epoch  41 |   120/  142 batches | lr 1.00 | ms/batch 223.09 | loss 537.160 | reward -0.609 | MSE 0.540 |
+2019-07-25 13:59:21,643 INFO 
+| epoch  41 |   140/  142 batches | lr 1.00 | ms/batch 222.83 | loss 617.344 | reward -0.664 | MSE 0.602 |
+2019-07-25 13:59:26,073 INFO 
+| epoch  42 |    18/  142 batches | lr 1.00 | ms/batch 199.37 | loss 512.331 | reward -0.554 | MSE 0.500 |
+2019-07-25 13:59:26,550 INFO 
+| epoch  42 | Validation |loss 189.315 | reward -0.7041 | MSE 0.6328 | corr 0.57707 |
+2019-07-25 13:59:30,979 INFO 
+| epoch  42 |    38/  142 batches | lr 1.00 | ms/batch 221.43 | loss 619.012 | reward -0.706 | MSE 0.638 |
+2019-07-25 13:59:35,489 INFO 
+| epoch  42 |    58/  142 batches | lr 1.00 | ms/batch 225.49 | loss 695.547 | reward -0.765 | MSE 0.698 |
+2019-07-25 13:59:39,916 INFO 
+| epoch  42 |    78/  142 batches | lr 1.00 | ms/batch 221.30 | loss 708.906 | reward -0.77 | MSE 0.706 |
+2019-07-25 13:59:44,345 INFO 
+| epoch  42 |    98/  142 batches | lr 1.00 | ms/batch 221.46 | loss 628.362 | reward -0.667 | MSE 0.606 |
+2019-07-25 13:59:44,873 INFO 
+| epoch  42 | Validation |loss 192.857 | reward -0.71823 | MSE 0.6447 | corr 0.58011 |
+2019-07-25 13:59:49,303 INFO 
+| epoch  42 |   118/  142 batches | lr 1.00 | ms/batch 221.53 | loss 656.218 | reward -0.704 | MSE 0.641 |
+2019-07-25 13:59:53,731 INFO 
+| epoch  42 |   138/  142 batches | lr 1.00 | ms/batch 221.37 | loss 627.677 | reward -0.651 | MSE 0.591 |
+2019-07-25 13:59:58,221 INFO 
+| epoch  43 |    16/  142 batches | lr 1.00 | ms/batch 178.68 | loss 541.112 | reward -0.546 | MSE 0.500 |
+2019-07-25 14:00:02,701 INFO 
+| epoch  43 |    36/  142 batches | lr 1.00 | ms/batch 223.98 | loss 720.948 | reward -0.733 | MSE 0.673 |
+2019-07-25 14:00:03,174 INFO 
+| epoch  43 | Validation |loss 201.771 | reward -0.7271 | MSE 0.67453 | corr 0.55543 |
+2019-07-25 14:00:07,603 INFO 
+| epoch  43 |    56/  142 batches | lr 1.00 | ms/batch 221.41 | loss 662.112 | reward -0.673 | MSE 0.617 |
+2019-07-25 14:00:11,930 INFO 
+| epoch  43 |    76/  142 batches | lr 1.00 | ms/batch 216.34 | loss 802.995 | reward -0.802 | MSE 0.754 |
+2019-07-25 14:00:16,358 INFO 
+| epoch  43 |    96/  142 batches | lr 1.00 | ms/batch 221.42 | loss 674.694 | reward -0.678 | MSE 0.625 |
+2019-07-25 14:00:20,786 INFO 
+| epoch  43 |   116/  142 batches | lr 1.00 | ms/batch 221.36 | loss 704.630 | reward -0.731 | MSE 0.675 |
+2019-07-25 14:00:21,267 INFO 
+| epoch  43 | Validation |loss 185.872 | reward -0.68884 | MSE 0.62136 | corr 0.57768 |
+2019-07-25 14:00:25,694 INFO 
+| epoch  43 |   136/  142 batches | lr 1.00 | ms/batch 221.31 | loss 621.636 | reward -0.682 | MSE 0.617 |
+2019-07-25 14:00:30,173 INFO 
+| epoch  44 |    14/  142 batches | lr 1.00 | ms/batch 157.89 | loss 433.336 | reward -0.491 | MSE 0.442 |
+2019-07-25 14:00:34,690 INFO 
+| epoch  44 |    34/  142 batches | lr 1.00 | ms/batch 225.85 | loss 585.056 | reward -0.638 | MSE 0.575 |
+2019-07-25 14:00:39,130 INFO 
+| epoch  44 |    54/  142 batches | lr 1.00 | ms/batch 221.99 | loss 757.810 | reward -0.795 | MSE 0.734 |
+2019-07-25 14:00:39,601 INFO 
+| epoch  44 | Validation |loss 194.698 | reward -0.72352 | MSE 0.65079 | corr 0.57802 |
+2019-07-25 14:00:44,055 INFO 
+| epoch  44 |    74/  142 batches | lr 1.00 | ms/batch 222.65 | loss 648.680 | reward -0.698 | MSE 0.635 |
+2019-07-25 14:00:48,497 INFO 
+| epoch  44 |    94/  142 batches | lr 1.00 | ms/batch 222.09 | loss 688.762 | reward -0.721 | MSE 0.659 |
+2019-07-25 14:00:52,921 INFO 
+| epoch  44 |   114/  142 batches | lr 1.00 | ms/batch 221.19 | loss 594.725 | reward -0.631 | MSE 0.570 |
+2019-07-25 14:00:57,247 INFO 
+| epoch  44 |   134/  142 batches | lr 1.00 | ms/batch 216.30 | loss 642.323 | reward -0.701 | MSE 0.637 |
+2019-07-25 14:00:57,733 INFO 
+| epoch  44 | Validation |loss 185.652 | reward -0.69535 | MSE 0.62042 | corr 0.58525 |
+2019-07-25 14:01:02,177 INFO 
+| epoch  45 |    12/  142 batches | lr 1.00 | ms/batch 132.90 | loss 422.968 | reward -0.447 | MSE 0.411 |
+2019-07-25 14:01:06,605 INFO 
+| epoch  45 |    32/  142 batches | lr 1.00 | ms/batch 221.36 | loss 710.820 | reward -0.762 | MSE 0.701 |
+2019-07-25 14:01:11,032 INFO 
+| epoch  45 |    52/  142 batches | lr 1.00 | ms/batch 221.35 | loss 613.642 | reward -0.68 | MSE 0.615 |
+2019-07-25 14:01:15,460 INFO 
+| epoch  45 |    72/  142 batches | lr 1.00 | ms/batch 221.40 | loss 609.961 | reward -0.652 | MSE 0.592 |
+2019-07-25 14:01:15,929 INFO 
+| epoch  45 | Validation |loss 193.425 | reward -0.71794 | MSE 0.64659 | corr 0.58751 |
+2019-07-25 14:01:15,952 INFO 
+---------------saved a new best model---------------
+2019-07-25 14:01:20,377 INFO 
+| epoch  45 |    92/  142 batches | lr 1.00 | ms/batch 221.21 | loss 598.206 | reward -0.645 | MSE 0.583 |
+2019-07-25 14:01:24,709 INFO 
+| epoch  45 |   112/  142 batches | lr 1.00 | ms/batch 216.61 | loss 679.755 | reward -0.731 | MSE 0.672 |
+2019-07-25 14:01:29,143 INFO 
+| epoch  45 |   132/  142 batches | lr 1.00 | ms/batch 221.67 | loss 642.667 | reward -0.678 | MSE 0.620 |
+2019-07-25 14:01:33,570 INFO 
+| epoch  46 |    10/  142 batches | lr 1.00 | ms/batch 110.59 | loss 270.195 | reward -0.303 | MSE 0.269 |
+2019-07-25 14:01:34,047 INFO 
+| epoch  46 | Validation |loss 189.169 | reward -0.71006 | MSE 0.63227 | corr 0.58671 |
+2019-07-25 14:01:38,477 INFO 
+| epoch  46 |    30/  142 batches | lr 1.00 | ms/batch 221.48 | loss 621.888 | reward -0.704 | MSE 0.634 |
+2019-07-25 14:01:42,925 INFO 
+| epoch  46 |    50/  142 batches | lr 1.00 | ms/batch 222.41 | loss 569.144 | reward -0.655 | MSE 0.583 |
+2019-07-25 14:01:47,373 INFO 
+| epoch  46 |    70/  142 batches | lr 1.00 | ms/batch 222.39 | loss 696.807 | reward -0.783 | MSE 0.715 |
+2019-07-25 14:01:51,699 INFO 
+| epoch  46 |    90/  142 batches | lr 1.00 | ms/batch 216.28 | loss 523.578 | reward -0.615 | MSE 0.545 |
+2019-07-25 14:01:52,182 INFO 
+| epoch  46 | Validation |loss 188.716 | reward -0.70576 | MSE 0.63087 | corr 0.58703 |
+2019-07-25 14:01:56,614 INFO 
+| epoch  46 |   110/  142 batches | lr 1.00 | ms/batch 221.59 | loss 628.281 | reward -0.689 | MSE 0.622 |
+2019-07-25 14:02:01,042 INFO 
+| epoch  46 |   130/  142 batches | lr 1.00 | ms/batch 221.38 | loss 626.112 | reward -0.674 | MSE 0.612 |
+2019-07-25 14:02:05,500 INFO 
+| epoch  47 |     8/  142 batches | lr 1.00 | ms/batch 88.68 | loss 301.122 | reward -0.316 | MSE 0.293 |
+2019-07-25 14:02:09,827 INFO 
+| epoch  47 |    28/  142 batches | lr 1.00 | ms/batch 216.34 | loss 659.160 | reward -0.712 | MSE 0.650 |
+2019-07-25 14:02:10,317 INFO 
+| epoch  47 | Validation |loss 194.748 | reward -0.72227 | MSE 0.65104 | corr 0.57541 |
+2019-07-25 14:02:14,764 INFO 
+| epoch  47 |    48/  142 batches | lr 1.00 | ms/batch 222.36 | loss 608.050 | reward -0.652 | MSE 0.588 |
+2019-07-25 14:02:19,195 INFO 
+| epoch  47 |    68/  142 batches | lr 1.00 | ms/batch 221.51 | loss 641.820 | reward -0.71 | MSE 0.643 |
+2019-07-25 14:02:23,622 INFO 
+| epoch  47 |    88/  142 batches | lr 1.00 | ms/batch 221.33 | loss 624.835 | reward -0.64 | MSE 0.583 |
+2019-07-25 14:02:28,051 INFO 
+| epoch  47 |   108/  142 batches | lr 1.00 | ms/batch 221.45 | loss 702.024 | reward -0.75 | MSE 0.687 |
+2019-07-25 14:02:28,521 INFO 
+| epoch  47 | Validation |loss 195.048 | reward -0.70196 | MSE 0.65203 | corr 0.53831 |
+2019-07-25 14:02:32,962 INFO 
+| epoch  47 |   128/  142 batches | lr 1.00 | ms/batch 222.04 | loss 653.097 | reward -0.646 | MSE 0.598 |
+2019-07-25 14:02:37,395 INFO 
+| epoch  48 |     6/  142 batches | lr 1.00 | ms/batch 66.36 | loss 255.261 | reward -0.276 | MSE 0.257 |
+2019-07-25 14:02:41,841 INFO 
+| epoch  48 |    26/  142 batches | lr 1.00 | ms/batch 222.30 | loss 684.790 | reward -0.735 | MSE 0.673 |
+2019-07-25 14:02:46,268 INFO 
+| epoch  48 |    46/  142 batches | lr 1.00 | ms/batch 221.35 | loss 646.344 | reward -0.666 | MSE 0.612 |
+2019-07-25 14:02:46,738 INFO 
+| epoch  48 | Validation |loss 190.916 | reward -0.69127 | MSE 0.63809 | corr 0.55616 |
+2019-07-25 14:02:51,157 INFO 
+| epoch  48 |    66/  142 batches | lr 1.00 | ms/batch 220.93 | loss 587.603 | reward -0.655 | MSE 0.589 |
+2019-07-25 14:02:55,488 INFO 
+| epoch  48 |    86/  142 batches | lr 1.00 | ms/batch 216.57 | loss 618.719 | reward -0.672 | MSE 0.615 |
+2019-07-25 14:02:59,917 INFO 
+| epoch  48 |   106/  142 batches | lr 1.00 | ms/batch 221.42 | loss 591.185 | reward -0.643 | MSE 0.581 |
+2019-07-25 14:03:04,343 INFO 
+| epoch  48 |   126/  142 batches | lr 1.00 | ms/batch 221.31 | loss 572.661 | reward -0.654 | MSE 0.584 |
+2019-07-25 14:03:04,813 INFO 
+| epoch  48 | Validation |loss 186.421 | reward -0.6963 | MSE 0.62322 | corr 0.58946 |
+2019-07-25 14:03:04,836 INFO 
+---------------saved a new best model---------------
+2019-07-25 14:03:09,285 INFO 
+| epoch  49 |     4/  142 batches | lr 1.00 | ms/batch 44.50 | loss 105.495 | reward -0.116 | MSE 0.104 |
+2019-07-25 14:03:13,792 INFO 
+| epoch  49 |    24/  142 batches | lr 1.00 | ms/batch 225.33 | loss 619.274 | reward -0.642 | MSE 0.589 |
+2019-07-25 14:03:18,234 INFO 
+| epoch  49 |    44/  142 batches | lr 1.00 | ms/batch 222.06 | loss 670.484 | reward -0.681 | MSE 0.636 |
+2019-07-25 14:03:22,662 INFO 
+| epoch  49 |    64/  142 batches | lr 1.00 | ms/batch 221.44 | loss 771.266 | reward -0.813 | MSE 0.756 |
+2019-07-25 14:03:23,150 INFO 
+| epoch  49 | Validation |loss 189.487 | reward -0.70761 | MSE 0.63345 | corr 0.58035 |
+2019-07-25 14:03:27,587 INFO 
+| epoch  49 |    84/  142 batches | lr 1.00 | ms/batch 221.84 | loss 598.721 | reward -0.639 | MSE 0.576 |
+2019-07-25 14:03:32,021 INFO 
+| epoch  49 |   104/  142 batches | lr 1.00 | ms/batch 221.69 | loss 540.949 | reward -0.606 | MSE 0.539 |
+2019-07-25 14:03:36,446 INFO 
+| epoch  49 |   124/  142 batches | lr 1.00 | ms/batch 221.24 | loss 658.247 | reward -0.715 | MSE 0.653 |
+2019-07-25 14:03:40,780 INFO 
+| epoch  50 |     2/  142 batches | lr 1.00 | ms/batch 22.07 | loss 50.927 | reward -0.059 | MSE 0.052 |
+2019-07-25 14:03:41,256 INFO 
+| epoch  50 | Validation |loss 181.613 | reward -0.68403 | MSE 0.607 | corr 0.59229 |
+2019-07-25 14:03:45,688 INFO 
+| epoch  50 |    22/  142 batches | lr 1.00 | ms/batch 221.56 | loss 629.181 | reward -0.657 | MSE 0.600 |
+2019-07-25 14:03:50,113 INFO 
+| epoch  50 |    42/  142 batches | lr 1.00 | ms/batch 221.27 | loss 612.362 | reward -0.603 | MSE 0.555 |
+2019-07-25 14:03:54,542 INFO 
+| epoch  50 |    62/  142 batches | lr 1.00 | ms/batch 221.41 | loss 583.997 | reward -0.639 | MSE 0.576 |
+2019-07-25 14:03:58,971 INFO 
+| epoch  50 |    82/  142 batches | lr 1.00 | ms/batch 221.46 | loss 579.618 | reward -0.631 | MSE 0.569 |
+2019-07-25 14:03:59,441 INFO 
+| epoch  50 | Validation |loss 192.760 | reward -0.70476 | MSE 0.6444 | corr 0.57095 |
+2019-07-25 14:04:03,875 INFO 
+| epoch  50 |   102/  142 batches | lr 1.00 | ms/batch 221.70 | loss 784.764 | reward -0.821 | MSE 0.767 |
+2019-07-25 14:04:08,198 INFO 
+| epoch  50 |   122/  142 batches | lr 1.00 | ms/batch 216.12 | loss 700.686 | reward -0.715 | MSE 0.669 |
+2019-07-25 14:04:12,634 INFO 
+| epoch  50 |   142/  142 batches | lr 1.00 | ms/batch 221.81 | loss 722.334 | reward -0.745 | MSE 0.692 |
+2019-07-25 14:04:17,055 INFO 
+| epoch  51 |    20/  142 batches | lr 1.00 | ms/batch 221.06 | loss 656.597 | reward -0.709 | MSE 0.645 |
+2019-07-25 14:04:17,526 INFO 
+| epoch  51 | Validation |loss 181.950 | reward -0.6854 | MSE 0.60822 | corr 0.58158 |
+2019-07-25 14:04:21,975 INFO 
+| epoch  51 |    40/  142 batches | lr 1.00 | ms/batch 222.48 | loss 589.363 | reward -0.631 | MSE 0.569 |
+2019-07-25 14:04:26,404 INFO 
+| epoch  51 |    60/  142 batches | lr 1.00 | ms/batch 221.43 | loss 683.745 | reward -0.717 | MSE 0.658 |
+2019-07-25 14:04:30,852 INFO 
+| epoch  51 |    80/  142 batches | lr 1.00 | ms/batch 222.40 | loss 640.841 | reward -0.657 | MSE 0.602 |
+2019-07-25 14:04:35,203 INFO 
+| epoch  51 |   100/  142 batches | lr 1.00 | ms/batch 217.52 | loss 518.914 | reward -0.606 | MSE 0.536 |
+2019-07-25 14:04:35,674 INFO 
+| epoch  51 | Validation |loss 179.192 | reward -0.68036 | MSE 0.59901 | corr 0.58905 |
+2019-07-25 14:04:40,107 INFO 
+| epoch  51 |   120/  142 batches | lr 1.00 | ms/batch 221.67 | loss 663.361 | reward -0.777 | MSE 0.703 |
+2019-07-25 14:04:44,537 INFO 
+| epoch  51 |   140/  142 batches | lr 1.00 | ms/batch 221.48 | loss 616.128 | reward -0.679 | MSE 0.612 |
+2019-07-25 14:04:48,867 INFO 
+| epoch  52 |    18/  142 batches | lr 1.00 | ms/batch 194.34 | loss 628.163 | reward -0.68 | MSE 0.626 |
+2019-07-25 14:04:53,295 INFO 
+| epoch  52 |    38/  142 batches | lr 1.00 | ms/batch 221.40 | loss 634.365 | reward -0.675 | MSE 0.614 |
+2019-07-25 14:04:53,764 INFO 
+| epoch  52 | Validation |loss 195.851 | reward -0.7338 | MSE 0.65473 | corr 0.59083 |
+2019-07-25 14:04:58,181 INFO 
+| epoch  52 |    58/  142 batches | lr 1.00 | ms/batch 220.86 | loss 618.639 | reward -0.676 | MSE 0.610 |
+2019-07-25 14:05:02,604 INFO 
+| epoch  52 |    78/  142 batches | lr 1.00 | ms/batch 221.10 | loss 647.682 | reward -0.679 | MSE 0.619 |
+2019-07-25 14:05:07,023 INFO 
+| epoch  52 |    98/  142 batches | lr 1.00 | ms/batch 220.97 | loss 608.882 | reward -0.651 | MSE 0.587 |
+2019-07-25 14:05:11,453 INFO 
+| epoch  52 |   118/  142 batches | lr 1.00 | ms/batch 221.46 | loss 578.879 | reward -0.641 | MSE 0.572 |
+2019-07-25 14:05:11,922 INFO 
+| epoch  52 | Validation |loss 189.049 | reward -0.7141 | MSE 0.63186 | corr 0.59556 |
+2019-07-25 14:05:16,352 INFO 
+| epoch  52 |   138/  142 batches | lr 1.00 | ms/batch 221.50 | loss 619.350 | reward -0.691 | MSE 0.624 |
+2019-07-25 14:05:20,778 INFO 
+| epoch  53 |    16/  142 batches | lr 1.00 | ms/batch 177.04 | loss 484.410 | reward -0.52 | MSE 0.468 |
+2019-07-25 14:05:25,122 INFO 
+| epoch  53 |    36/  142 batches | lr 1.00 | ms/batch 217.18 | loss 552.690 | reward -0.618 | MSE 0.551 |
+2019-07-25 14:05:29,550 INFO 
+| epoch  53 |    56/  142 batches | lr 1.00 | ms/batch 221.39 | loss 608.323 | reward -0.681 | MSE 0.611 |
+2019-07-25 14:05:30,020 INFO 
+| epoch  53 | Validation |loss 185.790 | reward -0.7001 | MSE 0.62106 | corr 0.59722 |
+2019-07-25 14:05:34,468 INFO 
+| epoch  53 |    76/  142 batches | lr 1.00 | ms/batch 222.40 | loss 556.681 | reward -0.603 | MSE 0.538 |
+2019-07-25 14:05:38,895 INFO 
+| epoch  53 |    96/  142 batches | lr 1.00 | ms/batch 221.32 | loss 727.696 | reward -0.793 | MSE 0.727 |
+2019-07-25 14:05:43,326 INFO 
+| epoch  53 |   116/  142 batches | lr 1.00 | ms/batch 221.57 | loss 749.544 | reward -0.777 | MSE 0.720 |
+2019-07-25 14:05:47,755 INFO 
+| epoch  53 |   136/  142 batches | lr 1.00 | ms/batch 221.42 | loss 597.940 | reward -0.636 | MSE 0.575 |
+2019-07-25 14:05:48,225 INFO 
+| epoch  53 | Validation |loss 185.194 | reward -0.68697 | MSE 0.61899 | corr 0.57809 |
+2019-07-25 14:05:52,656 INFO 
+| epoch  54 |    14/  142 batches | lr 1.00 | ms/batch 154.99 | loss 417.780 | reward -0.45 | MSE 0.408 |
+2019-07-25 14:05:57,082 INFO 
+| epoch  54 |    34/  142 batches | lr 1.00 | ms/batch 221.29 | loss 631.261 | reward -0.689 | MSE 0.627 |
+2019-07-25 14:06:01,513 INFO 
+| epoch  54 |    54/  142 batches | lr 1.00 | ms/batch 221.58 | loss 673.826 | reward -0.748 | MSE 0.682 |
+2019-07-25 14:06:05,966 INFO 
+| epoch  54 |    74/  142 batches | lr 1.00 | ms/batch 222.61 | loss 584.485 | reward -0.664 | MSE 0.595 |
+2019-07-25 14:06:06,445 INFO 
+| epoch  54 | Validation |loss 187.500 | reward -0.70114 | MSE 0.62678 | corr 0.59576 |
+2019-07-25 14:06:06,467 INFO 
+---------------saved a new best model---------------
+2019-07-25 14:06:10,886 INFO 
+| epoch  54 |    94/  142 batches | lr 1.00 | ms/batch 220.90 | loss 555.612 | reward -0.611 | MSE 0.550 |
+2019-07-25 14:06:15,309 INFO 
+| epoch  54 |   114/  142 batches | lr 1.00 | ms/batch 221.15 | loss 597.419 | reward -0.639 | MSE 0.584 |
+2019-07-25 14:06:19,639 INFO 
+| epoch  54 |   134/  142 batches | lr 1.00 | ms/batch 216.50 | loss 608.413 | reward -0.684 | MSE 0.617 |
+2019-07-25 14:06:24,076 INFO 
+| epoch  55 |    12/  142 batches | lr 1.00 | ms/batch 133.11 | loss 386.407 | reward -0.426 | MSE 0.387 |
+2019-07-25 14:06:24,553 INFO 
+| epoch  55 | Validation |loss 192.849 | reward -0.71314 | MSE 0.64456 | corr 0.58249 |
+2019-07-25 14:06:29,028 INFO 
+| epoch  55 |    32/  142 batches | lr 1.00 | ms/batch 223.74 | loss 633.865 | reward -0.679 | MSE 0.617 |
+2019-07-25 14:06:33,451 INFO 
+| epoch  55 |    52/  142 batches | lr 1.00 | ms/batch 221.14 | loss 522.221 | reward -0.591 | MSE 0.523 |
+2019-07-25 14:06:37,958 INFO 
+| epoch  55 |    72/  142 batches | lr 1.00 | ms/batch 225.34 | loss 619.064 | reward -0.659 | MSE 0.607 |
+2019-07-25 14:06:42,420 INFO 
+| epoch  55 |    92/  142 batches | lr 1.00 | ms/batch 223.11 | loss 688.373 | reward -0.739 | MSE 0.682 |
+2019-07-25 14:06:42,910 INFO 
+| epoch  55 | Validation |loss 187.471 | reward -0.69419 | MSE 0.62661 | corr 0.58412 |
+2019-07-25 14:06:47,261 INFO 
+| epoch  55 |   112/  142 batches | lr 1.00 | ms/batch 217.51 | loss 593.570 | reward -0.672 | MSE 0.606 |
+2019-07-25 14:06:51,700 INFO 
+| epoch  55 |   132/  142 batches | lr 1.00 | ms/batch 221.97 | loss 558.932 | reward -0.631 | MSE 0.564 |
+2019-07-25 14:06:56,130 INFO 
+| epoch  56 |    10/  142 batches | lr 1.00 | ms/batch 110.58 | loss 332.958 | reward -0.376 | MSE 0.342 |
+2019-07-25 14:07:00,650 INFO 
+| epoch  56 |    30/  142 batches | lr 1.00 | ms/batch 226.01 | loss 473.681 | reward -0.553 | MSE 0.482 |
+2019-07-25 14:07:01,124 INFO 
+| epoch  56 | Validation |loss 183.648 | reward -0.68138 | MSE 0.61372 | corr 0.58405 |
+2019-07-25 14:07:05,447 INFO 
+| epoch  56 |    50/  142 batches | lr 1.00 | ms/batch 216.11 | loss 552.429 | reward -0.619 | MSE 0.556 |
+2019-07-25 14:07:09,899 INFO 
+| epoch  56 |    70/  142 batches | lr 1.00 | ms/batch 222.60 | loss 581.754 | reward -0.633 | MSE 0.571 |
+2019-07-25 14:07:14,344 INFO 
+| epoch  56 |    90/  142 batches | lr 1.00 | ms/batch 222.23 | loss 534.907 | reward -0.609 | MSE 0.538 |
+2019-07-25 14:07:18,791 INFO 
+| epoch  56 |   110/  142 batches | lr 1.00 | ms/batch 222.34 | loss 675.001 | reward -0.774 | MSE 0.701 |
+2019-07-25 14:07:19,266 INFO 
+| epoch  56 | Validation |loss 187.415 | reward -0.70727 | MSE 0.62634 | corr 0.59959 |
+2019-07-25 14:07:23,719 INFO 
+| epoch  56 |   130/  142 batches | lr 1.00 | ms/batch 222.62 | loss 551.031 | reward -0.645 | MSE 0.571 |
+2019-07-25 14:07:28,152 INFO 
+| epoch  57 |     8/  142 batches | lr 1.00 | ms/batch 88.39 | loss 233.357 | reward -0.256 | MSE 0.230 |
+2019-07-25 14:07:32,612 INFO 
+| epoch  57 |    28/  142 batches | lr 1.00 | ms/batch 222.99 | loss 582.518 | reward -0.649 | MSE 0.580 |
+2019-07-25 14:07:36,952 INFO 
+| epoch  57 |    48/  142 batches | lr 1.00 | ms/batch 216.99 | loss 599.487 | reward -0.631 | MSE 0.576 |
+2019-07-25 14:07:37,422 INFO 
+| epoch  57 | Validation |loss 181.118 | reward -0.67449 | MSE 0.60528 | corr 0.58545 |
+2019-07-25 14:07:41,840 INFO 
+| epoch  57 |    68/  142 batches | lr 1.00 | ms/batch 220.90 | loss 584.363 | reward -0.613 | MSE 0.556 |
+2019-07-25 14:07:46,264 INFO 
+| epoch  57 |    88/  142 batches | lr 1.00 | ms/batch 221.19 | loss 567.736 | reward -0.596 | MSE 0.543 |
+2019-07-25 14:07:50,727 INFO 
+| epoch  57 |   108/  142 batches | lr 1.00 | ms/batch 223.16 | loss 628.398 | reward  -0.7 | MSE 0.636 |
+2019-07-25 14:07:55,160 INFO 
+| epoch  57 |   128/  142 batches | lr 1.00 | ms/batch 221.62 | loss 622.588 | reward -0.717 | MSE 0.646 |
+2019-07-25 14:07:55,630 INFO 
+| epoch  57 | Validation |loss 187.156 | reward -0.68731 | MSE 0.62552 | corr 0.58425 |
+2019-07-25 14:08:00,078 INFO 
+| epoch  58 |     6/  142 batches | lr 1.00 | ms/batch 66.37 | loss 164.290 | reward -0.168 | MSE 0.153 |
+2019-07-25 14:08:04,401 INFO 
+| epoch  58 |    26/  142 batches | lr 1.00 | ms/batch 216.12 | loss 527.646 | reward -0.596 | MSE 0.534 |
+2019-07-25 14:08:08,828 INFO 
+| epoch  58 |    46/  142 batches | lr 1.00 | ms/batch 221.38 | loss 539.277 | reward -0.616 | MSE 0.548 |
+2019-07-25 14:08:13,274 INFO 
+| epoch  58 |    66/  142 batches | lr 1.00 | ms/batch 222.26 | loss 588.476 | reward -0.67 | MSE 0.602 |
+2019-07-25 14:08:13,743 INFO 
+| epoch  58 | Validation |loss 186.563 | reward -0.6979 | MSE 0.62357 | corr 0.59548 |
+2019-07-25 14:08:18,174 INFO 
+| epoch  58 |    86/  142 batches | lr 1.00 | ms/batch 221.51 | loss 633.900 | reward -0.718 | MSE 0.650 |
+2019-07-25 14:08:22,615 INFO 
+| epoch  58 |   106/  142 batches | lr 1.00 | ms/batch 222.07 | loss 572.820 | reward -0.627 | MSE 0.564 |
+2019-07-25 14:08:27,049 INFO 
+| epoch  58 |   126/  142 batches | lr 1.00 | ms/batch 221.68 | loss 649.863 | reward -0.699 | MSE 0.639 |
+2019-07-25 14:08:31,480 INFO 
+| epoch  59 |     4/  142 batches | lr 1.00 | ms/batch 44.23 | loss 125.300 | reward -0.132 | MSE 0.121 |
+2019-07-25 14:08:31,966 INFO 
+| epoch  59 | Validation |loss 189.954 | reward -0.7023 | MSE 0.63495 | corr 0.58521 |
+2019-07-25 14:08:36,324 INFO 
+| epoch  59 |    24/  142 batches | lr 1.00 | ms/batch 217.89 | loss 600.351 | reward -0.661 | MSE 0.599 |
+2019-07-25 14:08:40,802 INFO 
+| epoch  59 |    44/  142 batches | lr 1.00 | ms/batch 223.90 | loss 564.585 | reward -0.631 | MSE 0.565 |
+2019-07-25 14:08:45,244 INFO 
+| epoch  59 |    64/  142 batches | lr 1.00 | ms/batch 222.08 | loss 584.046 | reward -0.638 | MSE 0.575 |
+2019-07-25 14:08:49,668 INFO 
+| epoch  59 |    84/  142 batches | lr 1.00 | ms/batch 221.18 | loss 686.769 | reward -0.74 | MSE 0.677 |
+2019-07-25 14:08:50,148 INFO 
+| epoch  59 | Validation |loss 186.792 | reward -0.70287 | MSE 0.62443 | corr 0.59640 |
+2019-07-25 14:08:54,580 INFO 
+| epoch  59 |   104/  142 batches | lr 1.00 | ms/batch 221.61 | loss 577.659 | reward -0.624 | MSE 0.561 |
+2019-07-25 14:08:59,073 INFO 
+| epoch  59 |   124/  142 batches | lr 1.00 | ms/batch 224.65 | loss 519.147 | reward -0.566 | MSE 0.503 |
+2019-07-25 14:09:03,520 INFO 
+| epoch  60 |     2/  142 batches | lr 1.00 | ms/batch 22.23 | loss 56.298 | reward -0.0637 | MSE 0.057 |
+2019-07-25 14:09:07,962 INFO 
+| epoch  60 |    22/  142 batches | lr 1.00 | ms/batch 222.08 | loss 555.637 | reward -0.62 | MSE 0.554 |
+2019-07-25 14:09:08,442 INFO 
+| epoch  60 | Validation |loss 193.485 | reward -0.71975 | MSE 0.64658 | corr 0.59402 |
+2019-07-25 14:09:12,875 INFO 
+| epoch  60 |    42/  142 batches | lr 1.00 | ms/batch 221.67 | loss 564.761 | reward -0.623 | MSE 0.560 |
+2019-07-25 14:09:17,304 INFO 
+| epoch  60 |    62/  142 batches | lr 1.00 | ms/batch 221.44 | loss 540.312 | reward -0.594 | MSE 0.531 |
+2019-07-25 14:09:21,735 INFO 
+| epoch  60 |    82/  142 batches | lr 1.00 | ms/batch 221.54 | loss 560.065 | reward -0.619 | MSE 0.556 |
+2019-07-25 14:09:26,066 INFO 
+| epoch  60 |   102/  142 batches | lr 1.00 | ms/batch 216.52 | loss 582.836 | reward -0.641 | MSE 0.581 |
+2019-07-25 14:09:26,535 INFO 
+| epoch  60 | Validation |loss 186.136 | reward -0.70362 | MSE 0.62193 | corr 0.58868 |
+2019-07-25 14:09:30,957 INFO 
+| epoch  60 |   122/  142 batches | lr 1.00 | ms/batch 221.07 | loss 641.089 | reward -0.698 | MSE 0.636 |
+2019-07-25 14:09:35,388 INFO 
+| epoch  60 |   142/  142 batches | lr 1.00 | ms/batch 221.58 | loss 786.691 | reward -0.841 | MSE 0.781 |
+2019-07-25 14:09:39,820 INFO 
+| epoch  61 |    20/  142 batches | lr 1.00 | ms/batch 221.57 | loss 600.991 | reward -0.639 | MSE 0.578 |
+2019-07-25 14:09:44,160 INFO 
+| epoch  61 |    40/  142 batches | lr 1.00 | ms/batch 216.99 | loss 647.023 | reward -0.697 | MSE 0.640 |
+2019-07-25 14:09:44,636 INFO 
+| epoch  61 | Validation |loss 196.362 | reward -0.7265 | MSE 0.65629 | corr 0.59071 |
+2019-07-25 14:09:49,053 INFO 
+| epoch  61 |    60/  142 batches | lr 1.00 | ms/batch 220.84 | loss 591.844 | reward -0.632 | MSE 0.571 |
+2019-07-25 14:09:53,477 INFO 
+| epoch  61 |    80/  142 batches | lr 1.00 | ms/batch 221.18 | loss 553.323 | reward -0.624 | MSE 0.556 |
+2019-07-25 14:09:57,947 INFO 
+| epoch  61 |   100/  142 batches | lr 1.00 | ms/batch 223.51 | loss 508.430 | reward -0.609 | MSE 0.535 |
+2019-07-25 14:10:02,381 INFO 
+| epoch  61 |   120/  142 batches | lr 1.00 | ms/batch 221.68 | loss 555.489 | reward -0.673 | MSE 0.596 |
+2019-07-25 14:10:02,852 INFO 
+| epoch  61 | Validation |loss 190.561 | reward -0.7187 | MSE 0.63683 | corr 0.60257 |
+2019-07-25 14:10:07,284 INFO 
+| epoch  61 |   140/  142 batches | lr 1.00 | ms/batch 221.60 | loss 549.189 | reward -0.653 | MSE 0.579 |
+2019-07-25 14:10:11,710 INFO 
+| epoch  62 |    18/  142 batches | lr 1.00 | ms/batch 199.15 | loss 483.896 | reward -0.558 | MSE 0.497 |
+2019-07-25 14:10:16,138 INFO 
+| epoch  62 |    38/  142 batches | lr 1.00 | ms/batch 221.38 | loss 566.213 | reward -0.627 | MSE 0.565 |
+2019-07-25 14:10:20,569 INFO 
+| epoch  62 |    58/  142 batches | lr 1.00 | ms/batch 221.55 | loss 560.448 | reward -0.608 | MSE 0.549 |
+2019-07-25 14:10:21,044 INFO 
+| epoch  62 | Validation |loss 189.474 | reward -0.70702 | MSE 0.63336 | corr 0.59553 |
+2019-07-25 14:10:25,469 INFO 
+| epoch  62 |    78/  142 batches | lr 1.00 | ms/batch 221.24 | loss 549.321 | reward -0.629 | MSE 0.560 |
+2019-07-25 14:10:29,903 INFO 
+| epoch  62 |    98/  142 batches | lr 1.00 | ms/batch 221.70 | loss 540.688 | reward -0.615 | MSE 0.547 |
+2019-07-25 14:10:34,233 INFO 
+| epoch  62 |   118/  142 batches | lr 1.00 | ms/batch 216.46 | loss 563.096 | reward -0.646 | MSE 0.580 |
+2019-07-25 14:10:38,658 INFO 
+| epoch  62 |   138/  142 batches | lr 1.00 | ms/batch 221.26 | loss 627.442 | reward -0.696 | MSE 0.634 |
+2019-07-25 14:10:39,129 INFO 
+| epoch  62 | Validation |loss 188.671 | reward -0.69606 | MSE 0.63068 | corr 0.58383 |
+2019-07-25 14:10:43,578 INFO 
+| epoch  63 |    16/  142 batches | lr 1.00 | ms/batch 178.12 | loss 442.348 | reward -0.521 | MSE 0.465 |
+2019-07-25 14:10:48,030 INFO 
+| epoch  63 |    36/  142 batches | lr 1.00 | ms/batch 222.58 | loss 502.023 | reward -0.603 | MSE 0.530 |
+2019-07-25 14:10:52,476 INFO 
+| epoch  63 |    56/  142 batches | lr 1.00 | ms/batch 222.31 | loss 477.471 | reward -0.572 | MSE 0.499 |
+2019-07-25 14:10:56,914 INFO 
+| epoch  63 |    76/  142 batches | lr 1.00 | ms/batch 221.89 | loss 553.012 | reward -0.641 | MSE 0.573 |
+2019-07-25 14:10:57,397 INFO 
+| epoch  63 | Validation |loss 183.764 | reward -0.68243 | MSE 0.61409 | corr 0.58856 |
+2019-07-25 14:11:01,821 INFO 
+| epoch  63 |    96/  142 batches | lr 1.00 | ms/batch 221.18 | loss 545.513 | reward -0.608 | MSE 0.547 |
+2019-07-25 14:11:06,265 INFO 
+| epoch  63 |   116/  142 batches | lr 1.00 | ms/batch 222.18 | loss 661.172 | reward -0.711 | MSE 0.652 |
+2019-07-25 14:11:10,699 INFO 
+| epoch  63 |   136/  142 batches | lr 1.00 | ms/batch 221.73 | loss 538.560 | reward -0.627 | MSE 0.557 |
+2019-07-25 14:11:15,030 INFO 
+| epoch  64 |    14/  142 batches | lr 1.00 | ms/batch 155.06 | loss 344.958 | reward  -0.4 | MSE 0.352 |
+2019-07-25 14:11:15,499 INFO 
+| epoch  64 | Validation |loss 186.691 | reward -0.69919 | MSE 0.62401 | corr 0.59797 |
+2019-07-25 14:11:19,927 INFO 
+| epoch  64 |    34/  142 batches | lr 1.00 | ms/batch 221.40 | loss 547.868 | reward -0.636 | MSE 0.567 |
+2019-07-25 14:11:24,360 INFO 
+| epoch  64 |    54/  142 batches | lr 1.00 | ms/batch 221.65 | loss 520.511 | reward -0.603 | MSE 0.534 |
+2019-07-25 14:11:28,787 INFO 
+| epoch  64 |    74/  142 batches | lr 1.00 | ms/batch 221.29 | loss 725.547 | reward -0.801 | MSE 0.738 |
+2019-07-25 14:11:33,235 INFO 
+| epoch  64 |    94/  142 batches | lr 1.00 | ms/batch 222.43 | loss 518.091 | reward -0.572 | MSE 0.512 |
+2019-07-25 14:11:33,706 INFO 
+| epoch  64 | Validation |loss 203.927 | reward -0.75607 | MSE 0.68151 | corr 0.58179 |
+2019-07-25 14:11:38,132 INFO 
+| epoch  64 |   114/  142 batches | lr 1.00 | ms/batch 221.31 | loss 562.164 | reward -0.626 | MSE 0.564 |
+2019-07-25 14:11:42,460 INFO 
+| epoch  64 |   134/  142 batches | lr 1.00 | ms/batch 216.40 | loss 483.160 | reward -0.605 | MSE 0.530 |
+2019-07-25 14:11:46,889 INFO 
+| epoch  65 |    12/  142 batches | lr 1.00 | ms/batch 132.95 | loss 294.794 | reward -0.356 | MSE 0.312 |
+2019-07-25 14:11:51,236 INFO 
+| epoch  65 |    32/  142 batches | lr 1.00 | ms/batch 217.31 | loss 457.730 | reward -0.568 | MSE 0.496 |
+2019-07-25 14:11:51,705 INFO 
+| epoch  65 | Validation |loss 195.435 | reward -0.71645 | MSE 0.65322 | corr 0.58488 |
+2019-07-25 14:11:56,124 INFO 
+| epoch  65 |    52/  142 batches | lr 1.00 | ms/batch 220.94 | loss 641.631 | reward -0.734 | MSE 0.668 |
+2019-07-25 14:12:00,553 INFO 
+| epoch  65 |    72/  142 batches | lr 1.00 | ms/batch 221.42 | loss 458.783 | reward -0.558 | MSE 0.486 |
+2019-07-25 14:12:04,996 INFO 
+| epoch  65 |    92/  142 batches | lr 1.00 | ms/batch 222.16 | loss 540.065 | reward -0.632 | MSE 0.565 |
+2019-07-25 14:12:09,441 INFO 
+| epoch  65 |   112/  142 batches | lr 1.00 | ms/batch 222.25 | loss 505.645 | reward -0.576 | MSE 0.519 |
+2019-07-25 14:12:09,933 INFO 
+| epoch  65 | Validation |loss 194.255 | reward -0.71024 | MSE 0.6492 | corr 0.56887 |
+2019-07-25 14:12:14,354 INFO 
+| epoch  65 |   132/  142 batches | lr 1.00 | ms/batch 221.02 | loss 622.107 | reward -0.693 | MSE 0.638 |
+2019-07-25 14:12:18,775 INFO 
+| epoch  66 |    10/  142 batches | lr 1.00 | ms/batch 110.61 | loss 221.470 | reward -0.264 | MSE 0.229 |
+2019-07-25 14:12:23,234 INFO 
+| epoch  66 |    30/  142 batches | lr 1.00 | ms/batch 222.91 | loss 531.230 | reward -0.625 | MSE 0.555 |
+2019-07-25 14:12:27,661 INFO 
+| epoch  66 |    50/  142 batches | lr 1.00 | ms/batch 221.35 | loss 476.938 | reward -0.56 | MSE 0.492 |
+2019-07-25 14:12:28,131 INFO 
+| epoch  66 | Validation |loss 182.445 | reward -0.68756 | MSE 0.60967 | corr 0.59904 |
+2019-07-25 14:12:32,460 INFO 
+| epoch  66 |    70/  142 batches | lr 1.00 | ms/batch 216.45 | loss 527.745 | reward -0.623 | MSE 0.553 |
+2019-07-25 14:12:36,893 INFO 
+| epoch  66 |    90/  142 batches | lr 1.00 | ms/batch 221.67 | loss 507.068 | reward -0.604 | MSE 0.532 |
+2019-07-25 14:12:41,322 INFO 
+| epoch  66 |   110/  142 batches | lr 1.00 | ms/batch 221.41 | loss 542.525 | reward -0.625 | MSE 0.557 |
+2019-07-25 14:12:45,752 INFO 
+| epoch  66 |   130/  142 batches | lr 1.00 | ms/batch 221.52 | loss 664.550 | reward -0.752 | MSE 0.686 |
+2019-07-25 14:12:46,220 INFO 
+| epoch  66 | Validation |loss 194.157 | reward -0.71192 | MSE 0.64893 | corr 0.57457 |
+2019-07-25 14:12:50,652 INFO 
+| epoch  67 |     8/  142 batches | lr 1.00 | ms/batch 88.60 | loss 194.370 | reward -0.23 | MSE 0.201 |
+2019-07-25 14:12:54,990 INFO 
+| epoch  67 |    28/  142 batches | lr 1.00 | ms/batch 216.90 | loss 484.190 | reward -0.585 | MSE 0.513 |
+2019-07-25 14:12:59,421 INFO 
+| epoch  67 |    48/  142 batches | lr 1.00 | ms/batch 221.53 | loss 510.244 | reward -0.607 | MSE 0.534 |
+2019-07-25 14:13:03,848 INFO 
+| epoch  67 |    68/  142 batches | lr 1.00 | ms/batch 221.34 | loss 490.828 | reward -0.581 | MSE 0.510 |
+2019-07-25 14:13:04,317 INFO 
+| epoch  67 | Validation |loss 190.147 | reward -0.70585 | MSE 0.63558 | corr 0.57958 |
+2019-07-25 14:13:08,742 INFO 
+| epoch  67 |    88/  142 batches | lr 1.00 | ms/batch 221.19 | loss 580.685 | reward -0.636 | MSE 0.577 |
+2019-07-25 14:13:13,181 INFO 
+| epoch  67 |   108/  142 batches | lr 1.00 | ms/batch 221.99 | loss 544.791 | reward -0.621 | MSE 0.554 |
+2019-07-25 14:13:17,612 INFO 
+| epoch  67 |   128/  142 batches | lr 1.00 | ms/batch 221.53 | loss 640.455 | reward -0.737 | MSE 0.667 |
+2019-07-25 14:13:22,054 INFO 
+| epoch  68 |     6/  142 batches | lr 1.00 | ms/batch 66.57 | loss 156.236 | reward -0.185 | MSE 0.164 |
+2019-07-25 14:13:22,522 INFO 
+| epoch  68 | Validation |loss 191.201 | reward -0.7177 | MSE 0.63913 | corr 0.59560 |
+2019-07-25 14:13:26,953 INFO 
+| epoch  68 |    26/  142 batches | lr 1.00 | ms/batch 221.52 | loss 553.330 | reward -0.631 | MSE 0.565 |
+2019-07-25 14:13:31,280 INFO 
+| epoch  68 |    46/  142 batches | lr 1.00 | ms/batch 216.34 | loss 595.447 | reward -0.654 | MSE 0.596 |
+2019-07-25 14:13:35,710 INFO 
+| epoch  68 |    66/  142 batches | lr 1.00 | ms/batch 221.51 | loss 597.278 | reward -0.656 | MSE 0.599 |
+2019-07-25 14:13:40,131 INFO 
+| epoch  68 |    86/  142 batches | lr 1.00 | ms/batch 221.02 | loss 557.478 | reward -0.64 | MSE 0.574 |
+2019-07-25 14:13:40,609 INFO 
+| epoch  68 | Validation |loss 198.696 | reward -0.73657 | MSE 0.66402 | corr 0.58930 |
+2019-07-25 14:13:45,044 INFO 
+| epoch  68 |   106/  142 batches | lr 1.00 | ms/batch 221.71 | loss 533.549 | reward -0.615 | MSE 0.548 |
+2019-07-25 14:13:49,473 INFO 
+| epoch  68 |   126/  142 batches | lr 1.00 | ms/batch 221.45 | loss 544.197 | reward -0.628 | MSE 0.562 |
+2019-07-25 14:13:53,920 INFO 
+| epoch  69 |     4/  142 batches | lr 1.00 | ms/batch 44.46 | loss 110.416 | reward -0.128 | MSE 0.114 |
+2019-07-25 14:13:58,366 INFO 
+| epoch  69 |    24/  142 batches | lr 1.00 | ms/batch 222.26 | loss 533.441 | reward -0.612 | MSE 0.544 |
+2019-07-25 14:13:58,851 INFO 
+| epoch  69 | Validation |loss 184.217 | reward -0.69403 | MSE 0.61574 | corr 0.60327 |
+2019-07-25 14:14:03,297 INFO 
+| epoch  69 |    44/  142 batches | lr 1.00 | ms/batch 222.33 | loss 522.254 | reward -0.603 | MSE 0.534 |
+2019-07-25 14:14:07,636 INFO 
+| epoch  69 |    64/  142 batches | lr 1.00 | ms/batch 216.93 | loss 483.774 | reward -0.587 | MSE 0.514 |
+2019-07-25 14:14:12,062 INFO 
+| epoch  69 |    84/  142 batches | lr 1.00 | ms/batch 221.30 | loss 598.082 | reward -0.701 | MSE 0.629 |
+2019-07-25 14:14:16,504 INFO 
+| epoch  69 |   104/  142 batches | lr 1.00 | ms/batch 222.08 | loss 462.506 | reward -0.544 | MSE 0.475 |
+2019-07-25 14:14:16,974 INFO 
+| epoch  69 | Validation |loss 186.818 | reward -0.69356 | MSE 0.62444 | corr 0.59395 |
+2019-07-25 14:14:21,445 INFO 
+| epoch  69 |   124/  142 batches | lr 1.00 | ms/batch 223.51 | loss 519.863 | reward -0.592 | MSE 0.528 |
+2019-07-25 14:14:25,938 INFO 
+| epoch  70 |     2/  142 batches | lr 1.00 | ms/batch 22.20 | loss 52.412 | reward -0.0583 | MSE 0.052 |
+2019-07-25 14:14:30,403 INFO 
+| epoch  70 |    22/  142 batches | lr 1.00 | ms/batch 223.21 | loss 596.457 | reward -0.671 | MSE 0.607 |
+2019-07-25 14:14:34,854 INFO 
+| epoch  70 |    42/  142 batches | lr 1.00 | ms/batch 222.54 | loss 473.309 | reward -0.55 | MSE 0.484 |
+2019-07-25 14:14:35,349 INFO 
+| epoch  70 | Validation |loss 191.541 | reward -0.70904 | MSE 0.64003 | corr 0.57817 |
+2019-07-25 14:14:39,798 INFO 
+| epoch  70 |    62/  142 batches | lr 1.00 | ms/batch 222.45 | loss 571.713 | reward -0.622 | MSE 0.565 |
+2019-07-25 14:14:44,232 INFO 
+| epoch  70 |    82/  142 batches | lr 1.00 | ms/batch 221.68 | loss 589.166 | reward -0.66 | MSE 0.597 |
+2019-07-25 14:14:48,658 INFO 
+| epoch  70 |   102/  142 batches | lr 1.00 | ms/batch 221.29 | loss 592.381 | reward -0.645 | MSE 0.587 |
+2019-07-25 14:14:52,999 INFO 
+| epoch  70 |   122/  142 batches | lr 1.00 | ms/batch 217.06 | loss 490.998 | reward -0.555 | MSE 0.495 |
+2019-07-25 14:14:53,470 INFO 
+| epoch  70 | Validation |loss 182.267 | reward -0.67752 | MSE 0.60928 | corr 0.57934 |
+2019-07-25 14:14:57,937 INFO 
+| epoch  70 |   142/  142 batches | lr 1.00 | ms/batch 223.35 | loss 565.024 | reward -0.646 | MSE 0.579 |
+2019-07-25 14:15:02,379 INFO 
+| epoch  71 |    20/  142 batches | lr 1.00 | ms/batch 222.11 | loss 509.234 | reward -0.598 | MSE 0.529 |
+2019-07-25 14:15:06,806 INFO 
+| epoch  71 |    40/  142 batches | lr 1.00 | ms/batch 221.34 | loss 511.545 | reward -0.611 | MSE 0.539 |
+2019-07-25 14:15:11,240 INFO 
+| epoch  71 |    60/  142 batches | lr 1.00 | ms/batch 221.69 | loss 476.372 | reward -0.566 | MSE 0.494 |
+2019-07-25 14:15:11,710 INFO 
+| epoch  71 | Validation |loss 205.223 | reward -0.76214 | MSE 0.68589 | corr 0.58962 |
+2019-07-25 14:15:16,035 INFO 
+| epoch  71 |    80/  142 batches | lr 1.00 | ms/batch 216.20 | loss 508.283 | reward -0.612 | MSE 0.540 |
+2019-07-25 14:15:20,455 INFO 
+| epoch  71 |   100/  142 batches | lr 1.00 | ms/batch 221.03 | loss 500.257 | reward -0.586 | MSE 0.517 |
+2019-07-25 14:15:24,882 INFO 
+| epoch  71 |   120/  142 batches | lr 1.00 | ms/batch 221.30 | loss 527.136 | reward -0.626 | MSE 0.555 |
+2019-07-25 14:15:29,300 INFO 
+| epoch  71 |   140/  142 batches | lr 1.00 | ms/batch 220.92 | loss 515.216 | reward -0.627 | MSE 0.552 |
+2019-07-25 14:15:29,769 INFO 
+| epoch  71 | Validation |loss 182.636 | reward -0.69057 | MSE 0.61048 | corr 0.60015 |
+2019-07-25 14:15:34,197 INFO 
+| epoch  72 |    18/  142 batches | lr 1.00 | ms/batch 199.22 | loss 440.766 | reward -0.541 | MSE 0.473 |
+2019-07-25 14:15:38,522 INFO 
+| epoch  72 |    38/  142 batches | lr 1.00 | ms/batch 216.27 | loss 448.862 | reward -0.561 | MSE 0.488 |
+2019-07-25 14:15:42,949 INFO 
+| epoch  72 |    58/  142 batches | lr 1.00 | ms/batch 221.34 | loss 524.964 | reward -0.604 | MSE 0.538 |
+2019-07-25 14:15:47,378 INFO 
+| epoch  72 |    78/  142 batches | lr 1.00 | ms/batch 221.44 | loss 514.312 | reward -0.589 | MSE 0.524 |
+2019-07-25 14:15:47,857 INFO 
+| epoch  72 | Validation |loss 191.147 | reward -0.69189 | MSE 0.63872 | corr 0.55228 |
+2019-07-25 14:15:52,293 INFO 
+| epoch  72 |    98/  142 batches | lr 1.00 | ms/batch 221.75 | loss 513.539 | reward -0.57 | MSE 0.510 |
+2019-07-25 14:15:56,733 INFO 
+| epoch  72 |   118/  142 batches | lr 1.00 | ms/batch 222.00 | loss 537.164 | reward -0.63 | MSE 0.560 |
+2019-07-25 14:16:01,162 INFO 
+| epoch  72 |   138/  142 batches | lr 1.00 | ms/batch 221.44 | loss 547.662 | reward -0.649 | MSE 0.577 |
+2019-07-25 14:16:05,637 INFO 
+| epoch  73 |    16/  142 batches | lr 1.00 | ms/batch 179.33 | loss 462.687 | reward -0.505 | MSE 0.457 |
+2019-07-25 14:16:06,118 INFO 
+| epoch  73 | Validation |loss 196.413 | reward -0.70449 | MSE 0.6565 | corr 0.54437 |
+2019-07-25 14:16:10,556 INFO 
+| epoch  73 |    36/  142 batches | lr 1.00 | ms/batch 221.89 | loss 581.810 | reward -0.65 | MSE 0.584 |
+2019-07-25 14:16:14,990 INFO 
+| epoch  73 |    56/  142 batches | lr 1.00 | ms/batch 221.69 | loss 472.534 | reward -0.565 | MSE 0.492 |
+2019-07-25 14:16:19,311 INFO 
+| epoch  73 |    76/  142 batches | lr 1.00 | ms/batch 216.02 | loss 493.669 | reward -0.606 | MSE 0.531 |
+2019-07-25 14:16:23,730 INFO 
+| epoch  73 |    96/  142 batches | lr 1.00 | ms/batch 220.98 | loss 439.201 | reward -0.536 | MSE 0.462 |
+2019-07-25 14:16:24,201 INFO 
+| epoch  73 | Validation |loss 185.476 | reward -0.70152 | MSE 0.6198 | corr 0.58679 |
+2019-07-25 14:16:28,642 INFO 
+| epoch  73 |   116/  142 batches | lr 1.00 | ms/batch 222.04 | loss 585.899 | reward -0.668 | MSE 0.601 |
+2019-07-25 14:16:33,078 INFO 
+| epoch  73 |   136/  142 batches | lr 1.00 | ms/batch 221.77 | loss 567.151 | reward -0.635 | MSE 0.570 |
+2019-07-25 14:16:37,507 INFO 
+| epoch  74 |    14/  142 batches | lr 1.00 | ms/batch 155.02 | loss 342.820 | reward -0.394 | MSE 0.346 |
+2019-07-25 14:16:41,938 INFO 
+| epoch  74 |    34/  142 batches | lr 1.00 | ms/batch 221.54 | loss 491.445 | reward -0.586 | MSE 0.514 |
+2019-07-25 14:16:42,408 INFO 
+| epoch  74 | Validation |loss 184.575 | reward -0.69941 | MSE 0.6168 | corr 0.60151 |
+2019-07-25 14:16:46,872 INFO 
+| epoch  74 |    54/  142 batches | lr 1.00 | ms/batch 223.20 | loss 398.797 | reward -0.505 | MSE 0.428 |
+2019-07-25 14:16:51,335 INFO 
+| epoch  74 |    74/  142 batches | lr 1.00 | ms/batch 223.15 | loss 529.394 | reward -0.644 | MSE 0.568 |
+2019-07-25 14:16:55,794 INFO 
+| epoch  74 |    94/  142 batches | lr 1.00 | ms/batch 222.94 | loss 444.334 | reward -0.55 | MSE 0.475 |
+2019-07-25 14:17:00,256 INFO 
+| epoch  74 |   114/  142 batches | lr 1.00 | ms/batch 223.11 | loss 577.003 | reward -0.699 | MSE 0.623 |
+2019-07-25 14:17:00,736 INFO 
+| epoch  74 | Validation |loss 184.187 | reward -0.69661 | MSE 0.61559 | corr 0.59946 |
+2019-07-25 14:17:05,086 INFO 
+| epoch  74 |   134/  142 batches | lr 1.00 | ms/batch 217.49 | loss 455.032 | reward -0.574 | MSE 0.498 |
+2019-07-25 14:17:09,514 INFO 
+| epoch  75 |    12/  142 batches | lr 1.00 | ms/batch 132.83 | loss 272.909 | reward -0.331 | MSE 0.287 |
+2019-07-25 14:17:13,832 INFO 
+| epoch  75 |    32/  142 batches | lr 1.00 | ms/batch 215.88 | loss 491.703 | reward -0.59 | MSE 0.521 |
+2019-07-25 14:17:18,258 INFO 
+| epoch  75 |    52/  142 batches | lr 1.00 | ms/batch 221.29 | loss 483.736 | reward -0.58 | MSE 0.508 |
+2019-07-25 14:17:18,739 INFO 
+| epoch  75 | Validation |loss 178.566 | reward -0.67647 | MSE 0.59675 | corr 0.59759 |
+2019-07-25 14:17:23,164 INFO 
+| epoch  75 |    72/  142 batches | lr 1.00 | ms/batch 221.23 | loss 448.429 | reward -0.525 | MSE 0.457 |
+2019-07-25 14:17:27,607 INFO 
+| epoch  75 |    92/  142 batches | lr 1.00 | ms/batch 222.18 | loss 519.805 | reward -0.607 | MSE 0.538 |
+2019-07-25 14:17:32,032 INFO 
+| epoch  75 |   112/  142 batches | lr 1.00 | ms/batch 221.25 | loss 527.500 | reward -0.644 | MSE 0.568 |
+2019-07-25 14:17:36,467 INFO 
+| epoch  75 |   132/  142 batches | lr 1.00 | ms/batch 221.75 | loss 475.553 | reward -0.583 | MSE 0.508 |
+2019-07-25 14:17:36,938 INFO 
+| epoch  75 | Validation |loss 188.965 | reward -0.71116 | MSE 0.6316 | corr 0.59925 |
+2019-07-25 14:17:41,362 INFO 
+| epoch  76 |    10/  142 batches | lr 1.00 | ms/batch 110.60 | loss 229.041 | reward -0.269 | MSE 0.235 |
+2019-07-25 14:17:45,694 INFO 
+| epoch  76 |    30/  142 batches | lr 1.00 | ms/batch 216.61 | loss 502.269 | reward -0.584 | MSE 0.516 |
+2019-07-25 14:17:50,134 INFO 
+| epoch  76 |    50/  142 batches | lr 1.00 | ms/batch 221.97 | loss 487.430 | reward -0.551 | MSE 0.488 |
+2019-07-25 14:17:54,564 INFO 
+| epoch  76 |    70/  142 batches | lr 1.00 | ms/batch 221.48 | loss 600.858 | reward -0.659 | MSE 0.596 |
+2019-07-25 14:17:55,034 INFO 
+| epoch  76 | Validation |loss 187.015 | reward -0.701 | MSE 0.62504 | corr 0.58553 |
+2019-07-25 14:17:59,451 INFO 
+| epoch  76 |    90/  142 batches | lr 1.00 | ms/batch 220.85 | loss 491.901 | reward -0.571 | MSE 0.501 |
+2019-07-25 14:18:03,918 INFO 
+| epoch  76 |   110/  142 batches | lr 1.00 | ms/batch 223.36 | loss 511.330 | reward -0.601 | MSE 0.529 |
+2019-07-25 14:18:08,372 INFO 
+| epoch  76 |   130/  142 batches | lr 1.00 | ms/batch 222.66 | loss 540.531 | reward -0.637 | MSE 0.564 |
+2019-07-25 14:18:12,804 INFO 
+| epoch  77 |     8/  142 batches | lr 1.00 | ms/batch 88.49 | loss 195.925 | reward -0.233 | MSE 0.203 |
+2019-07-25 14:18:13,280 INFO 
+| epoch  77 | Validation |loss 184.625 | reward -0.69939 | MSE 0.61716 | corr 0.59790 |
+2019-07-25 14:18:17,709 INFO 
+| epoch  77 |    28/  142 batches | lr 1.00 | ms/batch 221.43 | loss 440.738 | reward -0.529 | MSE 0.457 |
+2019-07-25 14:18:22,137 INFO 
+| epoch  77 |    48/  142 batches | lr 1.00 | ms/batch 221.37 | loss 516.161 | reward -0.601 | MSE 0.531 |
+2019-07-25 14:18:26,464 INFO 
+| epoch  77 |    68/  142 batches | lr 1.00 | ms/batch 216.35 | loss 483.695 | reward -0.578 | MSE 0.508 |
+2019-07-25 14:18:30,889 INFO 
+| epoch  77 |    88/  142 batches | lr 1.00 | ms/batch 221.25 | loss 454.765 | reward -0.555 | MSE 0.481 |
+2019-07-25 14:18:31,359 INFO 
+| epoch  77 | Validation |loss 186.865 | reward -0.70625 | MSE 0.62445 | corr 0.60046 |
+2019-07-25 14:18:35,780 INFO 
+| epoch  77 |   108/  142 batches | lr 1.00 | ms/batch 221.01 | loss 464.482 | reward -0.558 | MSE 0.486 |
+2019-07-25 14:18:40,200 INFO 
+| epoch  77 |   128/  142 batches | lr 1.00 | ms/batch 221.01 | loss 502.186 | reward -0.606 | MSE 0.532 |
+2019-07-25 14:18:44,639 INFO 
+| epoch  78 |     6/  142 batches | lr 1.00 | ms/batch 67.19 | loss 132.013 | reward -0.166 | MSE 0.143 |
+2019-07-25 14:18:49,070 INFO 
+| epoch  78 |    26/  142 batches | lr 1.00 | ms/batch 221.58 | loss 428.552 | reward -0.533 | MSE 0.457 |
+2019-07-25 14:18:49,559 INFO 
+| epoch  78 | Validation |loss 183.256 | reward -0.69292 | MSE 0.61239 | corr 0.60179 |
+2019-07-25 14:18:54,001 INFO 
+| epoch  78 |    46/  142 batches | lr 1.00 | ms/batch 222.08 | loss 484.808 | reward -0.571 | MSE 0.501 |
+2019-07-25 14:18:58,327 INFO 
+| epoch  78 |    66/  142 batches | lr 1.00 | ms/batch 216.28 | loss 449.406 | reward -0.549 | MSE 0.478 |
+2019-07-25 14:19:02,771 INFO 
+| epoch  78 |    86/  142 batches | lr 1.00 | ms/batch 222.21 | loss 686.761 | reward -0.749 | MSE 0.689 |
+2019-07-25 14:19:07,203 INFO 
+| epoch  78 |   106/  142 batches | lr 1.00 | ms/batch 221.57 | loss 483.196 | reward -0.549 | MSE 0.483 |
+2019-07-25 14:19:07,673 INFO 
+| epoch  78 | Validation |loss 183.022 | reward -0.6924 | MSE 0.61178 | corr 0.60090 |
+2019-07-25 14:19:12,102 INFO 
+| epoch  78 |   126/  142 batches | lr 1.00 | ms/batch 221.45 | loss 512.297 | reward -0.594 | MSE 0.526 |
+2019-07-25 14:19:16,530 INFO 
+| epoch  79 |     4/  142 batches | lr 1.00 | ms/batch 44.23 | loss 108.179 | reward -0.123 | MSE 0.110 |
+2019-07-25 14:19:20,857 INFO 
+| epoch  79 |    24/  142 batches | lr 1.00 | ms/batch 216.34 | loss 497.698 | reward -0.57 | MSE 0.506 |
+2019-07-25 14:19:25,286 INFO 
+| epoch  79 |    44/  142 batches | lr 1.00 | ms/batch 221.40 | loss 546.055 | reward -0.585 | MSE 0.529 |
+2019-07-25 14:19:25,754 INFO 
+| epoch  79 | Validation |loss 194.221 | reward -0.71835 | MSE 0.6492 | corr 0.57921 |
+2019-07-25 14:19:30,173 INFO 
+| epoch  79 |    64/  142 batches | lr 1.00 | ms/batch 220.93 | loss 519.088 | reward -0.58 | MSE 0.518 |
+2019-07-25 14:19:34,593 INFO 
+| epoch  79 |    84/  142 batches | lr 1.00 | ms/batch 220.99 | loss 485.894 | reward -0.545 | MSE 0.484 |
+2019-07-25 14:19:39,015 INFO 
+| epoch  79 |   104/  142 batches | lr 1.00 | ms/batch 221.08 | loss 604.782 | reward -0.682 | MSE 0.615 |
+2019-07-25 14:19:43,431 INFO 
+| epoch  79 |   124/  142 batches | lr 1.00 | ms/batch 220.81 | loss 466.126 | reward -0.536 | MSE 0.468 |
+2019-07-25 14:19:43,907 INFO 
+| epoch  79 | Validation |loss 186.431 | reward -0.70246 | MSE 0.62314 | corr 0.59783 |
+2019-07-25 14:19:48,336 INFO 
+| epoch  80 |     2/  142 batches | lr 1.00 | ms/batch 22.16 | loss 48.088 | reward -0.0546 | MSE 0.048 |
+2019-07-25 14:19:52,764 INFO 
+| epoch  80 |    22/  142 batches | lr 1.00 | ms/batch 221.41 | loss 508.974 | reward  -0.6 | MSE 0.529 |
+2019-07-25 14:19:57,192 INFO 
+| epoch  80 |    42/  142 batches | lr 1.00 | ms/batch 221.37 | loss 515.072 | reward -0.572 | MSE 0.509 |
+2019-07-25 14:20:01,514 INFO 
+| epoch  80 |    62/  142 batches | lr 1.00 | ms/batch 216.12 | loss 482.280 | reward -0.561 | MSE 0.496 |
+2019-07-25 14:20:01,979 INFO 
+| epoch  80 | Validation |loss 183.815 | reward -0.68218 | MSE 0.6144 | corr 0.58472 |
+2019-07-25 14:20:06,405 INFO 
+| epoch  80 |    82/  142 batches | lr 1.00 | ms/batch 221.28 | loss 498.804 | reward -0.574 | MSE 0.506 |
+2019-07-25 14:20:10,839 INFO 
+| epoch  80 |   102/  142 batches | lr 1.00 | ms/batch 221.71 | loss 478.407 | reward -0.553 | MSE 0.487 |
+2019-07-25 14:20:15,268 INFO 
+| epoch  80 |   122/  142 batches | lr 1.00 | ms/batch 221.42 | loss 615.037 | reward -0.672 | MSE 0.614 |
+2019-07-25 14:20:19,693 INFO 
+| epoch  80 |   142/  142 batches | lr 1.00 | ms/batch 221.24 | loss 542.113 | reward -0.594 | MSE 0.534 |
+2019-07-25 14:20:20,158 INFO 
+| epoch  80 | Validation |loss 180.769 | reward -0.67723 | MSE 0.6042 | corr 0.58484 |
+2019-07-25 14:20:24,583 INFO 
+| epoch  81 |    20/  142 batches | lr 1.00 | ms/batch 221.24 | loss 563.661 | reward -0.616 | MSE 0.556 |
+2019-07-25 14:20:29,007 INFO 
+| epoch  81 |    40/  142 batches | lr 1.00 | ms/batch 221.20 | loss 537.492 | reward -0.56 | MSE 0.507 |
+2019-07-25 14:20:33,435 INFO 
+| epoch  81 |    60/  142 batches | lr 1.00 | ms/batch 221.39 | loss 565.625 | reward -0.615 | MSE 0.555 |
+2019-07-25 14:20:37,861 INFO 
+| epoch  81 |    80/  142 batches | lr 1.00 | ms/batch 221.30 | loss 555.188 | reward -0.589 | MSE 0.537 |
+2019-07-25 14:20:38,326 INFO 
+| epoch  81 | Validation |loss 190.286 | reward -0.6925 | MSE 0.63597 | corr 0.55557 |
+2019-07-25 14:20:42,755 INFO 
+| epoch  81 |   100/  142 batches | lr 1.00 | ms/batch 221.42 | loss 651.265 | reward -0.695 | MSE 0.635 |
+2019-07-25 14:20:47,183 INFO 
+| epoch  81 |   120/  142 batches | lr 1.00 | ms/batch 221.41 | loss 483.089 | reward -0.54 | MSE 0.478 |
+2019-07-25 14:20:51,512 INFO 
+| epoch  81 |   140/  142 batches | lr 1.00 | ms/batch 216.43 | loss 549.650 | reward -0.623 | MSE 0.565 |
+2019-07-25 14:20:55,939 INFO 
+| epoch  82 |    18/  142 batches | lr 1.00 | ms/batch 199.18 | loss 467.122 | reward -0.544 | MSE 0.482 |
+2019-07-25 14:20:56,403 INFO 
+| epoch  82 | Validation |loss 188.793 | reward -0.70863 | MSE 0.63093 | corr 0.59172 |
+2019-07-25 14:21:00,828 INFO 
+| epoch  82 |    38/  142 batches | lr 1.00 | ms/batch 221.23 | loss 471.786 | reward -0.561 | MSE 0.489 |
+2019-07-25 14:21:05,259 INFO 
+| epoch  82 |    58/  142 batches | lr 1.00 | ms/batch 221.58 | loss 468.803 | reward -0.567 | MSE 0.493 |
+2019-07-25 14:21:09,686 INFO 
+| epoch  82 |    78/  142 batches | lr 1.00 | ms/batch 221.33 | loss 501.238 | reward -0.609 | MSE 0.534 |
+2019-07-25 14:21:14,113 INFO 
+| epoch  82 |    98/  142 batches | lr 1.00 | ms/batch 221.32 | loss 426.549 | reward -0.528 | MSE 0.453 |
+2019-07-25 14:21:14,596 INFO 
+| epoch  82 | Validation |loss 184.710 | reward -0.69889 | MSE 0.6173 | corr 0.60007 |
+2019-07-25 14:21:19,026 INFO 
+| epoch  82 |   118/  142 batches | lr 1.00 | ms/batch 221.48 | loss 438.127 | reward -0.546 | MSE 0.470 |
+2019-07-25 14:21:23,363 INFO 
+| epoch  82 |   138/  142 batches | lr 1.00 | ms/batch 216.82 | loss 380.701 | reward -0.491 | MSE 0.415 |
+2019-07-25 14:21:27,682 INFO 
+| epoch  83 |    16/  142 batches | lr 1.00 | ms/batch 171.85 | loss 344.427 | reward -0.441 | MSE 0.379 |
+2019-07-25 14:21:32,111 INFO 
+| epoch  83 |    36/  142 batches | lr 1.00 | ms/batch 221.43 | loss 429.542 | reward -0.544 | MSE 0.465 |
+2019-07-25 14:21:32,576 INFO 
+| epoch  83 | Validation |loss 187.956 | reward -0.71041 | MSE 0.62833 | corr 0.59634 |
+2019-07-25 14:21:37,027 INFO 
+| epoch  83 |    56/  142 batches | lr 1.00 | ms/batch 222.54 | loss 430.890 | reward -0.539 | MSE 0.463 |
+2019-07-25 14:21:41,464 INFO 
+| epoch  83 |    76/  142 batches | lr 1.00 | ms/batch 221.86 | loss 405.877 | reward -0.503 | MSE 0.429 |
+2019-07-25 14:21:45,893 INFO 
+| epoch  83 |    96/  142 batches | lr 1.00 | ms/batch 221.46 | loss 466.106 | reward -0.568 | MSE 0.494 |
+2019-07-25 14:21:50,358 INFO 
+| epoch  83 |   116/  142 batches | lr 1.00 | ms/batch 223.25 | loss 498.115 | reward  -0.6 | MSE 0.527 |
+2019-07-25 14:21:50,831 INFO 
+| epoch  83 | Validation |loss 185.892 | reward -0.70079 | MSE 0.62121 | corr 0.59623 |
+2019-07-25 14:21:55,261 INFO 
+| epoch  83 |   136/  142 batches | lr 1.00 | ms/batch 221.50 | loss 435.011 | reward -0.541 | MSE 0.466 |
+2019-07-25 14:21:59,699 INFO 
+| epoch  84 |    14/  142 batches | lr 1.00 | ms/batch 154.94 | loss 285.111 | reward -0.359 | MSE 0.306 |
+2019-07-25 14:22:04,181 INFO 
+| epoch  84 |    34/  142 batches | lr 1.00 | ms/batch 224.09 | loss 483.125 | reward -0.589 | MSE 0.516 |
+2019-07-25 14:22:08,612 INFO 
+| epoch  84 |    54/  142 batches | lr 1.00 | ms/batch 221.54 | loss 457.908 | reward -0.54 | MSE 0.474 |
+2019-07-25 14:22:09,083 INFO 
+| epoch  84 | Validation |loss 188.927 | reward -0.69973 | MSE 0.63145 | corr 0.58068 |
+2019-07-25 14:22:13,510 INFO 
+| epoch  84 |    74/  142 batches | lr 1.00 | ms/batch 221.30 | loss 454.479 | reward -0.535 | MSE 0.470 |
+2019-07-25 14:22:17,957 INFO 
+| epoch  84 |    94/  142 batches | lr 1.00 | ms/batch 222.37 | loss 446.619 | reward -0.539 | MSE 0.468 |
+2019-07-25 14:22:22,379 INFO 
+| epoch  84 |   114/  142 batches | lr 1.00 | ms/batch 221.09 | loss 530.934 | reward -0.608 | MSE 0.547 |
+2019-07-25 14:22:26,931 INFO 
+| epoch  84 |   134/  142 batches | lr 1.00 | ms/batch 227.61 | loss 460.838 | reward -0.54 | MSE 0.477 |
+2019-07-25 14:22:27,519 INFO 
+| epoch  84 | Validation |loss 183.514 | reward -0.69017 | MSE 0.61318 | corr 0.59696 |
+2019-07-25 14:22:31,916 INFO 
+| epoch  85 |    12/  142 batches | lr 1.00 | ms/batch 133.42 | loss 249.236 | reward -0.308 | MSE 0.265 |
+2019-07-25 14:22:36,263 INFO 
+| epoch  85 |    32/  142 batches | lr 1.00 | ms/batch 217.35 | loss 499.936 | reward -0.602 | MSE 0.534 |
+2019-07-25 14:22:40,719 INFO 
+| epoch  85 |    52/  142 batches | lr 1.00 | ms/batch 222.76 | loss 429.469 | reward -0.527 | MSE 0.455 |
+2019-07-25 14:22:45,178 INFO 
+| epoch  85 |    72/  142 batches | lr 1.00 | ms/batch 222.93 | loss 431.690 | reward -0.535 | MSE 0.461 |
+2019-07-25 14:22:45,711 INFO 
+| epoch  85 | Validation |loss 185.900 | reward -0.69853 | MSE 0.62127 | corr 0.59362 |
+2019-07-25 14:22:50,245 INFO 
+| epoch  85 |    92/  142 batches | lr 1.00 | ms/batch 226.66 | loss 451.122 | reward -0.549 | MSE 0.479 |
+2019-07-25 14:22:54,746 INFO 
+| epoch  85 |   112/  142 batches | lr 1.00 | ms/batch 225.06 | loss 450.626 | reward -0.524 | MSE 0.464 |
+2019-07-25 14:22:59,455 INFO 
+| epoch  85 |   132/  142 batches | lr 1.00 | ms/batch 235.42 | loss 475.856 | reward -0.539 | MSE 0.482 |
+2019-07-25 14:23:04,075 INFO 
+| epoch  86 |    10/  142 batches | lr 1.00 | ms/batch 110.66 | loss 244.725 | reward -0.283 | MSE 0.251 |
+2019-07-25 14:23:04,556 INFO 
+| epoch  86 | Validation |loss 190.787 | reward -0.70146 | MSE 0.63754 | corr 0.58003 |
+2019-07-25 14:23:08,998 INFO 
+| epoch  86 |    30/  142 batches | lr 1.00 | ms/batch 222.09 | loss 459.321 | reward -0.534 | MSE 0.470 |
+2019-07-25 14:23:13,521 INFO 
+| epoch  86 |    50/  142 batches | lr 1.00 | ms/batch 226.15 | loss 488.619 | reward -0.574 | MSE 0.509 |
+2019-07-25 14:23:18,873 INFO 
+| epoch  86 |    70/  142 batches | lr 1.00 | ms/batch 267.61 | loss 432.130 | reward -0.538 | MSE 0.467 |
+2019-07-25 14:23:26,062 INFO 
+| epoch  86 |    90/  142 batches | lr 1.00 | ms/batch 359.41 | loss 483.227 | reward -0.574 | MSE 0.506 |
+2019-07-25 14:23:26,773 INFO 
+| epoch  86 | Validation |loss 196.170 | reward -0.73207 | MSE 0.65554 | corr 0.59293 |
+2019-07-25 14:23:31,226 INFO 
+| epoch  86 |   110/  142 batches | lr 1.00 | ms/batch 222.59 | loss 472.046 | reward -0.566 | MSE 0.497 |
+2019-07-25 14:23:35,657 INFO 
+| epoch  86 |   130/  142 batches | lr 1.00 | ms/batch 221.56 | loss 470.168 | reward -0.559 | MSE 0.491 |
+2019-07-25 14:23:40,089 INFO 
+| epoch  87 |     8/  142 batches | lr 1.00 | ms/batch 88.65 | loss 183.513 | reward -0.211 | MSE 0.186 |
+2019-07-25 14:23:44,534 INFO 
+| epoch  87 |    28/  142 batches | lr 1.00 | ms/batch 222.19 | loss 424.716 | reward -0.51 | MSE 0.441 |
+2019-07-25 14:23:45,018 INFO 
+| epoch  87 | Validation |loss 190.984 | reward -0.7159 | MSE 0.63821 | corr 0.58828 |
+2019-07-25 14:23:49,460 INFO 
+| epoch  87 |    48/  142 batches | lr 1.00 | ms/batch 222.07 | loss 420.661 | reward -0.521 | MSE 0.447 |
+2019-07-25 14:23:53,908 INFO 
+| epoch  87 |    68/  142 batches | lr 1.00 | ms/batch 222.41 | loss 424.625 | reward -0.53 | MSE 0.455 |
+2019-07-25 14:23:58,327 INFO 
+| epoch  87 |    88/  142 batches | lr 1.00 | ms/batch 220.93 | loss 515.152 | reward -0.618 | MSE 0.545 |
+2019-07-25 14:24:02,745 INFO 
+| epoch  87 |   108/  142 batches | lr 1.00 | ms/batch 220.88 | loss 449.381 | reward -0.544 | MSE 0.472 |
+2019-07-25 14:24:03,214 INFO 
+| epoch  87 | Validation |loss 184.126 | reward -0.69319 | MSE 0.61531 | corr 0.59797 |
+2019-07-25 14:24:07,646 INFO 
+| epoch  87 |   128/  142 batches | lr 1.00 | ms/batch 221.55 | loss 443.292 | reward -0.538 | MSE 0.466 |
+2019-07-25 14:24:11,971 INFO 
+| epoch  88 |     6/  142 batches | lr 1.00 | ms/batch 66.26 | loss 121.597 | reward -0.153 | MSE 0.131 |
+2019-07-25 14:24:16,290 INFO 
+| epoch  88 |    26/  142 batches | lr 1.00 | ms/batch 215.97 | loss 410.051 | reward -0.525 | MSE 0.448 |
+2019-07-25 14:24:20,706 INFO 
+| epoch  88 |    46/  142 batches | lr 1.00 | ms/batch 220.76 | loss 412.594 | reward -0.518 | MSE 0.443 |
+2019-07-25 14:24:21,174 INFO 
+| epoch  88 | Validation |loss 192.086 | reward -0.72194 | MSE 0.64194 | corr 0.56947 |
+2019-07-25 14:24:25,598 INFO 
+| epoch  88 |    66/  142 batches | lr 1.00 | ms/batch 221.20 | loss 385.423 | reward -0.49 | MSE 0.414 |
+2019-07-25 14:24:30,026 INFO 
+| epoch  88 |    86/  142 batches | lr 1.00 | ms/batch 221.42 | loss 433.784 | reward -0.541 | MSE 0.466 |
+2019-07-25 14:24:34,505 INFO 
+| epoch  88 |   106/  142 batches | lr 1.00 | ms/batch 223.93 | loss 500.711 | reward -0.594 | MSE 0.526 |
+2019-07-25 14:24:38,943 INFO 
+| epoch  88 |   126/  142 batches | lr 1.00 | ms/batch 221.88 | loss 408.764 | reward -0.497 | MSE 0.427 |
+2019-07-25 14:24:39,422 INFO 
+| epoch  88 | Validation |loss 196.429 | reward -0.7306 | MSE 0.6566 | corr 0.59613 |
+2019-07-25 14:24:39,445 INFO 
+---------------saved a new best model---------------
+2019-07-25 14:24:43,865 INFO 
+| epoch  89 |     4/  142 batches | lr 1.00 | ms/batch 44.17 | loss 75.213 | reward -0.094 | MSE 0.080 |
+2019-07-25 14:24:48,282 INFO 
+| epoch  89 |    24/  142 batches | lr 1.00 | ms/batch 220.81 | loss 418.700 | reward -0.511 | MSE 0.440 |
+2019-07-25 14:24:52,699 INFO 
+| epoch  89 |    44/  142 batches | lr 1.00 | ms/batch 220.84 | loss 405.747 | reward -0.503 | MSE 0.430 |
+2019-07-25 14:24:57,125 INFO 
+| epoch  89 |    64/  142 batches | lr 1.00 | ms/batch 221.33 | loss 438.814 | reward -0.542 | MSE 0.468 |
+2019-07-25 14:24:57,601 INFO 
+| epoch  89 | Validation |loss 196.143 | reward -0.73015 | MSE 0.65562 | corr 0.58973 |
+2019-07-25 14:25:02,027 INFO 
+| epoch  89 |    84/  142 batches | lr 1.00 | ms/batch 221.31 | loss 472.686 | reward -0.564 | MSE 0.495 |
+2019-07-25 14:25:06,355 INFO 
+| epoch  89 |   104/  142 batches | lr 1.00 | ms/batch 216.39 | loss 438.643 | reward -0.523 | MSE 0.459 |
+2019-07-25 14:25:10,782 INFO 
+| epoch  89 |   124/  142 batches | lr 1.00 | ms/batch 221.35 | loss 425.651 | reward -0.519 | MSE 0.448 |
+2019-07-25 14:25:15,210 INFO 
+| epoch  90 |     2/  142 batches | lr 1.00 | ms/batch 22.12 | loss 43.968 | reward -0.0496 | MSE 0.044 |
+2019-07-25 14:25:15,678 INFO 
+| epoch  90 | Validation |loss 191.032 | reward -0.70079 | MSE 0.63843 | corr 0.57460 |
+2019-07-25 14:25:20,106 INFO 
+| epoch  90 |    22/  142 batches | lr 1.00 | ms/batch 221.38 | loss 474.097 | reward -0.56 | MSE 0.495 |
+2019-07-25 14:25:24,446 INFO 
+| epoch  90 |    42/  142 batches | lr 1.00 | ms/batch 216.98 | loss 380.753 | reward -0.476 | MSE 0.406 |
+2019-07-25 14:25:28,888 INFO 
+| epoch  90 |    62/  142 batches | lr 1.00 | ms/batch 222.11 | loss 431.155 | reward -0.526 | MSE 0.454 |
+2019-07-25 14:25:33,311 INFO 
+| epoch  90 |    82/  142 batches | lr 1.00 | ms/batch 221.11 | loss 452.945 | reward -0.54 | MSE 0.473 |
+2019-07-25 14:25:33,781 INFO 
+| epoch  90 | Validation |loss 186.581 | reward -0.69591 | MSE 0.62337 | corr 0.59044 |
+2019-07-25 14:25:38,196 INFO 
+| epoch  90 |   102/  142 batches | lr 1.00 | ms/batch 220.76 | loss 419.944 | reward -0.505 | MSE 0.438 |
+2019-07-25 14:25:42,617 INFO 
+| epoch  90 |   122/  142 batches | lr 1.00 | ms/batch 221.06 | loss 444.687 | reward -0.519 | MSE 0.457 |
+2019-07-25 14:25:47,032 INFO 
+| epoch  90 |   142/  142 batches | lr 1.00 | ms/batch 220.72 | loss 424.581 | reward -0.517 | MSE 0.448 |
+2019-07-25 14:25:51,453 INFO 
+| epoch  91 |    20/  142 batches | lr 1.00 | ms/batch 221.06 | loss 413.622 | reward -0.495 | MSE 0.428 |
+2019-07-25 14:25:51,923 INFO 
+| epoch  91 | Validation |loss 189.255 | reward -0.70413 | MSE 0.63246 | corr 0.58503 |
+2019-07-25 14:25:56,253 INFO 
+| epoch  91 |    40/  142 batches | lr 1.00 | ms/batch 216.50 | loss 408.146 | reward -0.505 | MSE 0.436 |
+2019-07-25 14:26:00,683 INFO 
+| epoch  91 |    60/  142 batches | lr 1.00 | ms/batch 221.51 | loss 438.437 | reward -0.542 | MSE 0.468 |
+2019-07-25 14:26:05,113 INFO 
+| epoch  91 |    80/  142 batches | lr 1.00 | ms/batch 221.46 | loss 439.762 | reward -0.531 | MSE 0.460 |
+2019-07-25 14:26:09,537 INFO 
+| epoch  91 |   100/  142 batches | lr 1.00 | ms/batch 221.21 | loss 431.270 | reward -0.523 | MSE 0.453 |
+2019-07-25 14:26:10,018 INFO 
+| epoch  91 | Validation |loss 173.852 | reward -0.65716 | MSE 0.58105 | corr 0.60356 |
+2019-07-25 14:26:14,444 INFO 
+| epoch  91 |   120/  142 batches | lr 1.00 | ms/batch 221.29 | loss 438.547 | reward -0.533 | MSE 0.461 |
+2019-07-25 14:26:18,861 INFO 
+| epoch  91 |   140/  142 batches | lr 1.00 | ms/batch 220.84 | loss 412.336 | reward -0.507 | MSE 0.435 |
+2019-07-25 14:26:23,297 INFO 
+| epoch  92 |    18/  142 batches | lr 1.00 | ms/batch 199.70 | loss 390.657 | reward -0.47 | MSE 0.407 |
+2019-07-25 14:26:27,734 INFO 
+| epoch  92 |    38/  142 batches | lr 1.00 | ms/batch 221.87 | loss 418.632 | reward  -0.5 | MSE 0.432 |
+2019-07-25 14:26:28,213 INFO 
+| epoch  92 | Validation |loss 191.865 | reward -0.70008 | MSE 0.64125 | corr 0.56204 |
+2019-07-25 14:26:32,636 INFO 
+| epoch  92 |    58/  142 batches | lr 1.00 | ms/batch 221.16 | loss 459.077 | reward -0.543 | MSE 0.475 |
+2019-07-25 14:26:37,065 INFO 
+| epoch  92 |    78/  142 batches | lr 1.00 | ms/batch 221.40 | loss 436.400 | reward -0.525 | MSE 0.455 |
+2019-07-25 14:26:41,493 INFO 
+| epoch  92 |    98/  142 batches | lr 1.00 | ms/batch 221.41 | loss 455.237 | reward -0.532 | MSE 0.465 |
+2019-07-25 14:26:45,829 INFO 
+| epoch  92 |   118/  142 batches | lr 1.00 | ms/batch 216.79 | loss 478.990 | reward -0.577 | MSE 0.507 |
+2019-07-25 14:26:46,309 INFO 
+| epoch  92 | Validation |loss 188.455 | reward -0.70412 | MSE 0.62983 | corr 0.58784 |
+2019-07-25 14:26:50,738 INFO 
+| epoch  92 |   138/  142 batches | lr 1.00 | ms/batch 221.41 | loss 422.303 | reward -0.495 | MSE 0.428 |
+2019-07-25 14:26:55,170 INFO 
+| epoch  93 |    16/  142 batches | lr 1.00 | ms/batch 177.36 | loss 396.427 | reward -0.453 | MSE 0.401 |
+2019-07-25 14:26:59,609 INFO 
+| epoch  93 |    36/  142 batches | lr 1.00 | ms/batch 221.93 | loss 473.715 | reward -0.547 | MSE 0.479 |
+2019-07-25 14:27:04,057 INFO 
+| epoch  93 |    56/  142 batches | lr 1.00 | ms/batch 222.43 | loss 516.000 | reward -0.595 | MSE 0.529 |
+2019-07-25 14:27:04,537 INFO 
+| epoch  93 | Validation |loss 186.182 | reward -0.70077 | MSE 0.62232 | corr 0.59388 |
+2019-07-25 14:27:08,873 INFO 
+| epoch  93 |    76/  142 batches | lr 1.00 | ms/batch 216.80 | loss 426.269 | reward -0.525 | MSE 0.453 |
+2019-07-25 14:27:13,319 INFO 
+| epoch  93 |    96/  142 batches | lr 1.00 | ms/batch 222.26 | loss 398.935 | reward -0.497 | MSE 0.422 |
+2019-07-25 14:27:17,748 INFO 
+| epoch  93 |   116/  142 batches | lr 1.00 | ms/batch 221.47 | loss 393.338 | reward -0.491 | MSE 0.417 |
+2019-07-25 14:27:22,175 INFO 
+| epoch  93 |   136/  142 batches | lr 1.00 | ms/batch 221.35 | loss 397.647 | reward -0.497 | MSE 0.422 |
+2019-07-25 14:27:22,649 INFO 
+| epoch  93 | Validation |loss 208.596 | reward -0.77877 | MSE 0.69717 | corr 0.58520 |
+2019-07-25 14:27:27,081 INFO 
+| epoch  94 |    14/  142 batches | lr 1.00 | ms/batch 155.05 | loss 314.373 | reward -0.378 | MSE 0.328 |
+2019-07-25 14:27:31,526 INFO 
+| epoch  94 |    34/  142 batches | lr 1.00 | ms/batch 222.24 | loss 450.108 | reward -0.531 | MSE 0.462 |
+2019-07-25 14:27:35,963 INFO 
+| epoch  94 |    54/  142 batches | lr 1.00 | ms/batch 221.85 | loss 480.432 | reward -0.564 | MSE 0.496 |
+2019-07-25 14:27:40,396 INFO 
+| epoch  94 |    74/  142 batches | lr 1.00 | ms/batch 221.64 | loss 474.367 | reward -0.554 | MSE 0.485 |
+2019-07-25 14:27:40,869 INFO 
+| epoch  94 | Validation |loss 182.574 | reward -0.68476 | MSE 0.61012 | corr 0.59263 |
+2019-07-25 14:27:45,196 INFO 
+| epoch  94 |    94/  142 batches | lr 1.00 | ms/batch 216.32 | loss 434.652 | reward -0.511 | MSE 0.445 |
+2019-07-25 14:27:49,681 INFO 
+| epoch  94 |   114/  142 batches | lr 1.00 | ms/batch 224.24 | loss 447.354 | reward -0.536 | MSE 0.466 |
+2019-07-25 14:27:54,159 INFO 
+| epoch  94 |   134/  142 batches | lr 1.00 | ms/batch 223.88 | loss 466.020 | reward -0.548 | MSE 0.479 |
+2019-07-25 14:27:58,597 INFO 
+| epoch  95 |    12/  142 batches | lr 1.00 | ms/batch 132.85 | loss 305.678 | reward -0.358 | MSE 0.317 |
+2019-07-25 14:27:59,083 INFO 
+| epoch  95 | Validation |loss 184.189 | reward -0.68835 | MSE 0.61555 | corr 0.57453 |
+2019-07-25 14:28:03,534 INFO 
+| epoch  95 |    32/  142 batches | lr 1.00 | ms/batch 222.56 | loss 416.582 | reward -0.496 | MSE 0.428 |
+2019-07-25 14:28:07,946 INFO 
+| epoch  95 |    52/  142 batches | lr 1.00 | ms/batch 220.59 | loss 432.375 | reward -0.512 | MSE 0.444 |
+2019-07-25 14:28:12,362 INFO 
+| epoch  95 |    72/  142 batches | lr 1.00 | ms/batch 220.80 | loss 414.061 | reward -0.501 | MSE 0.431 |
+2019-07-25 14:28:16,783 INFO 
+| epoch  95 |    92/  142 batches | lr 1.00 | ms/batch 221.02 | loss 457.643 | reward -0.542 | MSE 0.474 |
+2019-07-25 14:28:17,267 INFO 
+| epoch  95 | Validation |loss 185.959 | reward -0.69867 | MSE 0.62169 | corr 0.59784 |
+2019-07-25 14:28:21,710 INFO 
+| epoch  95 |   112/  142 batches | lr 1.00 | ms/batch 222.11 | loss 481.507 | reward -0.549 | MSE 0.487 |
+2019-07-25 14:28:26,138 INFO 
+| epoch  95 |   132/  142 batches | lr 1.00 | ms/batch 221.39 | loss 435.063 | reward -0.512 | MSE 0.444 |
+2019-07-25 14:28:30,466 INFO 
+| epoch  96 |    10/  142 batches | lr 1.00 | ms/batch 110.78 | loss 184.874 | reward -0.231 | MSE 0.194 |
+2019-07-25 14:28:34,896 INFO 
+| epoch  96 |    30/  142 batches | lr 1.00 | ms/batch 221.51 | loss 420.219 | reward -0.516 | MSE 0.443 |
+2019-07-25 14:28:35,368 INFO 
+| epoch  96 | Validation |loss 186.740 | reward -0.70456 | MSE 0.62419 | corr 0.60178 |
+2019-07-25 14:28:39,801 INFO 
+| epoch  96 |    50/  142 batches | lr 1.00 | ms/batch 221.61 | loss 406.544 | reward -0.493 | MSE 0.422 |
+2019-07-25 14:28:44,253 INFO 
+| epoch  96 |    70/  142 batches | lr 1.00 | ms/batch 222.61 | loss 447.993 | reward -0.519 | MSE 0.456 |
+2019-07-25 14:28:48,689 INFO 
+| epoch  96 |    90/  142 batches | lr 1.00 | ms/batch 221.80 | loss 449.140 | reward -0.511 | MSE 0.452 |
+2019-07-25 14:28:53,115 INFO 
+| epoch  96 |   110/  142 batches | lr 1.00 | ms/batch 221.25 | loss 513.688 | reward -0.579 | MSE 0.521 |
+2019-07-25 14:28:53,579 INFO 
+| epoch  96 | Validation |loss 183.538 | reward -0.6805 | MSE 0.61343 | corr 0.58456 |
+2019-07-25 14:28:58,009 INFO 
+| epoch  96 |   130/  142 batches | lr 1.00 | ms/batch 221.47 | loss 529.775 | reward -0.576 | MSE 0.517 |
+2019-07-25 14:29:02,332 INFO 
+| epoch  97 |     8/  142 batches | lr 1.00 | ms/batch 88.40 | loss 162.433 | reward -0.195 | MSE 0.168 |
+2019-07-25 14:29:06,660 INFO 
+| epoch  97 |    28/  142 batches | lr 1.00 | ms/batch 216.39 | loss 419.661 | reward -0.505 | MSE 0.438 |
+2019-07-25 14:29:11,089 INFO 
+| epoch  97 |    48/  142 batches | lr 1.00 | ms/batch 221.48 | loss 430.893 | reward -0.51 | MSE 0.444 |
+2019-07-25 14:29:11,559 INFO 
+| epoch  97 | Validation |loss 197.140 | reward -0.73375 | MSE 0.65897 | corr 0.58429 |
+2019-07-25 14:29:15,986 INFO 
+| epoch  97 |    68/  142 batches | lr 1.00 | ms/batch 221.33 | loss 440.617 | reward -0.528 | MSE 0.459 |
+2019-07-25 14:29:20,415 INFO 
+| epoch  97 |    88/  142 batches | lr 1.00 | ms/batch 221.44 | loss 412.564 | reward -0.509 | MSE 0.436 |
+2019-07-25 14:29:24,846 INFO 
+| epoch  97 |   108/  142 batches | lr 1.00 | ms/batch 221.55 | loss 384.476 | reward -0.478 | MSE 0.406 |
+2019-07-25 14:29:29,275 INFO 
+| epoch  97 |   128/  142 batches | lr 1.00 | ms/batch 221.45 | loss 439.837 | reward -0.526 | MSE 0.457 |
+2019-07-25 14:29:29,745 INFO 
+| epoch  97 | Validation |loss 194.130 | reward -0.72676 | MSE 0.64881 | corr 0.58809 |
+2019-07-25 14:29:34,164 INFO 
+| epoch  98 |     6/  142 batches | lr 1.00 | ms/batch 66.29 | loss 115.606 | reward -0.143 | MSE 0.121 |
+2019-07-25 14:29:38,491 INFO 
+| epoch  98 |    26/  142 batches | lr 1.00 | ms/batch 216.34 | loss 406.778 | reward -0.493 | MSE 0.426 |
+2019-07-25 14:29:42,931 INFO 
+| epoch  98 |    46/  142 batches | lr 1.00 | ms/batch 221.99 | loss 403.727 | reward -0.487 | MSE 0.419 |
+2019-07-25 14:29:47,372 INFO 
+| epoch  98 |    66/  142 batches | lr 1.00 | ms/batch 222.06 | loss 416.148 | reward -0.499 | MSE 0.432 |
+2019-07-25 14:29:47,852 INFO 
+| epoch  98 | Validation |loss 188.578 | reward -0.69308 | MSE 0.6303 | corr 0.56960 |
+2019-07-25 14:29:52,284 INFO 
+| epoch  98 |    86/  142 batches | lr 1.00 | ms/batch 221.59 | loss 457.147 | reward -0.527 | MSE 0.465 |
+2019-07-25 14:29:56,715 INFO 
+| epoch  98 |   106/  142 batches | lr 1.00 | ms/batch 221.55 | loss 432.135 | reward -0.502 | MSE 0.439 |
+2019-07-25 14:30:01,141 INFO 
+| epoch  98 |   126/  142 batches | lr 1.00 | ms/batch 221.30 | loss 460.311 | reward -0.535 | MSE 0.471 |
+2019-07-25 14:30:05,570 INFO 
+| epoch  99 |     4/  142 batches | lr 1.00 | ms/batch 44.24 | loss 89.418 | reward -0.106 | MSE 0.093 |
+2019-07-25 14:30:06,035 INFO 
+| epoch  99 | Validation |loss 180.448 | reward -0.67626 | MSE 0.60309 | corr 0.59403 |
+2019-07-25 14:30:10,459 INFO 
+| epoch  99 |    24/  142 batches | lr 1.00 | ms/batch 221.22 | loss 399.298 | reward -0.488 | MSE 0.417 |
+2019-07-25 14:30:14,897 INFO 
+| epoch  99 |    44/  142 batches | lr 1.00 | ms/batch 221.88 | loss 407.449 | reward -0.489 | MSE 0.421 |
+2019-07-25 14:30:19,342 INFO 
+| epoch  99 |    64/  142 batches | lr 1.00 | ms/batch 222.23 | loss 426.008 | reward -0.521 | MSE 0.450 |
+2019-07-25 14:30:23,782 INFO 
+| epoch  99 |    84/  142 batches | lr 1.00 | ms/batch 222.02 | loss 385.693 | reward -0.484 | MSE 0.410 |
+2019-07-25 14:30:24,263 INFO 
+| epoch  99 | Validation |loss 188.714 | reward -0.70937 | MSE 0.63069 | corr 0.59213 |
+2019-07-25 14:30:28,590 INFO 
+| epoch  99 |   104/  142 batches | lr 1.00 | ms/batch 216.33 | loss 379.749 | reward -0.489 | MSE 0.415 |
+2019-07-25 14:30:33,013 INFO 
+| epoch  99 |   124/  142 batches | lr 1.00 | ms/batch 221.15 | loss 412.558 | reward -0.509 | MSE 0.437 |
+2019-07-25 14:30:37,440 INFO 
+| epoch 100 |     2/  142 batches | lr 1.00 | ms/batch 22.09 | loss 37.783 | reward -0.0469 | MSE 0.040 |
+2019-07-25 14:30:41,869 INFO 
+| epoch 100 |    22/  142 batches | lr 1.00 | ms/batch 221.45 | loss 441.004 | reward -0.524 | MSE 0.459 |
+2019-07-25 14:30:42,334 INFO 
+| epoch 100 | Validation |loss 195.437 | reward -0.72111 | MSE 0.65292 | corr 0.56456 |
+2019-07-25 14:30:46,760 INFO 
+| epoch 100 |    42/  142 batches | lr 1.00 | ms/batch 221.29 | loss 423.291 | reward -0.506 | MSE 0.441 |
+2019-07-25 14:30:51,201 INFO 
+| epoch 100 |    62/  142 batches | lr 1.00 | ms/batch 222.03 | loss 400.345 | reward -0.474 | MSE 0.412 |
+2019-07-25 14:30:55,636 INFO 
+| epoch 100 |    82/  142 batches | lr 1.00 | ms/batch 221.74 | loss 435.567 | reward -0.516 | MSE 0.450 |
+2019-07-25 14:30:59,967 INFO 
+| epoch 100 |   102/  142 batches | lr 1.00 | ms/batch 216.58 | loss 413.452 | reward -0.506 | MSE 0.439 |
+2019-07-25 14:31:00,444 INFO 
+| epoch 100 | Validation |loss 189.688 | reward -0.70758 | MSE 0.63401 | corr 0.59567 |
+2019-07-25 14:31:04,870 INFO 
+| epoch 100 |   122/  142 batches | lr 1.00 | ms/batch 221.33 | loss 425.449 | reward -0.511 | MSE 0.443 |
+2019-07-25 14:31:09,304 INFO 
+| epoch 100 |   142/  142 batches | lr 1.00 | ms/batch 221.65 | loss 378.299 | reward -0.462 | MSE 0.392 |
+2019-07-25 14:31:13,730 INFO 
+| epoch 101 |    20/  142 batches | lr 1.00 | ms/batch 221.29 | loss 391.152 | reward -0.477 | MSE 0.408 |
+2019-07-25 14:31:18,151 INFO 
+| epoch 101 |    40/  142 batches | lr 1.00 | ms/batch 221.07 | loss 385.463 | reward -0.479 | MSE 0.406 |
+2019-07-25 14:31:18,621 INFO 
+| epoch 101 | Validation |loss 177.523 | reward -0.66991 | MSE 0.59332 | corr 0.60658 |
+2019-07-25 14:31:23,051 INFO 
+| epoch 101 |    60/  142 batches | lr 1.00 | ms/batch 221.51 | loss 391.686 | reward -0.478 | MSE 0.408 |
+2019-07-25 14:31:27,478 INFO 
+| epoch 101 |    80/  142 batches | lr 1.00 | ms/batch 221.31 | loss 431.427 | reward -0.528 | MSE 0.456 |
+2019-07-25 14:31:31,912 INFO 
+| epoch 101 |   100/  142 batches | lr 1.00 | ms/batch 221.70 | loss 399.456 | reward -0.493 | MSE 0.420 |
+2019-07-25 14:31:36,333 INFO 
+| epoch 101 |   120/  142 batches | lr 1.00 | ms/batch 221.03 | loss 371.071 | reward -0.462 | MSE 0.390 |
+2019-07-25 14:31:36,799 INFO 
+| epoch 101 | Validation |loss 185.006 | reward -0.69759 | MSE 0.61827 | corr 0.60176 |
+2019-07-25 14:31:41,153 INFO 
+| epoch 101 |   140/  142 batches | lr 1.00 | ms/batch 217.71 | loss 390.517 | reward -0.497 | MSE 0.423 |
+2019-07-25 14:31:45,588 INFO 
+| epoch 102 |    18/  142 batches | lr 1.00 | ms/batch 199.50 | loss 364.052 | reward -0.439 | MSE 0.374 |
+2019-07-25 14:31:49,918 INFO 
+| epoch 102 |    38/  142 batches | lr 1.00 | ms/batch 216.49 | loss 393.119 | reward -0.487 | MSE 0.417 |
+2019-07-25 14:31:54,346 INFO 
+| epoch 102 |    58/  142 batches | lr 1.00 | ms/batch 221.40 | loss 368.618 | reward -0.458 | MSE 0.386 |
+2019-07-25 14:31:54,830 INFO 
+| epoch 102 | Validation |loss 183.532 | reward -0.69102 | MSE 0.61332 | corr 0.59098 |
+2019-07-25 14:31:59,267 INFO 
+| epoch 102 |    78/  142 batches | lr 1.00 | ms/batch 221.87 | loss 359.950 | reward -0.449 | MSE 0.378 |
+2019-07-25 14:32:03,708 INFO 
+| epoch 102 |    98/  142 batches | lr 1.00 | ms/batch 222.01 | loss 406.231 | reward -0.491 | MSE 0.422 |
+2019-07-25 14:32:08,169 INFO 
+| epoch 102 |   118/  142 batches | lr 1.00 | ms/batch 223.07 | loss 408.111 | reward -0.49 | MSE 0.423 |
+2019-07-25 14:32:12,641 INFO 
+| epoch 102 |   138/  142 batches | lr 1.00 | ms/batch 223.56 | loss 477.430 | reward -0.575 | MSE 0.506 |
+2019-07-25 14:32:13,121 INFO 
+| epoch 102 | Validation |loss 191.920 | reward -0.71881 | MSE 0.64146 | corr 0.58873 |
+2019-07-25 14:32:17,562 INFO 
+| epoch 103 |    16/  142 batches | lr 1.00 | ms/batch 177.44 | loss 294.871 | reward -0.358 | MSE 0.304 |
+2019-07-25 14:32:21,991 INFO 
+| epoch 103 |    36/  142 batches | lr 1.00 | ms/batch 221.42 | loss 427.267 | reward -0.519 | MSE 0.449 |
+2019-07-25 14:32:26,419 INFO 
+| epoch 103 |    56/  142 batches | lr 1.00 | ms/batch 221.40 | loss 393.951 | reward -0.475 | MSE 0.409 |
+2019-07-25 14:32:30,849 INFO 
+| epoch 103 |    76/  142 batches | lr 1.00 | ms/batch 221.48 | loss 391.873 | reward -0.485 | MSE 0.414 |
+2019-07-25 14:32:31,337 INFO 
+| epoch 103 | Validation |loss 189.374 | reward -0.70745 | MSE 0.63288 | corr 0.59424 |
+2019-07-25 14:32:35,674 INFO 
+| epoch 103 |    96/  142 batches | lr 1.00 | ms/batch 216.84 | loss 381.575 | reward -0.474 | MSE 0.405 |
+2019-07-25 14:32:40,096 INFO 
+| epoch 103 |   116/  142 batches | lr 1.00 | ms/batch 221.12 | loss 383.346 | reward -0.48 | MSE 0.407 |
+2019-07-25 14:32:44,517 INFO 
+| epoch 103 |   136/  142 batches | lr 1.00 | ms/batch 221.02 | loss 409.495 | reward -0.517 | MSE 0.441 |
+2019-07-25 14:32:48,977 INFO 
+| epoch 104 |    14/  142 batches | lr 1.00 | ms/batch 156.55 | loss 255.960 | reward -0.329 | MSE 0.276 |
+2019-07-25 14:32:49,448 INFO 
+| epoch 104 | Validation |loss 190.820 | reward -0.71898 | MSE 0.63768 | corr 0.59116 |
+2019-07-25 14:32:53,877 INFO 
+| epoch 104 |    34/  142 batches | lr 1.00 | ms/batch 221.44 | loss 386.761 | reward -0.493 | MSE 0.417 |
+2019-07-25 14:32:58,342 INFO 
+| epoch 104 |    54/  142 batches | lr 1.00 | ms/batch 223.24 | loss 414.494 | reward -0.517 | MSE 0.443 |
+2019-07-25 14:33:02,775 INFO 
+| epoch 104 |    74/  142 batches | lr 1.00 | ms/batch 221.65 | loss 393.043 | reward -0.479 | MSE 0.410 |
+2019-07-25 14:33:07,226 INFO 
+| epoch 104 |    94/  142 batches | lr 1.00 | ms/batch 222.52 | loss 402.965 | reward -0.497 | MSE 0.425 |
+2019-07-25 14:33:07,697 INFO 
+| epoch 104 | Validation |loss 181.127 | reward -0.68386 | MSE 0.60543 | corr 0.59606 |
+2019-07-25 14:33:12,126 INFO 
+| epoch 104 |   114/  142 batches | lr 1.00 | ms/batch 221.45 | loss 409.430 | reward -0.497 | MSE 0.427 |
+2019-07-25 14:33:16,469 INFO 
+| epoch 104 |   134/  142 batches | lr 1.00 | ms/batch 217.14 | loss 343.319 | reward -0.447 | MSE 0.373 |
+2019-07-25 14:33:20,907 INFO 
+| epoch 105 |    12/  142 batches | lr 1.00 | ms/batch 132.78 | loss 217.279 | reward -0.277 | MSE 0.232 |
+2019-07-25 14:33:25,332 INFO 
+| epoch 105 |    32/  142 batches | lr 1.00 | ms/batch 221.24 | loss 375.486 | reward -0.475 | MSE 0.401 |
+2019-07-25 14:33:25,802 INFO 
+| epoch 105 | Validation |loss 191.005 | reward -0.71789 | MSE 0.63848 | corr 0.59888 |
+2019-07-25 14:33:30,237 INFO 
+| epoch 105 |    52/  142 batches | lr 1.00 | ms/batch 221.74 | loss 363.253 | reward -0.464 | MSE 0.389 |
+2019-07-25 14:33:34,595 INFO 
+| epoch 105 |    72/  142 batches | lr 1.00 | ms/batch 217.92 | loss 401.723 | reward -0.504 | MSE 0.431 |
+2019-07-25 14:33:39,035 INFO 
+| epoch 105 |    92/  142 batches | lr 1.00 | ms/batch 221.97 | loss 389.583 | reward -0.477 | MSE 0.406 |
+2019-07-25 14:33:43,476 INFO 
+| epoch 105 |   112/  142 batches | lr 1.00 | ms/batch 222.03 | loss 417.187 | reward -0.51 | MSE 0.439 |
+2019-07-25 14:33:43,951 INFO 
+| epoch 105 | Validation |loss 178.181 | reward -0.67054 | MSE 0.59545 | corr 0.59378 |
+2019-07-25 14:33:48,384 INFO 
+| epoch 105 |   132/  142 batches | lr 1.00 | ms/batch 221.61 | loss 416.601 | reward -0.507 | MSE 0.437 |
+2019-07-25 14:33:52,811 INFO 
+| epoch 106 |    10/  142 batches | lr 1.00 | ms/batch 110.67 | loss 191.418 | reward -0.237 | MSE 0.202 |
+2019-07-25 14:33:57,236 INFO 
+| epoch 106 |    30/  142 batches | lr 1.00 | ms/batch 221.26 | loss 357.234 | reward -0.443 | MSE 0.373 |
+2019-07-25 14:34:01,662 INFO 
+| epoch 106 |    50/  142 batches | lr 1.00 | ms/batch 221.31 | loss 370.770 | reward -0.463 | MSE 0.391 |
+2019-07-25 14:34:02,148 INFO 
+| epoch 106 | Validation |loss 183.816 | reward -0.68592 | MSE 0.61428 | corr 0.58461 |
+2019-07-25 14:34:06,579 INFO 
+| epoch 106 |    70/  142 batches | lr 1.00 | ms/batch 221.53 | loss 374.919 | reward -0.469 | MSE 0.397 |
+2019-07-25 14:34:10,993 INFO 
+| epoch 106 |    90/  142 batches | lr 1.00 | ms/batch 220.73 | loss 371.300 | reward -0.473 | MSE 0.398 |
+2019-07-25 14:34:15,311 INFO 
+| epoch 106 |   110/  142 batches | lr 1.00 | ms/batch 215.89 | loss 376.739 | reward -0.491 | MSE 0.414 |
+2019-07-25 14:34:19,736 INFO 
+| epoch 106 |   130/  142 batches | lr 1.00 | ms/batch 221.23 | loss 369.512 | reward -0.473 | MSE 0.397 |
+2019-07-25 14:34:20,206 INFO 
+| epoch 106 | Validation |loss 181.525 | reward -0.68697 | MSE 0.60664 | corr 0.60558 |
+2019-07-25 14:34:24,640 INFO 
+| epoch 107 |     8/  142 batches | lr 1.00 | ms/batch 88.54 | loss 141.306 | reward -0.184 | MSE 0.153 |
+2019-07-25 14:34:29,068 INFO 
+| epoch 107 |    28/  142 batches | lr 1.00 | ms/batch 221.38 | loss 378.508 | reward -0.48 | MSE 0.405 |
+2019-07-25 14:34:33,497 INFO 
+| epoch 107 |    48/  142 batches | lr 1.00 | ms/batch 221.47 | loss 382.242 | reward -0.473 | MSE 0.402 |
+2019-07-25 14:34:37,829 INFO 
+| epoch 107 |    68/  142 batches | lr 1.00 | ms/batch 216.55 | loss 358.147 | reward -0.459 | MSE 0.388 |
+2019-07-25 14:34:38,327 INFO 
+| epoch 107 | Validation |loss 183.042 | reward -0.68929 | MSE 0.61173 | corr 0.59146 |
+2019-07-25 14:34:42,760 INFO 
+| epoch 107 |    88/  142 batches | lr 1.00 | ms/batch 221.63 | loss 371.947 | reward -0.469 | MSE 0.397 |
+2019-07-25 14:34:47,183 INFO 
+| epoch 107 |   108/  142 batches | lr 1.00 | ms/batch 221.17 | loss 349.498 | reward -0.446 | MSE 0.373 |
+2019-07-25 14:34:51,624 INFO 
+| epoch 107 |   128/  142 batches | lr 1.00 | ms/batch 222.02 | loss 346.931 | reward -0.453 | MSE 0.377 |
+2019-07-25 14:34:56,051 INFO 
+| epoch 108 |     6/  142 batches | lr 1.00 | ms/batch 66.36 | loss 102.733 | reward -0.135 | MSE 0.112 |
+2019-07-25 14:34:56,528 INFO 
+| epoch 108 | Validation |loss 206.192 | reward -0.76977 | MSE 0.68924 | corr 0.59463 |
+2019-07-25 14:35:00,958 INFO 
+| epoch 108 |    26/  142 batches | lr 1.00 | ms/batch 221.48 | loss 365.765 | reward -0.473 | MSE 0.397 |
+2019-07-25 14:35:05,393 INFO 
+| epoch 108 |    46/  142 batches | lr 1.00 | ms/batch 221.73 | loss 358.566 | reward -0.457 | MSE 0.384 |
+2019-07-25 14:35:09,715 INFO 
+| epoch 108 |    66/  142 batches | lr 1.00 | ms/batch 216.10 | loss 373.129 | reward -0.463 | MSE 0.398 |
+2019-07-25 14:35:14,182 INFO 
+| epoch 108 |    86/  142 batches | lr 1.00 | ms/batch 223.35 | loss 375.686 | reward -0.463 | MSE 0.396 |
+2019-07-25 14:35:14,668 INFO 
+| epoch 108 | Validation |loss 187.934 | reward -0.69838 | MSE 0.62823 | corr 0.58393 |
+2019-07-25 14:35:19,118 INFO 
+| epoch 108 |   106/  142 batches | lr 1.00 | ms/batch 222.49 | loss 394.279 | reward -0.473 | MSE 0.410 |
+2019-07-25 14:35:23,548 INFO 
+| epoch 108 |   126/  142 batches | lr 1.00 | ms/batch 221.49 | loss 383.142 | reward -0.471 | MSE 0.402 |
+2019-07-25 14:35:27,978 INFO 
+| epoch 109 |     4/  142 batches | lr 1.00 | ms/batch 44.36 | loss 76.059 | reward -0.0976 | MSE 0.082 |
+2019-07-25 14:35:32,406 INFO 
+| epoch 109 |    24/  142 batches | lr 1.00 | ms/batch 221.43 | loss 351.588 | reward -0.454 | MSE 0.379 |
+2019-07-25 14:35:32,877 INFO 
+| epoch 109 | Validation |loss 192.878 | reward -0.72019 | MSE 0.64451 | corr 0.58464 |
+2019-07-25 14:35:37,309 INFO 
+| epoch 109 |    44/  142 batches | lr 1.00 | ms/batch 221.63 | loss 359.140 | reward -0.455 | MSE 0.383 |
+2019-07-25 14:35:41,742 INFO 
+| epoch 109 |    64/  142 batches | lr 1.00 | ms/batch 221.62 | loss 352.569 | reward -0.453 | MSE 0.379 |
+2019-07-25 14:35:46,068 INFO 
+| epoch 109 |    84/  142 batches | lr 1.00 | ms/batch 216.31 | loss 359.375 | reward -0.469 | MSE 0.395 |
+2019-07-25 14:35:50,497 INFO 
+| epoch 109 |   104/  142 batches | lr 1.00 | ms/batch 221.45 | loss 336.293 | reward -0.438 | MSE 0.363 |
+2019-07-25 14:35:50,968 INFO 
+| epoch 109 | Validation |loss 182.175 | reward -0.68752 | MSE 0.60881 | corr 0.59775 |
+2019-07-25 14:35:55,397 INFO 
+| epoch 109 |   124/  142 batches | lr 1.00 | ms/batch 221.45 | loss 372.589 | reward -0.476 | MSE 0.401 |
+2019-07-25 14:35:59,825 INFO 
+| epoch 110 |     2/  142 batches | lr 1.00 | ms/batch 22.15 | loss 33.322 | reward -0.0436 | MSE 0.036 |
+2019-07-25 14:36:04,264 INFO 
+| epoch 110 |    22/  142 batches | lr 1.00 | ms/batch 221.90 | loss 339.137 | reward -0.44 | MSE 0.365 |
+2019-07-25 14:36:08,710 INFO 
+| epoch 110 |    42/  142 batches | lr 1.00 | ms/batch 222.29 | loss 375.321 | reward -0.475 | MSE 0.401 |
+2019-07-25 14:36:09,189 INFO 
+| epoch 110 | Validation |loss 188.970 | reward -0.71074 | MSE 0.63167 | corr 0.60556 |
+2019-07-25 14:36:13,532 INFO 
+| epoch 110 |    62/  142 batches | lr 1.00 | ms/batch 217.12 | loss 336.651 | reward -0.44 | MSE 0.368 |
+2019-07-25 14:36:17,973 INFO 
+| epoch 110 |    82/  142 batches | lr 1.00 | ms/batch 222.04 | loss 376.253 | reward -0.462 | MSE 0.394 |
+2019-07-25 14:36:22,401 INFO 
+| epoch 110 |   102/  142 batches | lr 1.00 | ms/batch 221.39 | loss 392.115 | reward -0.479 | MSE 0.410 |
+2019-07-25 14:36:26,823 INFO 
+| epoch 110 |   122/  142 batches | lr 1.00 | ms/batch 221.11 | loss 359.872 | reward -0.457 | MSE 0.384 |
+2019-07-25 14:36:27,298 INFO 
+| epoch 110 | Validation |loss 186.547 | reward -0.70204 | MSE 0.62367 | corr 0.59526 |
+2019-07-25 14:36:31,723 INFO 
+| epoch 110 |   142/  142 batches | lr 1.00 | ms/batch 221.25 | loss 359.999 | reward -0.455 | MSE 0.382 |
+2019-07-25 14:36:36,171 INFO 
+| epoch 111 |    20/  142 batches | lr 1.00 | ms/batch 222.39 | loss 419.947 | reward -0.513 | MSE 0.442 |
+2019-07-25 14:36:40,590 INFO 
+| epoch 111 |    40/  142 batches | lr 1.00 | ms/batch 220.93 | loss 399.996 | reward -0.485 | MSE 0.416 |
+2019-07-25 14:36:45,016 INFO 
+| epoch 111 |    60/  142 batches | lr 1.00 | ms/batch 221.29 | loss 390.205 | reward -0.472 | MSE 0.405 |
+2019-07-25 14:36:45,485 INFO 
+| epoch 111 | Validation |loss 191.621 | reward -0.71333 | MSE 0.64053 | corr 0.59096 |
+2019-07-25 14:36:49,813 INFO 
+| epoch 111 |    80/  142 batches | lr 1.00 | ms/batch 216.37 | loss 411.746 | reward -0.497 | MSE 0.432 |
+2019-07-25 14:36:54,242 INFO 
+| epoch 111 |   100/  142 batches | lr 1.00 | ms/batch 221.48 | loss 370.148 | reward -0.454 | MSE 0.386 |
+2019-07-25 14:36:58,671 INFO 
+| epoch 111 |   120/  142 batches | lr 1.00 | ms/batch 221.41 | loss 376.300 | reward -0.457 | MSE 0.391 |
+2019-07-25 14:37:03,097 INFO 
+| epoch 111 |   140/  142 batches | lr 1.00 | ms/batch 221.30 | loss 369.310 | reward -0.448 | MSE 0.381 |
+2019-07-25 14:37:03,567 INFO 
+| epoch 111 | Validation |loss 197.793 | reward -0.73666 | MSE 0.66113 | corr 0.59318 |
+2019-07-25 14:37:07,988 INFO 
+| epoch 112 |    18/  142 batches | lr 1.00 | ms/batch 198.92 | loss 339.475 | reward -0.421 | MSE 0.357 |
+2019-07-25 14:37:12,311 INFO 
+| epoch 112 |    38/  142 batches | lr 1.00 | ms/batch 216.15 | loss 372.525 | reward -0.472 | MSE 0.400 |
+2019-07-25 14:37:16,739 INFO 
+| epoch 112 |    58/  142 batches | lr 1.00 | ms/batch 221.39 | loss 349.579 | reward -0.433 | MSE 0.364 |
+2019-07-25 14:37:21,180 INFO 
+| epoch 112 |    78/  142 batches | lr 1.00 | ms/batch 222.02 | loss 422.166 | reward -0.504 | MSE 0.439 |
+2019-07-25 14:37:21,657 INFO 
+| epoch 112 | Validation |loss 188.945 | reward -0.70655 | MSE 0.6314 | corr 0.58976 |
+2019-07-25 14:37:26,094 INFO 
+| epoch 112 |    98/  142 batches | lr 1.00 | ms/batch 221.84 | loss 359.914 | reward -0.449 | MSE 0.378 |
+2019-07-25 14:37:30,540 INFO 
+| epoch 112 |   118/  142 batches | lr 1.00 | ms/batch 222.27 | loss 345.699 | reward -0.437 | MSE 0.364 |
+2019-07-25 14:37:34,964 INFO 
+| epoch 112 |   138/  142 batches | lr 1.00 | ms/batch 221.21 | loss 345.088 | reward -0.444 | MSE 0.369 |
+2019-07-25 14:37:39,381 INFO 
+| epoch 113 |    16/  142 batches | lr 1.00 | ms/batch 176.72 | loss 281.710 | reward -0.363 | MSE 0.302 |
+2019-07-25 14:37:39,858 INFO 
+| epoch 113 | Validation |loss 181.320 | reward -0.68463 | MSE 0.60594 | corr 0.59497 |
+2019-07-25 14:37:44,285 INFO 
+| epoch 113 |    36/  142 batches | lr 1.00 | ms/batch 221.33 | loss 365.822 | reward -0.467 | MSE 0.391 |
+2019-07-25 14:37:48,715 INFO 
+| epoch 113 |    56/  142 batches | lr 1.00 | ms/batch 221.49 | loss 356.906 | reward -0.461 | MSE 0.385 |
+2019-07-25 14:37:53,132 INFO 
+| epoch 113 |    76/  142 batches | lr 1.00 | ms/batch 220.82 | loss 348.428 | reward -0.445 | MSE 0.372 |
+2019-07-25 14:37:57,546 INFO 
+| epoch 113 |    96/  142 batches | lr 1.00 | ms/batch 220.72 | loss 335.025 | reward -0.427 | MSE 0.355 |
+2019-07-25 14:37:58,016 INFO 
+| epoch 113 | Validation |loss 192.818 | reward -0.72249 | MSE 0.64438 | corr 0.59338 |
+2019-07-25 14:38:02,362 INFO 
+| epoch 113 |   116/  142 batches | lr 1.00 | ms/batch 217.31 | loss 326.544 | reward -0.43 | MSE 0.356 |
+2019-07-25 14:38:06,795 INFO 
+| epoch 113 |   136/  142 batches | lr 1.00 | ms/batch 221.60 | loss 343.690 | reward -0.443 | MSE 0.368 |
+2019-07-25 14:38:11,222 INFO 
+| epoch 114 |    14/  142 batches | lr 1.00 | ms/batch 154.90 | loss 239.177 | reward  -0.3 | MSE 0.252 |
+2019-07-25 14:38:15,650 INFO 
+| epoch 114 |    34/  142 batches | lr 1.00 | ms/batch 221.39 | loss 354.742 | reward -0.45 | MSE 0.377 |
+2019-07-25 14:38:16,119 INFO 
+| epoch 114 | Validation |loss 185.622 | reward -0.69693 | MSE 0.6205 | corr 0.60380 |
+2019-07-25 14:38:20,554 INFO 
+| epoch 114 |    54/  142 batches | lr 1.00 | ms/batch 221.74 | loss 323.572 | reward -0.415 | MSE 0.343 |
+2019-07-25 14:38:24,880 INFO 
+| epoch 114 |    74/  142 batches | lr 1.00 | ms/batch 216.32 | loss 328.589 | reward -0.424 | MSE 0.353 |
+2019-07-25 14:38:29,307 INFO 
+| epoch 114 |    94/  142 batches | lr 1.00 | ms/batch 221.33 | loss 376.946 | reward -0.464 | MSE 0.395 |
+2019-07-25 14:38:33,741 INFO 
+| epoch 114 |   114/  142 batches | lr 1.00 | ms/batch 221.71 | loss 357.679 | reward -0.456 | MSE 0.382 |
+2019-07-25 14:38:34,209 INFO 
+| epoch 114 | Validation |loss 179.939 | reward -0.68134 | MSE 0.60147 | corr 0.60150 |
+2019-07-25 14:38:38,644 INFO 
+| epoch 114 |   134/  142 batches | lr 1.00 | ms/batch 221.77 | loss 365.877 | reward -0.469 | MSE 0.393 |
+2019-07-25 14:38:43,079 INFO 
+| epoch 115 |    12/  142 batches | lr 1.00 | ms/batch 132.81 | loss 190.629 | reward -0.25 | MSE 0.205 |
+2019-07-25 14:38:47,513 INFO 
+| epoch 115 |    32/  142 batches | lr 1.00 | ms/batch 221.71 | loss 320.268 | reward -0.42 | MSE 0.344 |
+2019-07-25 14:38:51,941 INFO 
+| epoch 115 |    52/  142 batches | lr 1.00 | ms/batch 221.38 | loss 381.520 | reward -0.486 | MSE 0.411 |
+2019-07-25 14:38:52,410 INFO 
+| epoch 115 | Validation |loss 176.365 | reward -0.6684 | MSE 0.58952 | corr 0.59651 |
+2019-07-25 14:38:56,843 INFO 
+| epoch 115 |    72/  142 batches | lr 1.00 | ms/batch 221.64 | loss 345.256 | reward -0.446 | MSE 0.371 |
+2019-07-25 14:39:01,276 INFO 
+| epoch 115 |    92/  142 batches | lr 1.00 | ms/batch 221.64 | loss 318.954 | reward -0.411 | MSE 0.339 |
+2019-07-25 14:39:05,710 INFO 
+| epoch 115 |   112/  142 batches | lr 1.00 | ms/batch 221.74 | loss 374.860 | reward -0.464 | MSE 0.394 |
+2019-07-25 14:39:10,028 INFO 
+| epoch 115 |   132/  142 batches | lr 1.00 | ms/batch 215.85 | loss 351.732 | reward -0.45 | MSE 0.379 |
+2019-07-25 14:39:10,497 INFO 
+| epoch 115 | Validation |loss 182.869 | reward -0.68493 | MSE 0.61104 | corr 0.59393 |
+2019-07-25 14:39:14,930 INFO 
+| epoch 116 |    10/  142 batches | lr 1.00 | ms/batch 110.68 | loss 166.747 | reward -0.216 | MSE 0.179 |
+2019-07-25 14:39:19,358 INFO 
+| epoch 116 |    30/  142 batches | lr 1.00 | ms/batch 221.39 | loss 336.780 | reward -0.437 | MSE 0.362 |
+2019-07-25 14:39:23,789 INFO 
+| epoch 116 |    50/  142 batches | lr 1.00 | ms/batch 221.56 | loss 318.006 | reward -0.419 | MSE 0.344 |
+2019-07-25 14:39:28,214 INFO 
+| epoch 116 |    70/  142 batches | lr 1.00 | ms/batch 221.23 | loss 345.408 | reward -0.441 | MSE 0.368 |
+2019-07-25 14:39:28,684 INFO 
+| epoch 116 | Validation |loss 189.647 | reward -0.70347 | MSE 0.63398 | corr 0.58912 |
+2019-07-25 14:39:33,118 INFO 
+| epoch 116 |    90/  142 batches | lr 1.00 | ms/batch 221.73 | loss 377.655 | reward -0.468 | MSE 0.399 |
+2019-07-25 14:39:37,445 INFO 
+| epoch 116 |   110/  142 batches | lr 1.00 | ms/batch 216.32 | loss 326.407 | reward -0.43 | MSE 0.357 |
+2019-07-25 14:39:41,885 INFO 
+| epoch 116 |   130/  142 batches | lr 1.00 | ms/batch 222.02 | loss 354.218 | reward -0.46 | MSE 0.385 |
+2019-07-25 14:39:46,327 INFO 
+| epoch 117 |     8/  142 batches | lr 1.00 | ms/batch 88.75 | loss 136.641 | reward -0.177 | MSE 0.148 |
+2019-07-25 14:39:46,797 INFO 
+| epoch 117 | Validation |loss 185.118 | reward -0.69698 | MSE 0.61888 | corr 0.59163 |
+2019-07-25 14:39:51,238 INFO 
+| epoch 117 |    28/  142 batches | lr 1.00 | ms/batch 222.05 | loss 338.724 | reward -0.442 | MSE 0.367 |
+2019-07-25 14:39:55,668 INFO 
+| epoch 117 |    48/  142 batches | lr 1.00 | ms/batch 221.51 | loss 315.909 | reward -0.414 | MSE 0.341 |
+2019-07-25 14:40:00,090 INFO 
+| epoch 117 |    68/  142 batches | lr 1.00 | ms/batch 221.08 | loss 342.858 | reward -0.432 | MSE 0.362 |
+2019-07-25 14:40:04,507 INFO 
+| epoch 117 |    88/  142 batches | lr 1.00 | ms/batch 220.86 | loss 336.268 | reward -0.428 | MSE 0.357 |
+2019-07-25 14:40:04,992 INFO 
+| epoch 117 | Validation |loss 195.405 | reward -0.72321 | MSE 0.65308 | corr 0.57712 |
+2019-07-25 14:40:09,333 INFO 
+| epoch 117 |   108/  142 batches | lr 1.00 | ms/batch 217.06 | loss 398.194 | reward -0.49 | MSE 0.424 |
+2019-07-25 14:40:13,751 INFO 
+| epoch 117 |   128/  142 batches | lr 1.00 | ms/batch 220.90 | loss 355.991 | reward -0.448 | MSE 0.376 |
+2019-07-25 14:40:18,170 INFO 
+| epoch 118 |     6/  142 batches | lr 1.00 | ms/batch 66.38 | loss 105.710 | reward -0.13 | MSE 0.110 |
+2019-07-25 14:40:22,610 INFO 
+| epoch 118 |    26/  142 batches | lr 1.00 | ms/batch 222.01 | loss 369.629 | reward -0.456 | MSE 0.386 |
+2019-07-25 14:40:23,090 INFO 
+| epoch 118 | Validation |loss 194.699 | reward -0.72881 | MSE 0.65085 | corr 0.59005 |
+2019-07-25 14:40:27,412 INFO 
+| epoch 118 |    46/  142 batches | lr 1.00 | ms/batch 216.09 | loss 347.519 | reward -0.448 | MSE 0.374 |
+2019-07-25 14:40:31,829 INFO 
+| epoch 118 |    66/  142 batches | lr 1.00 | ms/batch 220.86 | loss 348.276 | reward -0.434 | MSE 0.364 |
+2019-07-25 14:40:36,259 INFO 
+| epoch 118 |    86/  142 batches | lr 1.00 | ms/batch 221.49 | loss 348.607 | reward -0.436 | MSE 0.365 |
+2019-07-25 14:40:40,689 INFO 
+| epoch 118 |   106/  142 batches | lr 1.00 | ms/batch 221.50 | loss 395.081 | reward -0.479 | MSE 0.410 |
+2019-07-25 14:40:41,158 INFO 
+| epoch 118 | Validation |loss 180.764 | reward -0.68308 | MSE 0.60432 | corr 0.58128 |
+2019-07-25 14:40:45,579 INFO 
+| epoch 118 |   126/  142 batches | lr 1.00 | ms/batch 221.04 | loss 335.941 | reward -0.429 | MSE 0.355 |
+2019-07-25 14:40:50,011 INFO 
+| epoch 119 |     4/  142 batches | lr 1.00 | ms/batch 44.40 | loss 70.744 | reward -0.0897 | MSE 0.075 |
+2019-07-25 14:40:54,445 INFO 
+| epoch 119 |    24/  142 batches | lr 1.00 | ms/batch 221.66 | loss 331.508 | reward -0.426 | MSE 0.351 |
+2019-07-25 14:40:58,872 INFO 
+| epoch 119 |    44/  142 batches | lr 1.00 | ms/batch 221.37 | loss 351.632 | reward -0.444 | MSE 0.370 |
+2019-07-25 14:40:59,353 INFO 
+| epoch 119 | Validation |loss 178.351 | reward -0.67758 | MSE 0.59614 | corr 0.60149 |
+2019-07-25 14:41:03,797 INFO 
+| epoch 119 |    64/  142 batches | lr 1.00 | ms/batch 222.21 | loss 338.012 | reward -0.432 | MSE 0.358 |
+2019-07-25 14:41:08,246 INFO 
+| epoch 119 |    84/  142 batches | lr 1.00 | ms/batch 222.40 | loss 342.557 | reward -0.432 | MSE 0.359 |
+2019-07-25 14:41:12,682 INFO 
+| epoch 119 |   104/  142 batches | lr 1.00 | ms/batch 221.83 | loss 350.622 | reward -0.452 | MSE 0.375 |
+2019-07-25 14:41:17,012 INFO 
+| epoch 119 |   124/  142 batches | lr 1.00 | ms/batch 216.49 | loss 313.174 | reward -0.419 | MSE 0.343 |
+2019-07-25 14:41:17,482 INFO 
+| epoch 119 | Validation |loss 184.915 | reward -0.69696 | MSE 0.61799 | corr 0.59304 |
+2019-07-25 14:41:21,916 INFO 
+| epoch 120 |     2/  142 batches | lr 1.00 | ms/batch 22.13 | loss 37.804 | reward -0.0478 | MSE 0.040 |
+2019-07-25 14:41:26,340 INFO 
+| epoch 120 |    22/  142 batches | lr 1.00 | ms/batch 221.19 | loss 344.173 | reward -0.441 | MSE 0.366 |
+2019-07-25 14:41:30,767 INFO 
+| epoch 120 |    42/  142 batches | lr 1.00 | ms/batch 221.37 | loss 311.348 | reward -0.403 | MSE 0.328 |
+2019-07-25 14:41:35,110 INFO 
+| epoch 120 |    62/  142 batches | lr 1.00 | ms/batch 217.14 | loss 325.066 | reward -0.427 | MSE 0.352 |
+2019-07-25 14:41:35,583 INFO 
+| epoch 120 | Validation |loss 208.165 | reward -0.77329 | MSE 0.69554 | corr 0.57786 |
+2019-07-25 14:41:40,024 INFO 
+| epoch 120 |    82/  142 batches | lr 1.00 | ms/batch 222.02 | loss 358.678 | reward -0.445 | MSE 0.374 |
+2019-07-25 14:41:44,454 INFO 
+| epoch 120 |   102/  142 batches | lr 1.00 | ms/batch 221.49 | loss 337.676 | reward -0.434 | MSE 0.359 |
+2019-07-25 14:41:48,881 INFO 
+| epoch 120 |   122/  142 batches | lr 1.00 | ms/batch 221.33 | loss 331.524 | reward -0.425 | MSE 0.350 |
+2019-07-25 14:41:53,309 INFO 
+| epoch 120 |   142/  142 batches | lr 1.00 | ms/batch 221.39 | loss 328.509 | reward -0.426 | MSE 0.350 |
+2019-07-25 14:41:53,782 INFO 
+| epoch 120 | Validation |loss 190.699 | reward -0.71569 | MSE 0.63739 | corr 0.58761 |
+2019-07-25 14:41:58,210 INFO 
+| epoch 121 |    20/  142 batches | lr 1.00 | ms/batch 221.38 | loss 336.812 | reward -0.426 | MSE 0.354 |
+2019-07-25 14:42:02,545 INFO 
+| epoch 121 |    40/  142 batches | lr 1.00 | ms/batch 216.74 | loss 337.596 | reward -0.437 | MSE 0.364 |
+2019-07-25 14:42:06,976 INFO 
+| epoch 121 |    60/  142 batches | lr 1.00 | ms/batch 221.54 | loss 342.714 | reward -0.433 | MSE 0.360 |
+2019-07-25 14:42:11,411 INFO 
+| epoch 121 |    80/  142 batches | lr 1.00 | ms/batch 221.75 | loss 328.464 | reward -0.416 | MSE 0.344 |
+2019-07-25 14:42:11,891 INFO 
+| epoch 121 | Validation |loss 187.771 | reward -0.7059 | MSE 0.62778 | corr 0.59819 |
+2019-07-25 14:42:16,339 INFO 
+| epoch 121 |   100/  142 batches | lr 1.00 | ms/batch 222.37 | loss 343.229 | reward -0.436 | MSE 0.362 |
+2019-07-25 14:42:20,767 INFO 
+| epoch 121 |   120/  142 batches | lr 1.00 | ms/batch 221.40 | loss 337.551 | reward -0.429 | MSE 0.356 |
+2019-07-25 14:42:25,195 INFO 
+| epoch 121 |   140/  142 batches | lr 1.00 | ms/batch 221.36 | loss 350.788 | reward -0.44 | MSE 0.368 |
+2019-07-25 14:42:29,626 INFO 
+| epoch 122 |    18/  142 batches | lr 1.00 | ms/batch 199.37 | loss 286.776 | reward -0.371 | MSE 0.304 |
+2019-07-25 14:42:30,095 INFO 
+| epoch 122 | Validation |loss 183.462 | reward -0.69105 | MSE 0.61331 | corr 0.60559 |
+2019-07-25 14:42:34,539 INFO 
+| epoch 122 |    38/  142 batches | lr 1.00 | ms/batch 222.17 | loss 333.810 | reward -0.424 | MSE 0.352 |
+2019-07-25 14:42:38,882 INFO 
+| epoch 122 |    58/  142 batches | lr 1.00 | ms/batch 217.13 | loss 319.860 | reward -0.422 | MSE 0.348 |
+2019-07-25 14:42:43,328 INFO 
+| epoch 122 |    78/  142 batches | lr 1.00 | ms/batch 222.32 | loss 368.193 | reward -0.466 | MSE 0.393 |
+2019-07-25 14:42:47,750 INFO 
+| epoch 122 |    98/  142 batches | lr 1.00 | ms/batch 221.06 | loss 323.294 | reward -0.413 | MSE 0.342 |
+2019-07-25 14:42:48,245 INFO 
+| epoch 122 | Validation |loss 189.315 | reward -0.70922 | MSE 0.63288 | corr 0.59194 |
+2019-07-25 14:42:52,719 INFO 
+| epoch 122 |   118/  142 batches | lr 1.00 | ms/batch 223.68 | loss 331.429 | reward -0.42 | MSE 0.349 |
+2019-07-25 14:42:57,138 INFO 
+| epoch 122 |   138/  142 batches | lr 1.00 | ms/batch 220.95 | loss 319.477 | reward -0.415 | MSE 0.341 |
+2019-07-25 14:43:01,463 INFO 
+| epoch 123 |    16/  142 batches | lr 1.00 | ms/batch 172.08 | loss 255.850 | reward -0.335 | MSE 0.278 |
+2019-07-25 14:43:05,899 INFO 
+| epoch 123 |    36/  142 batches | lr 1.00 | ms/batch 221.79 | loss 337.634 | reward -0.419 | MSE 0.352 |
+2019-07-25 14:43:06,369 INFO 
+| epoch 123 | Validation |loss 191.942 | reward -0.71187 | MSE 0.64169 | corr 0.58345 |
+2019-07-25 14:43:10,824 INFO 
+| epoch 123 |    56/  142 batches | lr 1.00 | ms/batch 222.72 | loss 344.565 | reward -0.424 | MSE 0.357 |
+2019-07-25 14:43:15,247 INFO 
+| epoch 123 |    76/  142 batches | lr 1.00 | ms/batch 221.15 | loss 365.903 | reward -0.459 | MSE 0.387 |
+2019-07-25 14:43:19,678 INFO 
+| epoch 123 |    96/  142 batches | lr 1.00 | ms/batch 221.57 | loss 378.243 | reward -0.461 | MSE 0.394 |
+2019-07-25 14:43:24,124 INFO 
+| epoch 123 |   116/  142 batches | lr 1.00 | ms/batch 222.26 | loss 347.301 | reward -0.428 | MSE 0.363 |
+2019-07-25 14:43:24,606 INFO 
+| epoch 123 | Validation |loss 189.859 | reward -0.70413 | MSE 0.63458 | corr 0.59185 |
+2019-07-25 14:43:29,033 INFO 
+| epoch 123 |   136/  142 batches | lr 1.00 | ms/batch 221.33 | loss 346.037 | reward -0.433 | MSE 0.364 |
+2019-07-25 14:43:33,461 INFO 
+| epoch 124 |    14/  142 batches | lr 1.00 | ms/batch 154.98 | loss 254.973 | reward -0.318 | MSE 0.269 |
+2019-07-25 14:43:37,891 INFO 
+| epoch 124 |    34/  142 batches | lr 1.00 | ms/batch 221.49 | loss 326.754 | reward -0.421 | MSE 0.349 |
+2019-07-25 14:43:42,323 INFO 
+| epoch 124 |    54/  142 batches | lr 1.00 | ms/batch 221.59 | loss 312.011 | reward -0.405 | MSE 0.332 |
+2019-07-25 14:43:42,798 INFO 
+| epoch 124 | Validation |loss 183.990 | reward -0.69153 | MSE 0.615 | corr 0.57862 |
+2019-07-25 14:43:47,133 INFO 
+| epoch 124 |    74/  142 batches | lr 1.00 | ms/batch 216.75 | loss 310.333 | reward -0.414 | MSE 0.341 |
+2019-07-25 14:43:51,553 INFO 
+| epoch 124 |    94/  142 batches | lr 1.00 | ms/batch 221.00 | loss 325.346 | reward -0.418 | MSE 0.347 |
+2019-07-25 14:43:55,971 INFO 
+| epoch 124 |   114/  142 batches | lr 1.00 | ms/batch 220.87 | loss 319.844 | reward -0.416 | MSE 0.343 |
+2019-07-25 14:44:00,391 INFO 
+| epoch 124 |   134/  142 batches | lr 1.00 | ms/batch 221.01 | loss 359.465 | reward -0.452 | MSE 0.381 |
+2019-07-25 14:44:00,864 INFO 
+| epoch 124 | Validation |loss 205.687 | reward -0.76269 | MSE 0.68752 | corr 0.58509 |
+2019-07-25 14:44:05,294 INFO 
+| epoch 125 |    12/  142 batches | lr 1.00 | ms/batch 133.04 | loss 185.848 | reward -0.246 | MSE 0.201 |
+2019-07-25 14:44:09,720 INFO 
+| epoch 125 |    32/  142 batches | lr 1.00 | ms/batch 221.29 | loss 352.377 | reward -0.447 | MSE 0.376 |
+2019-07-25 14:44:14,157 INFO 
+| epoch 125 |    52/  142 batches | lr 1.00 | ms/batch 221.84 | loss 365.085 | reward -0.439 | MSE 0.376 |
+2019-07-25 14:44:18,584 INFO 
+| epoch 125 |    72/  142 batches | lr 1.00 | ms/batch 221.31 | loss 327.407 | reward -0.424 | MSE 0.351 |
+2019-07-25 14:44:19,049 INFO 
+| epoch 125 | Validation |loss 199.609 | reward -0.74762 | MSE 0.66716 | corr 0.59684 |
+2019-07-25 14:44:23,489 INFO 
+| epoch 125 |    92/  142 batches | lr 1.00 | ms/batch 221.96 | loss 332.510 | reward -0.429 | MSE 0.356 |
+2019-07-25 14:44:27,915 INFO 
+| epoch 125 |   112/  142 batches | lr 1.00 | ms/batch 221.29 | loss 319.481 | reward -0.411 | MSE 0.338 |
+2019-07-25 14:44:32,344 INFO 
+| epoch 125 |   132/  142 batches | lr 1.00 | ms/batch 221.43 | loss 334.288 | reward -0.428 | MSE 0.355 |
+2019-07-25 14:44:36,673 INFO 
+| epoch 126 |    10/  142 batches | lr 1.00 | ms/batch 110.54 | loss 148.973 | reward -0.199 | MSE 0.161 |
+2019-07-25 14:44:37,160 INFO 
+| epoch 126 | Validation |loss 192.702 | reward -0.72538 | MSE 0.64419 | corr 0.59637 |
+2019-07-25 14:44:41,591 INFO 
+| epoch 126 |    30/  142 batches | lr 1.00 | ms/batch 221.53 | loss 319.067 | reward -0.42 | MSE 0.343 |
+2019-07-25 14:44:45,922 INFO 
+| epoch 126 |    50/  142 batches | lr 1.00 | ms/batch 216.55 | loss 282.063 | reward -0.389 | MSE 0.312 |
+2019-07-25 14:44:50,351 INFO 
+| epoch 126 |    70/  142 batches | lr 1.00 | ms/batch 221.45 | loss 318.977 | reward -0.42 | MSE 0.344 |
+2019-07-25 14:44:54,773 INFO 
+| epoch 126 |    90/  142 batches | lr 1.00 | ms/batch 221.09 | loss 339.650 | reward -0.435 | MSE 0.362 |
+2019-07-25 14:44:55,248 INFO 
+| epoch 126 | Validation |loss 189.881 | reward -0.71079 | MSE 0.63458 | corr 0.58617 |
+2019-07-25 14:44:59,689 INFO 
+| epoch 126 |   110/  142 batches | lr 1.00 | ms/batch 222.09 | loss 304.618 | reward -0.395 | MSE 0.323 |
+2019-07-25 14:45:04,124 INFO 
+| epoch 126 |   130/  142 batches | lr 1.00 | ms/batch 221.71 | loss 310.152 | reward -0.405 | MSE 0.331 |
+2019-07-25 14:45:08,553 INFO 
+| epoch 127 |     8/  142 batches | lr 1.00 | ms/batch 88.50 | loss 118.951 | reward -0.159 | MSE 0.128 |
+2019-07-25 14:45:12,982 INFO 
+| epoch 127 |    28/  142 batches | lr 1.00 | ms/batch 221.41 | loss 292.434 | reward -0.392 | MSE 0.316 |
+2019-07-25 14:45:13,452 INFO 
+| epoch 127 | Validation |loss 186.497 | reward -0.70246 | MSE 0.62324 | corr 0.59254 |
+2019-07-25 14:45:17,894 INFO 
+| epoch 127 |    48/  142 batches | lr 1.00 | ms/batch 222.10 | loss 308.357 | reward -0.401 | MSE 0.328 |
+2019-07-25 14:45:22,329 INFO 
+| epoch 127 |    68/  142 batches | lr 1.00 | ms/batch 221.74 | loss 338.111 | reward -0.421 | MSE 0.353 |
+2019-07-25 14:45:26,657 INFO 
+| epoch 127 |    88/  142 batches | lr 1.00 | ms/batch 216.39 | loss 305.903 | reward -0.402 | MSE 0.330 |
+2019-07-25 14:45:31,086 INFO 
+| epoch 127 |   108/  142 batches | lr 1.00 | ms/batch 221.44 | loss 341.348 | reward -0.43 | MSE 0.358 |
+2019-07-25 14:45:31,569 INFO 
+| epoch 127 | Validation |loss 191.068 | reward -0.71434 | MSE 0.63836 | corr 0.58077 |
+2019-07-25 14:45:36,001 INFO 
+| epoch 127 |   128/  142 batches | lr 1.00 | ms/batch 221.59 | loss 330.478 | reward -0.419 | MSE 0.347 |
+2019-07-25 14:45:40,431 INFO 
+| epoch 128 |     6/  142 batches | lr 1.00 | ms/batch 66.49 | loss 96.230 | reward -0.122 | MSE 0.100 |
+2019-07-25 14:45:44,862 INFO 
+| epoch 128 |    26/  142 batches | lr 1.00 | ms/batch 221.53 | loss 312.967 | reward -0.407 | MSE 0.332 |
+2019-07-25 14:45:49,300 INFO 
+| epoch 128 |    46/  142 batches | lr 1.00 | ms/batch 221.92 | loss 310.280 | reward -0.407 | MSE 0.331 |
+2019-07-25 14:45:49,790 INFO 
+| epoch 128 | Validation |loss 180.615 | reward -0.68343 | MSE 0.60366 | corr 0.59970 |
+2019-07-25 14:45:54,210 INFO 
+| epoch 128 |    66/  142 batches | lr 1.00 | ms/batch 220.99 | loss 318.461 | reward -0.413 | MSE 0.338 |
+2019-07-25 14:45:58,531 INFO 
+| epoch 128 |    86/  142 batches | lr 1.00 | ms/batch 216.08 | loss 296.490 | reward -0.394 | MSE 0.319 |
+2019-07-25 14:46:02,955 INFO 
+| epoch 128 |   106/  142 batches | lr 1.00 | ms/batch 221.16 | loss 290.293 | reward -0.388 | MSE 0.311 |
+2019-07-25 14:46:07,382 INFO 
+| epoch 128 |   126/  142 batches | lr 1.00 | ms/batch 221.37 | loss 322.960 | reward -0.419 | MSE 0.344 |
+2019-07-25 14:46:07,862 INFO 
+| epoch 128 | Validation |loss 187.580 | reward -0.70725 | MSE 0.62691 | corr 0.60135 |
+2019-07-25 14:46:12,304 INFO 
+| epoch 129 |     4/  142 batches | lr 1.00 | ms/batch 44.24 | loss 57.510 | reward -0.0759 | MSE 0.061 |
+2019-07-25 14:46:16,748 INFO 
+| epoch 129 |    24/  142 batches | lr 1.00 | ms/batch 222.21 | loss 284.520 | reward -0.382 | MSE 0.305 |
+2019-07-25 14:46:21,179 INFO 
+| epoch 129 |    44/  142 batches | lr 1.00 | ms/batch 221.56 | loss 307.932 | reward -0.404 | MSE 0.328 |
+2019-07-25 14:46:25,598 INFO 
+| epoch 129 |    64/  142 batches | lr 1.00 | ms/batch 220.93 | loss 311.084 | reward -0.406 | MSE 0.331 |
+2019-07-25 14:46:26,068 INFO 
+| epoch 129 | Validation |loss 188.332 | reward -0.71195 | MSE 0.62944 | corr 0.58919 |
+2019-07-25 14:46:30,485 INFO 
+| epoch 129 |    84/  142 batches | lr 1.00 | ms/batch 220.87 | loss 303.112 | reward  -0.4 | MSE 0.324 |
+2019-07-25 14:46:34,913 INFO 
+| epoch 129 |   104/  142 batches | lr 1.00 | ms/batch 221.38 | loss 334.193 | reward -0.429 | MSE 0.354 |
+2019-07-25 14:46:39,237 INFO 
+| epoch 129 |   124/  142 batches | lr 1.00 | ms/batch 216.22 | loss 326.906 | reward -0.413 | MSE 0.343 |
+2019-07-25 14:46:43,668 INFO 
+| epoch 130 |     2/  142 batches | lr 1.00 | ms/batch 22.17 | loss 38.204 | reward -0.0453 | MSE 0.039 |
+2019-07-25 14:46:44,153 INFO 
+| epoch 130 | Validation |loss 185.728 | reward -0.69594 | MSE 0.62088 | corr 0.59219 |
+2019-07-25 14:46:48,781 INFO 
+| epoch 130 |    22/  142 batches | lr 1.00 | ms/batch 231.39 | loss 341.625 | reward -0.422 | MSE 0.352 |
+2019-07-25 14:46:54,464 INFO 
+| epoch 130 |    42/  142 batches | lr 1.00 | ms/batch 284.15 | loss 349.914 | reward -0.427 | MSE 0.358 |
+2019-07-25 14:47:01,223 INFO 
+| epoch 130 |    62/  142 batches | lr 1.00 | ms/batch 337.93 | loss 334.108 | reward -0.417 | MSE 0.346 |
+2019-07-25 14:47:07,458 INFO 
+| epoch 130 |    82/  142 batches | lr 1.00 | ms/batch 311.73 | loss 335.384 | reward -0.427 | MSE 0.355 |
+2019-07-25 14:47:08,425 INFO 
+| epoch 130 | Validation |loss 186.159 | reward -0.70117 | MSE 0.62214 | corr 0.59193 |
+2019-07-25 14:47:14,602 INFO 
+| epoch 130 |   102/  142 batches | lr 1.00 | ms/batch 308.84 | loss 311.916 | reward -0.401 | MSE 0.327 |
+2019-07-25 14:47:21,723 INFO 
+| epoch 130 |   122/  142 batches | lr 1.00 | ms/batch 356.00 | loss 337.433 | reward -0.421 | MSE 0.350 |
+2019-07-25 14:47:26,495 INFO 
+| epoch 130 |   142/  142 batches | lr 1.00 | ms/batch 238.60 | loss 334.933 | reward -0.427 | MSE 0.354 |
+2019-07-25 14:47:30,922 INFO 
+| epoch 131 |    20/  142 batches | lr 1.00 | ms/batch 221.32 | loss 314.590 | reward -0.404 | MSE 0.330 |
+2019-07-25 14:47:31,404 INFO 
+| epoch 131 | Validation |loss 187.742 | reward -0.70494 | MSE 0.62763 | corr 0.59379 |
+2019-07-25 14:47:35,836 INFO 
+| epoch 131 |    40/  142 batches | lr 1.00 | ms/batch 221.59 | loss 342.218 | reward -0.419 | MSE 0.351 |
+2019-07-25 14:47:40,268 INFO 
+| epoch 131 |    60/  142 batches | lr 1.00 | ms/batch 221.58 | loss 320.900 | reward -0.412 | MSE 0.338 |
+2019-07-25 14:47:44,591 INFO 
+| epoch 131 |    80/  142 batches | lr 1.00 | ms/batch 216.18 | loss 306.689 | reward -0.408 | MSE 0.333 |
+2019-07-25 14:47:49,018 INFO 
+| epoch 131 |   100/  142 batches | lr 1.00 | ms/batch 221.31 | loss 307.122 | reward -0.399 | MSE 0.325 |
+2019-07-25 14:47:49,487 INFO 
+| epoch 131 | Validation |loss 191.889 | reward -0.71983 | MSE 0.64128 | corr 0.58309 |
+2019-07-25 14:47:54,040 INFO 
+| epoch 131 |   120/  142 batches | lr 1.00 | ms/batch 227.63 | loss 292.045 | reward -0.385 | MSE 0.311 |
+2019-07-25 14:47:59,446 INFO 
+| epoch 131 |   140/  142 batches | lr 1.00 | ms/batch 270.26 | loss 315.331 | reward -0.401 | MSE 0.329 |
+2019-07-25 14:48:06,509 INFO 
+| epoch 132 |    18/  142 batches | lr 1.00 | ms/batch 317.41 | loss 273.119 | reward -0.351 | MSE 0.287 |
+2019-07-25 14:48:12,608 INFO 
+| epoch 132 |    38/  142 batches | lr 1.00 | ms/batch 304.90 | loss 319.374 | reward -0.41 | MSE 0.337 |
+2019-07-25 14:48:13,588 INFO 
+| epoch 132 | Validation |loss 191.821 | reward -0.71864 | MSE 0.64105 | corr 0.59020 |
+2019-07-25 14:48:19,705 INFO 
+| epoch 132 |    58/  142 batches | lr 1.00 | ms/batch 305.81 | loss 305.349 | reward -0.396 | MSE 0.323 |
+2019-07-25 14:48:26,837 INFO 
+| epoch 132 |    78/  142 batches | lr 1.00 | ms/batch 356.60 | loss 311.720 | reward -0.402 | MSE 0.328 |
+2019-07-25 14:48:32,162 INFO 
+| epoch 132 |    98/  142 batches | lr 1.00 | ms/batch 266.26 | loss 344.890 | reward -0.434 | MSE 0.363 |
+2019-07-25 14:48:36,655 INFO 
+| epoch 132 |   118/  142 batches | lr 1.00 | ms/batch 224.61 | loss 337.523 | reward -0.415 | MSE 0.349 |
+2019-07-25 14:48:37,148 INFO 
+| epoch 132 | Validation |loss 192.503 | reward -0.71162 | MSE 0.64353 | corr 0.58331 |
+2019-07-25 14:48:41,583 INFO 
+| epoch 132 |   138/  142 batches | lr 1.00 | ms/batch 221.77 | loss 356.132 | reward -0.433 | MSE 0.366 |
+2019-07-25 14:48:45,915 INFO 
+| epoch 133 |    16/  142 batches | lr 1.00 | ms/batch 177.35 | loss 283.415 | reward -0.348 | MSE 0.294 |
+2019-07-25 14:48:50,343 INFO 
+| epoch 133 |    36/  142 batches | lr 1.00 | ms/batch 221.38 | loss 296.575 | reward -0.388 | MSE 0.315 |
+2019-07-25 14:48:54,772 INFO 
+| epoch 133 |    56/  142 batches | lr 1.00 | ms/batch 221.44 | loss 316.428 | reward -0.413 | MSE 0.338 |
+2019-07-25 14:48:55,261 INFO 
+| epoch 133 | Validation |loss 184.238 | reward -0.69612 | MSE 0.61576 | corr 0.59401 |
+2019-07-25 14:48:59,697 INFO 
+| epoch 133 |    76/  142 batches | lr 1.00 | ms/batch 221.80 | loss 303.107 | reward -0.403 | MSE 0.327 |
+2019-07-25 14:49:04,124 INFO 
+| epoch 133 |    96/  142 batches | lr 1.00 | ms/batch 221.32 | loss 311.109 | reward -0.408 | MSE 0.333 |
+2019-07-25 14:49:08,551 INFO 
+| epoch 133 |   116/  142 batches | lr 1.00 | ms/batch 221.35 | loss 305.745 | reward -0.401 | MSE 0.326 |
+2019-07-25 14:49:12,879 INFO 
+| epoch 133 |   136/  142 batches | lr 1.00 | ms/batch 216.39 | loss 286.089 | reward -0.384 | MSE 0.309 |
+2019-07-25 14:49:13,344 INFO 
+| epoch 133 | Validation |loss 189.189 | reward -0.71091 | MSE 0.6324 | corr 0.58910 |
+2019-07-25 14:49:17,775 INFO 
+| epoch 134 |    14/  142 batches | lr 1.00 | ms/batch 154.92 | loss 200.394 | reward -0.266 | MSE 0.213 |
+2019-07-25 14:49:22,201 INFO 
+| epoch 134 |    34/  142 batches | lr 1.00 | ms/batch 221.32 | loss 297.699 | reward -0.398 | MSE 0.321 |
+2019-07-25 14:49:26,629 INFO 
+| epoch 134 |    54/  142 batches | lr 1.00 | ms/batch 221.37 | loss 308.077 | reward -0.398 | MSE 0.325 |
+2019-07-25 14:49:31,058 INFO 
+| epoch 134 |    74/  142 batches | lr 1.00 | ms/batch 221.45 | loss 313.116 | reward -0.403 | MSE 0.331 |
+2019-07-25 14:49:31,546 INFO 
+| epoch 134 | Validation |loss 187.988 | reward -0.70778 | MSE 0.6282 | corr 0.59051 |
+2019-07-25 14:49:35,977 INFO 
+| epoch 134 |    94/  142 batches | lr 1.00 | ms/batch 221.51 | loss 296.166 | reward -0.396 | MSE 0.319 |
+2019-07-25 14:49:40,405 INFO 
+| epoch 134 |   114/  142 batches | lr 1.00 | ms/batch 221.43 | loss 303.112 | reward -0.406 | MSE 0.328 |
+2019-07-25 14:49:44,741 INFO 
+| epoch 134 |   134/  142 batches | lr 1.00 | ms/batch 216.77 | loss 277.103 | reward -0.378 | MSE 0.302 |
+2019-07-25 14:49:49,168 INFO 
+| epoch 135 |    12/  142 batches | lr 1.00 | ms/batch 132.80 | loss 178.330 | reward -0.234 | MSE 0.190 |
+2019-07-25 14:49:49,649 INFO 
+| epoch 135 | Validation |loss 188.600 | reward -0.71046 | MSE 0.63046 | corr 0.60167 |
+2019-07-25 14:49:54,079 INFO 
+| epoch 135 |    32/  142 batches | lr 1.00 | ms/batch 221.47 | loss 294.007 | reward -0.394 | MSE 0.317 |
+2019-07-25 14:49:58,521 INFO 
+| epoch 135 |    52/  142 batches | lr 1.00 | ms/batch 222.09 | loss 290.091 | reward -0.387 | MSE 0.311 |
+2019-07-25 14:50:02,970 INFO 
+| epoch 135 |    72/  142 batches | lr 1.00 | ms/batch 222.48 | loss 288.076 | reward -0.381 | MSE 0.306 |
+2019-07-25 14:50:07,328 INFO 
+| epoch 135 |    92/  142 batches | lr 1.00 | ms/batch 217.88 | loss 305.901 | reward -0.404 | MSE 0.330 |
+2019-07-25 14:50:07,798 INFO 
+| epoch 135 | Validation |loss 188.237 | reward -0.70645 | MSE 0.62933 | corr 0.59815 |
+2019-07-25 14:50:12,236 INFO 
+| epoch 135 |   112/  142 batches | lr 1.00 | ms/batch 221.89 | loss 281.527 | reward -0.37 | MSE 0.297 |
+2019-07-25 14:50:16,669 INFO 
+| epoch 135 |   132/  142 batches | lr 1.00 | ms/batch 221.68 | loss 296.565 | reward -0.386 | MSE 0.313 |
+2019-07-25 14:50:21,096 INFO 
+| epoch 136 |    10/  142 batches | lr 1.00 | ms/batch 110.62 | loss 148.986 | reward -0.199 | MSE 0.160 |
+2019-07-25 14:50:25,544 INFO 
+| epoch 136 |    30/  142 batches | lr 1.00 | ms/batch 222.42 | loss 285.845 | reward -0.384 | MSE 0.307 |
+2019-07-25 14:50:26,041 INFO 
+| epoch 136 | Validation |loss 189.078 | reward -0.71252 | MSE 0.63202 | corr 0.60009 |
+2019-07-25 14:50:30,554 INFO 
+| epoch 136 |    50/  142 batches | lr 1.00 | ms/batch 225.67 | loss 280.623 | reward -0.376 | MSE 0.300 |
+2019-07-25 14:50:35,132 INFO 
+| epoch 136 |    70/  142 batches | lr 1.00 | ms/batch 228.87 | loss 321.560 | reward -0.41 | MSE 0.339 |
+2019-07-25 14:50:39,564 INFO 
+| epoch 136 |    90/  142 batches | lr 1.00 | ms/batch 221.57 | loss 306.603 | reward -0.396 | MSE 0.323 |
+2019-07-25 14:50:43,886 INFO 
+| epoch 136 |   110/  142 batches | lr 1.00 | ms/batch 216.13 | loss 277.350 | reward -0.375 | MSE 0.300 |
+2019-07-25 14:50:44,356 INFO 
+| epoch 136 | Validation |loss 199.925 | reward -0.74579 | MSE 0.66826 | corr 0.58831 |
+2019-07-25 14:50:48,778 INFO 
+| epoch 136 |   130/  142 batches | lr 1.00 | ms/batch 221.10 | loss 283.437 | reward -0.372 | MSE 0.299 |
+2019-07-25 14:50:53,198 INFO 
+| epoch 137 |     8/  142 batches | lr 1.00 | ms/batch 88.38 | loss 117.380 | reward -0.155 | MSE 0.125 |
+2019-07-25 14:50:57,621 INFO 
+| epoch 137 |    28/  142 batches | lr 1.00 | ms/batch 221.14 | loss 274.519 | reward -0.37 | MSE 0.294 |
+2019-07-25 14:51:02,051 INFO 
+| epoch 137 |    48/  142 batches | lr 1.00 | ms/batch 221.49 | loss 288.818 | reward -0.387 | MSE 0.310 |
+2019-07-25 14:51:02,536 INFO 
+| epoch 137 | Validation |loss 186.115 | reward -0.70214 | MSE 0.6221 | corr 0.60068 |
+2019-07-25 14:51:06,972 INFO 
+| epoch 137 |    68/  142 batches | lr 1.00 | ms/batch 221.80 | loss 268.043 | reward -0.365 | MSE 0.287 |
+2019-07-25 14:51:11,400 INFO 
+| epoch 137 |    88/  142 batches | lr 1.00 | ms/batch 221.38 | loss 262.287 | reward -0.362 | MSE 0.283 |
+2019-07-25 14:51:15,830 INFO 
+| epoch 137 |   108/  142 batches | lr 1.00 | ms/batch 221.50 | loss 290.569 | reward -0.395 | MSE 0.316 |
+2019-07-25 14:51:20,152 INFO 
+| epoch 137 |   128/  142 batches | lr 1.00 | ms/batch 216.10 | loss 259.328 | reward -0.365 | MSE 0.286 |
+2019-07-25 14:51:20,632 INFO 
+| epoch 137 | Validation |loss 190.018 | reward -0.71687 | MSE 0.63514 | corr 0.59629 |
+2019-07-25 14:51:25,085 INFO 
+| epoch 138 |     6/  142 batches | lr 1.00 | ms/batch 66.66 | loss 89.308 | reward -0.122 | MSE 0.098 |
+2019-07-25 14:51:29,529 INFO 
+| epoch 138 |    26/  142 batches | lr 1.00 | ms/batch 222.18 | loss 261.064 | reward -0.366 | MSE 0.286 |
+2019-07-25 14:51:33,853 INFO 
+| epoch 138 |    46/  142 batches | lr 1.00 | ms/batch 216.21 | loss 266.638 | reward -0.376 | MSE 0.296 |
+2019-07-25 14:51:38,285 INFO 
+| epoch 138 |    66/  142 batches | lr 1.00 | ms/batch 221.61 | loss 276.608 | reward -0.381 | MSE 0.301 |
+2019-07-25 14:51:38,759 INFO 
+| epoch 138 | Validation |loss 192.065 | reward -0.72375 | MSE 0.64196 | corr 0.59813 |
+2019-07-25 14:51:43,188 INFO 
+| epoch 138 |    86/  142 batches | lr 1.00 | ms/batch 221.45 | loss 265.343 | reward -0.368 | MSE 0.289 |
+2019-07-25 14:51:47,628 INFO 
+| epoch 138 |   106/  142 batches | lr 1.00 | ms/batch 222.02 | loss 266.234 | reward -0.367 | MSE 0.288 |
+2019-07-25 14:51:52,057 INFO 
+| epoch 138 |   126/  142 batches | lr 1.00 | ms/batch 221.43 | loss 260.919 | reward -0.36 | MSE 0.282 |
+2019-07-25 14:51:56,485 INFO 
+| epoch 139 |     4/  142 batches | lr 1.00 | ms/batch 44.25 | loss 50.754 | reward -0.0709 | MSE 0.055 |
+2019-07-25 14:51:56,956 INFO 
+| epoch 139 | Validation |loss 182.121 | reward -0.69 | MSE 0.60876 | corr 0.60686 |
+2019-07-25 14:52:01,376 INFO 
+| epoch 139 |    24/  142 batches | lr 1.00 | ms/batch 221.00 | loss 263.217 | reward -0.364 | MSE 0.285 |
+2019-07-25 14:52:05,807 INFO 
+| epoch 139 |    44/  142 batches | lr 1.00 | ms/batch 221.58 | loss 274.036 | reward -0.373 | MSE 0.295 |
+2019-07-25 14:52:10,241 INFO 
+| epoch 139 |    64/  142 batches | lr 1.00 | ms/batch 221.64 | loss 282.988 | reward -0.379 | MSE 0.303 |
+2019-07-25 14:52:14,682 INFO 
+| epoch 139 |    84/  142 batches | lr 1.00 | ms/batch 222.09 | loss 288.727 | reward -0.375 | MSE 0.303 |
+2019-07-25 14:52:15,158 INFO 
+| epoch 139 | Validation |loss 186.250 | reward -0.69862 | MSE 0.62248 | corr 0.59551 |
+2019-07-25 14:52:19,595 INFO 
+| epoch 139 |   104/  142 batches | lr 1.00 | ms/batch 221.83 | loss 288.562 | reward -0.379 | MSE 0.306 |
+2019-07-25 14:52:23,921 INFO 
+| epoch 139 |   124/  142 batches | lr 1.00 | ms/batch 216.30 | loss 285.626 | reward -0.382 | MSE 0.309 |
+2019-07-25 14:52:31,203 INFO 
+| fold 2  | loss 187.465 | reward -0.7013 | MSE 0.6265|corr 0.58207 | average rationale length 9.013

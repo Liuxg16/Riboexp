@@ -1,0 +1,1 @@
+{"n_repeat": 3, "device_ids": [0, 1, 2, 3], "clip_grad": 1, "optim": "adadelta", "mark": "mark", "data_path": "data/yeast", "L": 0, "n_tokens": 65, "drate": 0.4, "fold": 1, "window": 10, "seed": 1234, "lambda1": 0.0083, "n_hids": 512, "max_norm": 3, "weight_decay": 0.0, "parallel": false}
