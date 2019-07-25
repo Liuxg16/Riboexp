@@ -1,0 +1,1 @@
+data/yeast/energy/energy.fold filter=lfs diff=lfs merge=lfs -text
