@@ -94,9 +94,9 @@ class RiboexpModel(nn.Module):
         self.foldsize = self.hidden_size/2
         
         if self.kwargs['no_structure']:
-            self.encoder_g = nn.GRU(self.input_n, self.n_hids,1,batch_first =True, bidirectional=True)
-            self.generator = PolicyNet(2*self.n_hids, self.n_hids, self.num_labels,self.length)
-            self.encoder = nn.GRU(self.input_n, self.n_hids,1, batch_first =True, bidirectional=True)
+            self.encoder_g = nn.GRU(self.input_n, self.n_hids,1,dropout = self.drate,batch_first =True, bidirectional=True)
+            self.generator = PolicyNet(2*self.n_hids, self.n_hids, self.num_labels,self.length,drate = self.drate)
+            self.encoder = nn.GRU(self.input_n, self.n_hids,1,dropout = self.drate, batch_first =True, bidirectional=True)
             self.n_fc = self.n_hids*2
         else:
             self.encoder_g = nn.GRU(self.input_n, self.n_hids,1,dropout = self.drate,batch_first =True, bidirectional=True)
