@@ -1,5 +1,6 @@
 # Riboexp
-![](data/riboexp.PNG)
+<img src="data/riboexp.PNG" width="600" align="center">
+
 This is the implementation of the paper entitled "Rationalizing Translation Elongation by Reinforcement Learning"
 Here we provide servaral functions as follows:
 1. Reproduce some results in our paper (cross-validation performance)
