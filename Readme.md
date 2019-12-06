@@ -17,6 +17,12 @@ pytorch  0.3.1
 numpy    1.14.3
 scipy    1.0.1
 ```
+# Building the environment
+```
+pip install -r requirement.txt
+```
+
+
 # 1. To test Riboexp using a model that has been already trained on a particular fold.
 Command:
 ```
